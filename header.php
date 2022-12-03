@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="site-header__flex">
                     <div class="site-header__logo">
-                        <a href="index.html">
+                        <a href="<?=root?>/index">
                             <img src="<?=root?>/wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Development Logo"
                                 width="380" height="80" />
                         </a>

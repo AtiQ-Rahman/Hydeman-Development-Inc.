@@ -409,21 +409,21 @@
                         <ul id="menu-services-nav-menu" class="menu">
                             <li id="menu-item-514"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a
-                                    href="../commercial-brokerage/index.html">Commercial<br>Brokerage</a></li>
+                                    href="../commercial-brokerage/">Commercial<br>Brokerage</a></li>
                             <li id="menu-item-513"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a
-                                    href="../property-management/index.html">Property<br>Management</a></li>
+                                    href="../property-management/">Property<br>Management</a></li>
                             <li id="menu-item-512"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a
-                                    href="../asset-management-financial-services/index.html">Asset Management<br>&#038;
+                                    href="../asset-management-financial-services/">Asset Management<br>&#038;
                                     Financial Services</a></li>
                             <li id="menu-item-511"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
-                                    href="../construction-project-management/index.html">Construction<br>Project
+                                    href="../construction-project-management/">Construction<br>Project
                                     Management</a></li>
                             <li id="menu-item-510"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
-                                    href="../software-services/index.html">Software<br>Development</a></li>
+                                    href="../software-services/">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-325 current_page_item menu-item-509">
                                 <a href="index.html" aria-current="page">Readymade <br>Garments</a></li>
@@ -643,7 +643,7 @@
 
                             <li>
 
-                                <a href="../commercial-brokerage/index.html" target="">
+                                <a href="../commercial-brokerage/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
                                         alt="Commercial Brokerage" />
@@ -657,7 +657,7 @@
 
                             <li>
 
-                                <a href="../property-management/index.html" target="">
+                                <a href="../property-management/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
                                         alt="Property Management" />
@@ -671,7 +671,7 @@
 
                             <li>
 
-                                <a href="../asset-management-financial-services/index.html" target="">
+                                <a href="../asset-management-financial-services/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
                                         alt="Asset Management" />
@@ -685,7 +685,7 @@
 
                             <li>
 
-                                <a href="../construction-project-management/index.html" target="">
+                                <a href="../construction-project-management/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
                                         alt="Construction Project Management" />
@@ -699,7 +699,7 @@
 
                             <li>
 
-                                <a href="../software-services/index.html" target="">
+                                <a href="../software-services/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-software.png"
                                         alt="Software Development" />
@@ -933,20 +933,20 @@
                         title="Close Menu"></a></p>
             <ul class="pop-out-nav-parent-wrapper">
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../our-story/index.html" class="subParent  ">About Us</a>
+                        href="../our-story/" class="subParent  ">About Us</a>
                     <ul class="subNav">
-                        <li><a href="../our-story/index.html">Our Story</a>
-                        <li><a href="../our-team/index.html">Team</a>
+                        <li><a href="../our-story/">Our Story</a>
+                        <li><a href="../our-team/">Team</a>
                     </ul>
                 </li>
                 <li class="subParent currentParent  subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent currentParent ">Services</a>
+                        href="../commercial-brokerage/" class="subParent currentParent ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a href="../property-management/index.html">Property Management</a>
-                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
+                        <li><a href="../commercial-brokerage/">Commercial Brokerage</a>
+                        <li><a href="../property-management/">Property Management</a>
+                        <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
+                        <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
                         <li><a class="current" href="index.html">Readymade Garments</a>
                     </ul>

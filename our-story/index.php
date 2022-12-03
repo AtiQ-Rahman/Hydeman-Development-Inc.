@@ -491,7 +491,7 @@
                         <p style="text-align: center;">Customers are our only “THE” priority of Hydeman Development. We
                             like to exceed the expectation of our customers</p>
                         <p style="text-align: center;"><a class="btn" style="text-align: center;"
-                                href="../our-team/index.html">Meet Our Team</a></p>
+                                href="../our-team/">Meet Our Team</a></p>
                     </div>
                 </div>
 
@@ -518,7 +518,7 @@
 
                             <li>
 
-                                <a href="../commercial-brokerage/index.html" target="">
+                                <a href="../commercial-brokerage/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
                                         alt="Commercial Brokerage" />
@@ -532,7 +532,7 @@
 
                             <li>
 
-                                <a href="../property-management/index.html" target="">
+                                <a href="../property-management/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
                                         alt="Property Management" />
@@ -546,7 +546,7 @@
 
                             <li>
 
-                                <a href="../asset-management-financial-services/index.html" target="">
+                                <a href="../asset-management-financial-services/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
                                         alt="Asset Management" />
@@ -560,7 +560,7 @@
 
                             <li>
 
-                                <a href="../construction-project-management/index.html" target="">
+                                <a href="../construction-project-management/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
                                         alt="Construction Project Management" />
@@ -574,7 +574,7 @@
 
                             <li>
 
-                                <a href="../software-services/index.html" target="">
+                                <a href="../software-services/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-software.png"
                                         alt="Software Development" />
@@ -588,7 +588,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/index.html" target="">
+                                <a href="../development-acquisitions/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -607,7 +607,7 @@
 
 
                         <div align="center">
-                            <a class="btn" href="../commercial-brokerage/index.html" target="">
+                            <a class="btn" href="../commercial-brokerage/" target="">
                                 Explore Our Services </a>
                         </div>
 
@@ -884,19 +884,19 @@
                         href="index.html" class="subParent currentParent current">About Us</a>
                     <ul class="subNav">
                         <li><a class="current" href="index.html">Our Story</a>
-                        <li><a href="../our-team/index.html">Team</a>
+                        <li><a href="../our-team/">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
+                        href="../commercial-brokerage/" class="subParent  ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a href="../property-management/index.html">Property Management</a>
-                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
+                        <li><a href="../commercial-brokerage/">Commercial Brokerage</a>
+                        <li><a href="../property-management/">Property Management</a>
+                        <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
+                        <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
+                        <li><a href="../development-acquisitions/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>
