@@ -5,7 +5,7 @@
 
             <div class="logo-section">
 
-                <a href="index.html">
+                <a href="<?=root?>">
 
                     <img src="<?=root?>/wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
                         height="100" />
@@ -15,27 +15,27 @@
 
                 <div class="footer-social">
 
-                    <a href="https://www.linkedin.com/company/mcwhirter-realty-partners/" target="_blank">
-                        <img class="up" src="wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
-                        <img class="over" src="wp-content/uploads/2020/07/s-icon-in-green.png" alt="linkedin" />
+                    <a>
+                        <img class="up" src="<?=root?>/wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
+                        <img class="over" src="<?=root?>/wp-content/uploads/2020/07/s-icon-in-green.png" alt="linkedin" />
                     </a>
 
 
-                    <a href="https://www.facebook.com/mcwrealty" target="_blank">
-                        <img class="up" src="wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
-                        <img class="over" src="wp-content/uploads/2020/07/s-icon-fb-green.png" alt="facebook" />
+                    <a>
+                        <img class="up" src="<?=root?>/wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
+                        <img class="over" src="<?=root?>/wp-content/uploads/2020/07/s-icon-fb-green.png" alt="facebook" />
                     </a>
 
 
-                    <a href="https://twitter.com/mcwhirterrealty" target="_blank">
-                        <img class="up" src="wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
-                        <img class="over" src="wp-content/uploads/2020/07/s-icon-tw-green.png" alt="twitter" />
+                    <a>
+                        <img class="up" src="<?=root?>/wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
+                        <img class="over" src="<?=root?>/wp-content/uploads/2020/07/s-icon-tw-green.png" alt="twitter" />
                     </a>
 
 
-                    <a href="mailto:info@mcwrealty.com" target="_blank">
-                        <img class="up" src="wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
-                        <img class="over" src="wp-content/uploads/2020/07/s-icon-email-green.png" alt="email" />
+                    <a href="mailto:w.hydeman@sasktel.net" target="_blank">
+                        <img class="up" src="<?=root?>/wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
+                        <img class="over" src="<?=root?>/wp-content/uploads/2020/07/s-icon-email-green.png" alt="email" />
                     </a>
 
                 </div>
@@ -61,7 +61,7 @@
 
             </div>
 
-            <div class="subscribe-section">
+            <div class="subscribe-section" style = "margin-top:50px">
 
                 <h3>Subscribe to our Newsletter</h3>
                 Get the latest news and updates delivered to your inbox quarterly.<br>
@@ -138,7 +138,7 @@
 
 
 
-                <div class="footer-logos">
+                <!-- <div class="footer-logos">
 
                     <img src="<?=root?>/wp-content/uploads/2020/07/footer-cbr.png" alt="CBR" />
 
@@ -151,7 +151,7 @@
 
                     <img src="<?=root?>/wp-content/uploads/2020/07/footer-boma.png" alt="BOMA" />
 
-                </div>
+                </div> -->
 
             </div>
 

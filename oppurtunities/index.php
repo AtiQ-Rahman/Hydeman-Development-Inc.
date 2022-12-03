@@ -1,3 +1,4 @@
+<?php $active_menu=2;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -438,7 +439,7 @@
 
         </section>
 
-        <?php include('..footer.php')?>
+        <?php include('../footer.php')?>
 
         <nav id="pop-out-nav-wrapper">
             <p class="m-0"><a href="../index.html" id="nav-logo"></a> <a href="#" id="close"><img

@@ -37,26 +37,7 @@
                                             <li id="menu-item-389"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
                                                 <a href="<?=root?>/commercial-brokerage/">Commercial Brokerage</a>
-                                                <div>
-                                                    <ul class="sub-sub-menu">
-                                                        <li
-                                                          id="menu-item-389"
-                                                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"
-                                                        >
-                                                          <a href="<?=root?>/commercial-brokerage/"
-                                                            >Commercial Brokerage</a
-                                                          >
-                                                        </li>
-                                                        <li
-                                                          id="menu-item-390"
-                                                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
-                                                        >
-                                                          <a href="<?=root?>/property-management/"
-                                                            >Property Management</a
-                                                          >
-                                                        </li>
-                                                      </ul>
-                                                  </div>
+                                                
                                             </li>
                                             <li id="menu-item-390"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
@@ -73,7 +54,7 @@
                                                     Project Management</a></li>
                                             <li id="menu-item-393"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="<?=root?>/reo-services/">Software Development</a></li>
+                                                <a href="<?=root?>/software-services/">Software Development</a></li>
                                             <li id="menu-item-394"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
                                                 <a href="<?=root?>/development-acquisitions/">Readymade Garments</a></li>
@@ -81,31 +62,31 @@
                                     </li>
                                     <li id="menu-item-397"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="<?=root?>/listings/" class="<?=$active_menu==2?'active-menu':''?>">Investment</a>
+                                        <a href="<?=root?>/oppurtunities/" class="<?=$active_menu==2?'active-menu':''?>">Investment</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-399"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="<?=root?>/our-story/">Opportunities</a></li>
+                                                <a href="<?=root?>/oppurtunities/">Opportunities</a></li>
                                             <li id="menu-item-396"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="<?=root?>/our-team/">Immigration</a></li>
+                                                <a href="<?=root?>/immigration/">Immigration</a></li>
                                         </ul>
                                     </li>
                                     
                                     <li id="menu-item-398"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="<?=root?>/blog/" class="<?=$active_menu==3?'active-menu':''?>">Farmland</a>
+                                        <a href="<?=root?>/farmland/" class="<?=$active_menu==3?'active-menu':''?>">Farmland</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-399"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="<?=root?>/our-story/">Classifications</a>
+                                                <a href="<?=root?>/farmland/">Classifications</a>
                                                 <div>
                                                     <ul class="sub-sub-menu">
                                                         <li
                                                             id="menu-item-389"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"
                                                         >
-                                                            <a href="<?=root?>/commercial-brokerage/"
+                                                            <a href="<?=root?>/farmland/"
                                                             >Wheat</a
                                                             >
                                                             <div>
@@ -114,7 +95,7 @@
                                                                         id="menu-item-389"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389"
                                                                     >
-                                                                        <a href="<?=root?>/commercial-brokerage/"
+                                                                        <a href="<?=root?>/farmland/"
                                                                         >Grade-1</a
                                                                         >
                                                                         
@@ -123,7 +104,7 @@
                                                                         id="menu-item-390"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                                     >
-                                                                        <a href="<?=root?>/property-management/"
+                                                                        <a href="<?=root?>/farmland/"
                                                                         >Grade-2</a
                                                                         >
                                                                     </li>
@@ -131,7 +112,7 @@
                                                                         id="menu-item-390"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                                     >
-                                                                        <a href="<?=root?>/property-management/"
+                                                                        <a href="<?=root?>/farmland/"
                                                                         >Grade-3</a
                                                                         >
                                                                     </li>
@@ -139,7 +120,7 @@
                                                                         id="menu-item-390"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                                     >
-                                                                        <a href="<?=root?>/property-management/"
+                                                                        <a href="<?=root?>/farmland/"
                                                                         >Grade-4</a
                                                                         >
                                                                     </li>
@@ -147,7 +128,7 @@
                                                                         id="menu-item-390"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                                     >
-                                                                        <a href="<?=root?>/property-management/"
+                                                                        <a href="<?=root?>/farmland/"
                                                                         >Grade-5(Animal Food)</a
                                                                         >
                                                                     </li>
@@ -158,7 +139,7 @@
                                                             id="menu-item-390"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                         >
-                                                            <a href="<?=root?>/property-management/"
+                                                            <a href="<?=root?>/farmland/"
                                                             >Bean</a
                                                             >
                                                         </li>
@@ -166,16 +147,17 @@
                                                             id="menu-item-390"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"
                                                         >
-                                                            <a href="<?=root?>/property-management/"
+                                                            <a href="<?=root?>/farmland/"
                                                             >Lentil</a
                                                             >
                                                         </li>
                                                         </ul>
                                                     </div>
                                             </li>
-                                            <li id="menu-item-396"
+                                            <!-- <li id="menu-item-396"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="<?=root?>/our-team/">Export</a></li>
+                                                <a href="<?=root?>/our-team/">Export</a>
+                                            </li> -->
                                         </ul>
                                     </li>
                                     <li id="menu-item-537"

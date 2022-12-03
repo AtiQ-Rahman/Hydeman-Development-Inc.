@@ -1,3 +1,4 @@
+<?php $active_menu=0;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -404,7 +405,7 @@
                 <div class="container">
                     <div class="team-members-list">
                         <div class="team-member">
-                            <a href="hydeman/index.html">
+                            <a href="hydeman">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpg"
@@ -416,7 +417,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="shams/index.html">
+                            <a href="shams">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/shams.jpg"
@@ -428,7 +429,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="Wassermann/index.html">
+                            <a href="Wassermann">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Wasserman.jpg"
@@ -440,7 +441,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="pankaj/index.html">
+                            <a href="pankaj">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/pankaj.png"
@@ -452,7 +453,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="shihab/index.html">
+                            <a href="shihab">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Shihab.jpg"
@@ -464,7 +465,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="atiq/index.html">
+                            <a href="atiq">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Atiq.jpg"
@@ -476,7 +477,7 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="Ezaz/index.html">
+                            <a href="Ezaz">
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Azaz.jpg"

@@ -1,3 +1,4 @@
+<?php $active_menu=0;?>
 <!DOCTYPE html>
 <html lang="en-US">
 

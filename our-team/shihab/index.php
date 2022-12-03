@@ -1,3 +1,4 @@
+<?php $active_menu=0;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -402,7 +403,7 @@
         <main>
             <div class="team-single-back">
                 <div class="container">
-                    <a href="../index.html">
+                    <a href="<?=root?>/our-team/">
                         <img src="../../wp-content/themes/devsavvy/images/back-arrow.png" alt="Back to Team"
                             class="mr-2" />
                         <p class="font-bold">Back to Team</p>
@@ -481,7 +482,7 @@
                         href="../../our-story/" class="subParent  ">About Us</a>
                     <ul class="subNav">
                         <li><a href="../../our-story/">Our Story</a>
-                        <li><a href="../index.html">Team</a>
+                        <li><a href="<?=root?>/our-team/">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a

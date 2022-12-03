@@ -1,3 +1,4 @@
+<?php $active_menu=0;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -402,7 +403,7 @@
         <main>
             <div class="team-single-back">
                 <div class="container">
-                    <a href="../index.html">
+                    <a href="<?=root?>/our-team/">
                         <img src="../../wp-content/themes/devsavvy/images/back-arrow.png" alt="Back to Team"
                             class="mr-2" />
                         <p class="font-bold">Back to Team</p>
@@ -448,7 +449,7 @@
                     </div>
                     <div class="team-single-content">
                         <h1>Shams Chowdhury</h1>
-                        <p class="team-single-content__title">Global Business Development Consultant and COO</p>
+                        <p class="team-single-content__title">International Business Management Consultant</p>
 
                         <div class="team-single-content__body">
                             <p>Mr. Chowdhury is an MBA from the George Washington University and LEGP from Harvard University. He is the author of two books - "The Dream of my Life" and "Remaking the Wealth of the Nations", sold successfully across the globe. He is an expert on global security, economy, and foreign policy issues. He has proven leadership ability to monitor and manage political complexity of humanitarian emergencies under the United Nations and has performed the highest level of role of administration and security of the office of a Head of the Government. He has excellent qualifications in strategic planning, organizational development, utilization of intelligence, team building, IT, and project implementation. He is a philanthropist and looking forward to promote the global businesses of Hydeman Development Inc.
@@ -481,7 +482,7 @@
                         href="../../our-story/" class="subParent  ">About Us</a>
                     <ul class="subNav">
                         <li><a href="../../our-story/">Our Story</a>
-                        <li><a href="../index.html">Team</a>
+                        <li><a href="<?=root?>/our-team/">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
