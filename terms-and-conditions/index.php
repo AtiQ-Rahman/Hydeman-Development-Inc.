@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<!-- Mirrored from mcwrealty.com/terms-and-conditions/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Hydeman &raquo; Commercial Brokerage</title>
+    <title>Hydeman &raquo; Terms and Conditions</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -386,80 +389,9 @@
     <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="page-template-default page page-id-217 ctct-devsavvy page-commercial-brokerage">
+<body class="page-template-default page page-id-331 ctct-devsavvy page-terms-and-conditions">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../index.html">
-                            <img src="../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Devlopment Logo"
-                                width="322" height="61" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../our-story/index.html">Our Story</a></li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../our-team/index.html">Team</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-217 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-388">
-                                        <a href="index.html" aria-current="page">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-217 current_page_item menu-item-389">
-                                                <a href="index.html" aria-current="page">Commercial Brokerage</a></li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../property-management/index.html">Property Management</a></li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a></li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../construction-project-management/index.html">Construction
-                                                    Project Management</a></li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../reo-services/index.html">REO Services</a></li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../development-acquisitions/index.html">Development &#038;
-                                                    Acquisitions</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../listings/index.html">Listings</a></li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="../blog/index.html">News</a></li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../contact/index.html">Contact</a></li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -469,54 +401,14 @@
 
         <main>
 
-            <section class="services-nav">
+            <section class="hero" style=" ">
 
                 <div class="container">
 
-                    <div class="menu-services-nav-menu-container">
-                        <ul id="menu-services-nav-menu" class="menu">
-                            <li id="menu-item-514"
-                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-217 current_page_item menu-item-514">
-                                <a href="index.html" aria-current="page">Commercial<br>Brokerage</a></li>
-                            <li id="menu-item-513"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a
-                                    href="../property-management/index.html">Property<br>Management</a></li>
-                            <li id="menu-item-512"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a
-                                    href="../asset-management-financial-services/index.html">Asset Management<br>&#038;
-                                    Financial Services</a></li>
-                            <li id="menu-item-511"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
-                                    href="../construction-project-management/index.html">Construction<br>Project
-                                    Management</a></li>
-                            <li id="menu-item-510"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
-                                    href="../software-services/index.html">Software<br>Development</a></li>
-                            <li id="menu-item-509"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/index.html">Readymade<br>Garments</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-
-            </section>
-
-
-
-            <section class="hero" style=" background-image: url('../wp-content/uploads/2020/07/services-bg.jpg');">
-
-                <div class="container">
-
-                    <div class="big svc">
+                    <div class=" ">
 
                         <div class="hero-holder">
-                            <p><img decoding="async" src="../wp-content/uploads/2020/07/icon-commercial.png"
-                                    alt="Commercial Brokerage" class="svc-icon" /></p>
-                            <h1>Commercial Brokerage</h1>
-                            <div style="clear: both;"></div>
-                            <p>The Commercial Brokerage division focuses on office, industrial, retail, healthcare, and investment sales. Our brokers help owners market their properties by coming up with profitable and effective ways to sell, rent, or sublease them. For our clients, we handle every step of the facility's decision-making process and negotiate the best terms.</p>
+                            <h1>Terms and Conditions</h1>
                         </div>
 
 
@@ -529,293 +421,84 @@
 
 
 
-            <section class="services-content">
+            <section class="general-block padded" style="">
 
                 <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <div class="content-holder">
-                            <div class="content-text">
-                                <h3>Services Offered</h3>
-                                <ul>
-                                    <li>Tenant/Buyer Representation</li>
-                                    <li>Landlord/Seller Representation</li>
-                                    <li>Investment Sales</li>
-                                    <li>Land Sales</li>
-                                    <li>Site Selection</li>
-                                    <li>Sale-Leaseback</li>
-                                </ul>
-                            </div>
-                            <div class="services-image">
-                                <img src="../wp-content/uploads/2020/07/brokerage.jpg" alt="Commercial Brokerage" />
-                            </div>
-
-                        </div>
-
+                    <div class="mx-auto" style="max-width: 60rem;">
+                        <h3>INTRODUCTION</h3>
+                        <p>Welcome to our website. If you continue to browse and use this website, you are agreeing to
+                            comply with and be bound by the following terms and conditions of use, which together with
+                            our privacy policy govern Hydeman&#8217;s relationship with you in relation to this
+                            website. If you disagree with any part of these terms and conditions, please do not use our
+                            website.</p>
+                        <p>The term &#8216;Hydeman&#8217; or &#8216;us&#8217; or &#8216;we&#8217; refers to the owner
+                            of the website whose registered office is: 205-2022 Cornwall Street,Regina, Sk
+                            ,S4P 2K5.
+                            The term &#8216;you&#8217; refers to the user or viewer of our website.</p>
+                        <h3>TERMS</h3>
+                        <p>The use of this website is subject to the following terms of use:</p>
+                        <ol>
+                            <li>The content of the pages of this website is for your general information and use only.
+                                It is subject to change without notice.</li>
+                            <li>This website uses cookies to monitor browsing preferences. If you do allow cookies to be
+                                used, the following personal information may be stored by us for use by third parties
+                                related to this website: User Name (for this site), Password (for this site), E-mail
+                                Address (used to register).</li>
+                            <li>Some of our sites include registration forms that require users to give us contact
+                                information (like your name), unique identifiers (such as your email address) and
+                                demographic information (like your zip code or age). Customer contact information is
+                                shared among the HomeServices of America, Inc. family of websites and affiliates so
+                                that, when possible, you can enjoy member benefits without having to register more than
+                                once.</li>
+                            <li>Neither we nor any third parties provide any warranty or guarantee as to the accuracy,
+                                timeliness, performance, completeness or suitability of the information and materials
+                                found or offered on this website for any particular purpose. You acknowledge that such
+                                information and materials may contain inaccuracies or errors and we expressly exclude
+                                liability for any such inaccuracies or errors to the fullest extent permitted by law.
+                            </li>
+                            <li>Your use of any information or materials on this website is entirely at your own risk,
+                                for which we shall not be liable. It shall be your own responsibility to ensure that any
+                                products, services or information available through this website meets your specific
+                                requirements.</li>
+                            <li>This website contains material that is owned by or licensed to us. This “material”
+                                includes, but is not limited to, the design, layout, look, appearance, content and
+                                graphics. Reproduction is prohibited other than in accordance with the copyright notice,
+                                which forms part of these terms and conditions.</li>
+                            <li>All trademarks reproduced in this website, which are not the property of, or licensed
+                                to, the operator, are acknowledged on the website.</li>
+                            <li>Unauthorized use of this website may give rise to a claim for damages and/or be a
+                                criminal offense.</li>
+                            <li>From time to time this website may also include links to other websites or posts from
+                                other users. These links and posts are provided for your convenience to provide further
+                                information. They do not signify that we endorse the website(s) or the post. We have no
+                                responsibility for the content of the linked website(s) or posts of other users except
+                                as expressly stated herein. HOME Real Estate reserves the right to add, modify, remove
+                                all material of the website in its sole and absolute discretion including, without
+                                limitation, links and posts.</li>
+                            <li>Your use of this website and any dispute arising out of such use of the website is
+                                subject to the laws of Nebraska.</li>
+                        </ol>
+                        <h3>DISCLAIMER</h3>
+                        <p>The information contained in this website is for general information purposes only. The
+                            information is provided by Hydeman and while we endeavor to keep the information up to
+                            date and correct, we make no representations or warranties of any kind, express or implied,
+                            about the completeness, accuracy, reliability, suitability or availability with respect to
+                            the website or the information, products, services or related graphics contained on the
+                            website for any purpose. Any reliance you place on such information is therefore strictly at
+                            your own risk.</p>
+                        <p>In no event will we be liable for any loss or damage including without limitation, indirect
+                            or consequential loss or damage.</p>
+                        <p>Through this website you can link to other websites which are not under the control of
+                            Hydeman. We have no control over the nature, content and availability of those sites. The
+                            inclusion of any links does not necessarily imply a recommendation or endorse the views
+                            expressed within them.</p>
+                        <p>Every effort is made to keep the website up and running smoothly. However, Hydeman takes no
+                            responsibility for, and will not be liable for, the website being temporarily unavailable
+                            due to technical issues beyond our control.</p>
                     </div>
-
                 </div>
 
-
             </section>
-
-
-
-            <section class="general-block " style="">
-
-                <div class="container">
-                    <div class="mx-auto" style="max-width: 100%;">
-                        <blockquote>
-                            <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
-                        </blockquote>
-                    </div>
-                </div>
-
-            </section>
-
-
-
-            <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-            <section class="properties  padded" style="background-color: #e5e5e5">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <h2 style="text-align: center;">Featured Services</h2>
-
-
-
-                        <ul class="properties">
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Constractions</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
-
-                                    <p>Centre Square Place<br />
-                                        Regina, Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Developments</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/property-industrial.jpg" alt="Industrial" />
-
-                                    <p>Rochdale Place<br />
-                                        Regina, Saskatchewan</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Softwares</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/application-development.png" alt="application-development" />
-
-                                    <p> Toronto,Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Farmland</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
-
-                                    <p>Central Alberta,
-                                        Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>RMG</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/garments.jpg" alt="RMG" />
-
-                                    <p>Dhaka,
-                                       Bangladesh</p>
-
-
-                                </a>
-
-                            </li>
-
-
-                        </ul>
-
-
-                    </div>
-
-
-
-
-
-
-
-
-
-                </div>
-
-
-            </section>
-
-
-
-            <section class="services padded" style="">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <h2 style="text-align: center;">Explore Our Services</h2>
-
-
-
-                        <ul class="services">
-
-
-                            <li>
-
-                                <a href="index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
-                                        alt="Commercial Brokerage" />
-
-                                    <h3>Commercial Brokerage</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../property-management/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
-                                        alt="Property Management" />
-
-                                    <h3>Property<br>Management</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../asset-management-financial-services/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
-                                        alt="Asset Management" />
-
-                                    <h3>Asset Management<br>&#038; Financial<br>Services</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../construction-project-management/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
-                                        alt="Construction Project Management" />
-
-                                    <h3>Construction<br>Project<br>Management</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../software-services/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-software.png"
-                                        alt="Software Development" />
-
-                                    <h3>Software<br>Development</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../development-acquisitions/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
-                                        alt="Readymade Garments" />
-
-                                    <h3>Readymade<br>Garments</h3>
-
-                                </a>
-
-                            </li>
-
-
-                        </ul>
-
-
-
-
-
-
-                    </div>
-
-
-
-
-
-
-
-
-
-                </div>
-
-
-            </section>
-
-
-
-            <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
         </main>
 
         <section class="call">
@@ -881,8 +564,8 @@
                             <div class="menu-footer-menu-container">
                                 <ul id="menu-footer-menu" class="menu">
                                     <li id="menu-item-453"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href="../terms-and-conditions/index.html">Terms</a></li>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-331 current_page_item menu-item-453">
+                                        <a href="index.html" aria-current="page">Terms</a></li>
                                     <li id="menu-item-452"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
                                         <a href="../privacy-policy/index.html">Privacy</a></li>
@@ -898,28 +581,28 @@
 
                         <h3>Subscribe to our Newsletter</h3>
                         Get the latest news and updates delivered to your inbox quarterly.<br>
-                        <em>McWhirter will not share your information with any third party.</em><br>
+                        <em>Hydeman will not share your information with any third party.</em><br>
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-3643644020"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-1596258501"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_1655707116">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3281637842">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_1655707116" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3281637842" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_2196735450">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_3975869416">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_2196735450" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_3975869416" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -938,7 +621,7 @@
                                             class="ctct-input-container"><input type="checkbox" checked
                                                 name="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="1"
                                                 id="ctct-opt-in_0" /><label for="ctct-opt-in_0"> Example: Yes, I would
-                                                like to receive emails from Mcwhirter. (You can unsubscribe
+                                                like to receive emails from Hydeman. (You can unsubscribe
                                                 anytime)</label></span></p>
                                 </div>
                                 <!--.ctct-optin-hide -->
@@ -949,14 +632,14 @@
                                         name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" /></div><input
                                     type="hidden" name="ctct-id" value="544" /><input type="hidden" name="ctct-verify"
                                     value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden" name="ctct-instance"
-                                    value="0" /><input type="hidden" name="ctct_time" value="1669822150" />
+                                    value="0" /><input type="hidden" name="ctct_time" value="1669822166" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_1717969640" /></p>
+                                        id="ctct-submitted_0_983902478" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
-                                        from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
+                                        from: Hydeman Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
                                         GA, 30339, http://www.mcwrealty.com. You can revoke your consent to receive
                                         emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom
                                         of every email. <a href="https://www.constantcontact.com/legal/service-provider"
@@ -1005,10 +688,10 @@
                         <li><a href="../our-team/index.html">Team</a>
                     </ul>
                 </li>
-                <li class="subParent currentParent current subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="index.html" class="subParent currentParent current">Services</a>
+                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
                     <ul class="subNav">
-                        <li><a class="current" href="index.html">Commercial Brokerage</a>
+                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
                         <li><a href="../property-management/index.html">Property Management</a>
                         <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
                                 Financial Services</a>
@@ -1065,7 +748,7 @@
             <div class="pum-content popmake-content" tabindex="0">
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
-                    property management software. Please click continue to leave the McWhirter website and
+                    property management software. Please click continue to leave the Hydeman website and
                     <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
@@ -1103,6 +786,6 @@
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/commercial-brokerage/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:46 GMT -->
+<!-- Mirrored from mcwrealty.com/terms-and-conditions/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
 
 </html>

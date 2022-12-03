@@ -6,7 +6,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Md Atiquer Rahman</title>
+    <title>Wayne Hydeman</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -391,89 +391,7 @@
 
 <body class="our_team-template-default single single-our_team postid-368 ctct-devsavvy our_team-barry-e-mcwhirter">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../../index.html">
-                            <img src="../../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Development Logo"
-                                width="380" height="80" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../../our-story/index.html">Our Story</a>
-                                            </li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../index.html">Team</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="../../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../../property-management/index.html">Property Management</a>
-                                            </li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a>
-                                            </li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../../construction-project-management/index.html">Construction
-                                                    Project Management</a>
-                                            </li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../../reo-services/index.html">REO Services</a>
-                                            </li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../../development-acquisitions/index.html">Readymade
-                                                    Garments</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../../listings/index.html">Listings</a>
-                                    </li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-398">
-                                        <a href="../../blog/index.html">News</a>
-                                    </li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../../contact/index.html">Contact</a>
-                                    </li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -498,13 +416,16 @@
                         <div class="team-single-contact__inner">
                             <div class="team-single-contact__image">
                                 <a href="index.html">
-                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/Atiq.jpg"
-                                        class="attachment-full size-full wp-post-image" alt="Shihab"
-                                        decoding="async" sizes="(max-width: 255px) 100vw, 255px" /> </a>
+                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/Hydeman.jpg"
+                                        class="attachment-full size-full wp-post-image" alt="Barry McWhirter"
+                                        decoding="async"
+            
+                                        sizes="(max-width: 255px) 100vw, 255px" /> </a>
                             </div>
                             <p class="team-single-contact__email"><a
-                                    href="mailto:mdatiquerrahmanbd@gmail.com">mdatiquerrahmanbd@gmail.com</a></p>
-                            <p class="team-single-contact__phone"><a href="tel:+88 01521433784">P: +88 01521433784</a></p>
+                                    href="mailto:w.hydeman@sasktel.net">w.hydeman@sasktel.net</a></p>
+                            <p class="team-single-contact__phone"><a href="tel:+1 (306) 537-5656">P: +1 (306)
+                                    537-5656</a></p>
 
                             <div class="team-single-contact__links">
                                 <!-- <div class="team-single-contact__vcard">
@@ -516,7 +437,7 @@
                                     </a>
                                 </div> -->
                                 <div class="team-single-contact__linkedin">
-                                    <a href="https://www.linkedin.com/in/md-atiquer-rahman-337204145/">
+                                    <a href="https://www.linkedin.com/in/wayne-hydeman-49baa01a4/">
                                         <img class="up" src="../../wp-content/themes/devsavvy/images/linkedin.png"
                                             alt="LinkedIn" />
                                         <img class="over"
@@ -528,14 +449,13 @@
                         </div>
                     </div>
                     <div class="team-single-content">
-                        <h1>Md Atiquer Rahman</h1>
-                        <p class="team-single-content__title">Head of IT, Team Bangladesh</p>
+                        <h1>Wayne Hydeman</h1>
+                        <p class="team-single-content__title">President & CEO</p>
 
                         <div class="team-single-content__body">
-                            <p> 
-                                This is Md Atiquer Rahman who lives in Dhaka, Bangladesh. He hails from Faridpur, Bangladesh. He graduated from the University of Dhaka with a major in Software Engineering. Currently, he is a DevSecOps Engineer at Openrefactory Inc. Besides, and he maintains two other organizations named Happy DU(co-founder) and H-Tech Soft(co-founder). Actually, Mr. Atiq works in the diverse fields of organization management, software development, and start-ups. Previously he worked in a silicon valley based start-up as a junior blockchain developer. Prior to this, he was a junior developer at ASA International. He also had an experienced internship in a core banking solution provider named Leads Soft. In the meantime, he was an executive of Shohopathi (an ed-tech startup) maintaining different teams, and also founded Happy DU which is a mental health organization.
-When looking at his accomplishments, his rack is full of medals. He is the consecutive best prototype winner in 2020 and 2021 in International Blockchain Olympiad. He also got Duke Of Edinburg Gold, Silver, and Bronze Medals. He was also a core team member when Sohopathi got Tiger Challenge Award. 
-                            </p>    
+                            <p>Wayne is a Certified Engineering Technician in the field of Mechanical Engineering and Architectural
+                                Design along with Certification in Business Administration from The University of Regina, Canada. He has Global exposure to International Trade and Commerce, Specialization in export of various food grains/lentils for human consumption, animal feeds, timber, finished lumber, packaged building, construction materials which includes precast construction elements, green building technologies and assemble plants. He has further been associated with product engineered services as a product design consultant for Hospitals and other major facilities, with major supply contracts, systems start up and commissioning including commissioning of environmental energy management equipment
+                            </p>
                         </div>
 
                     </div>
@@ -607,12 +527,10 @@ When looking at his accomplishments, his rack is full of medals. He is the conse
                                 <ul id="menu-footer-menu" class="menu">
                                     <li id="menu-item-453"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href="../../terms-and-conditions/index.html">Terms</a>
-                                    </li>
+                                        <a href="../../terms-and-conditions/index.html">Terms</a></li>
                                     <li id="menu-item-452"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
-                                        <a href="../../privacy-policy/index.html">Privacy</a>
-                                    </li>
+                                        <a href="../../privacy-policy/index.html">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -673,11 +591,10 @@ When looking at his accomplishments, his rack is full of medals. He is the conse
                                     style="border: 0 none; clip: rect( 0, 0, 0, 0 ); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px;">
                                     <label for="ctct_usage_field">Constant Contact Use. Please leave this field
                                         blank.</label><input type="text" value="" id="ctct_usage_field"
-                                        name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" />
-                                </div><input type="hidden" name="ctct-id" value="544" /><input type="hidden"
-                                    name="ctct-verify" value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden"
-                                    name="ctct-instance" value="0" /><input type="hidden" name="ctct_time"
-                                    value="1669822178" />
+                                        name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" /></div><input
+                                    type="hidden" name="ctct-id" value="544" /><input type="hidden" name="ctct-verify"
+                                    value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden" name="ctct-instance"
+                                    value="0" /><input type="hidden" name="ctct_time" value="1669822178" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
@@ -795,8 +712,7 @@ When looking at his accomplishments, his rack is full of medals. He is the conse
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
                     property management software. Please click continue to leave the McWhirter website and
-                    <strong>proceed to the BuildingEngines tenant login page.</strong>
-                </p>
+                    <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
             </div>

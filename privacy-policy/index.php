@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/property-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:46 GMT -->
+<!-- Mirrored from mcwrealty.com/privacy-policy/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Hydeman &raquo; Property Management</title>
+    <title>Hydeman &raquo; Privacy Policy</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -389,81 +389,9 @@
     <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="page-template-default page page-id-284 ctct-devsavvy page-property-management">
+<body class="page-template-default page page-id-209 ctct-devsavvy page-privacy-policy">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../index.html">
-                            <img src="../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Devlopment Logo"
-                                width="322" height="61" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../our-story/index.html">Our Story</a></li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../our-team/index.html">Team</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-388">
-                                        <a href="../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-284 current_page_item menu-item-390">
-                                                <a href="index.html" aria-current="page">Property Management</a></li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a></li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../construction-project-management/index.html">Construction
-                                                    Project Management</a></li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../reo-services/index.html">REO Services</a></li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../development-acquisitions/index.html">Development &#038;
-                                                    Acquisitions</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../listings/index.html">Listings</a></li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="../blog/index.html">News</a></li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../contact/index.html">Contact</a></li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -473,57 +401,14 @@
 
         <main>
 
-            <section class="services-nav">
+            <section class="hero" style=" ">
 
                 <div class="container">
 
-                    <div class="menu-services-nav-menu-container">
-                        <ul id="menu-services-nav-menu" class="menu">
-                            <li id="menu-item-514"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a
-                                    href="../commercial-brokerage/index.html">Commercial<br>Brokerage</a></li>
-                            <li id="menu-item-513"
-                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-284 current_page_item menu-item-513">
-                                <a href="index.html" aria-current="page">Property<br>Management</a></li>
-                            <li id="menu-item-512"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a
-                                    href="../asset-management-financial-services/index.html">Asset Management<br>&#038;
-                                    Financial Services</a></li>
-                            <li id="menu-item-511"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
-                                    href="../construction-project-management/index.html">Construction<br>Project
-                                    Management</a></li>
-                            <li id="menu-item-510"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
-                                    href="../software-services/index.html">Software<br>Development</a></li>
-                            <li id="menu-item-509"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/index.html">Readymade<br>Garments</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-
-            </section>
-
-
-
-            <section class="hero"
-                style=" background-image: url('../wp-content/uploads/2020/07/accent-head-pmgmt.jpg');">
-
-                <div class="container">
-
-                    <div class="big svc">
+                    <div class=" ">
 
                         <div class="hero-holder">
-                            <p><img decoding="async" class="svc-icon"
-                                    src="../wp-content/uploads/2020/07/icon-property-management.png"
-                                    alt="Property Management" /></p>
-                            <h1>Property Management</h1>
-                            <div style="clear: both;"></div>
-                            <p>Our Property Management team has more than 50 years of expertise and manages over 2.5 million square feet of hospital, industrial, commercial, and retail space. We cultivate long-term relationships with our clients and suppliers, which enables us to proactively find opportunities to cut costs and boost efficiencies for our clients.</p>
-                            <p>We employ building engineers with expertise in the design, installation, and maintenance of major service areas, such as heating, electrical, mechanical, landscape, health and safety, and security. We ensure that all properties adhere to compliance standards and maintain routine performance and inspection certificates. In addition, we facilitate smooth contact between owners and property managers to ensure efficient administration and monitoring.</p>
+                            <h1>Privacy Policy</h1>
                         </div>
 
 
@@ -536,296 +421,86 @@
 
 
 
-            <section class="services-content">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <div class="content-holder">
-                            <div class="content-text">
-                                <h3>Services Offered</h3>
-                                <ul>
-                                    <li>Rent and CAM Invoicing &amp; Collections</li>
-                                    <li>Lease Enforcement</li>
-                                    <li>Owner Accounting &amp; Reporting</li>
-                                    <li>Budgeting</li>
-                                    <li>Capital Planning &amp; Forecasting</li>
-                                    <li>Preventative Maintenance &amp; Repairs</li>
-                                    <li>Tenant Satisfaction</li>
-                                    <li>Contract Management</li>
-                                </ul>
-                            </div>
-                            <div class="services-image">
-                                <img src="../wp-content/uploads/2020/07/property-management.jpg"
-                                    alt="Property Management" />
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-            </section>
-
-
-
-            <section class="general-block " style="">
+            <section class="general-block padded" style="">
 
                 <div class="container">
                     <div class="mx-auto" style="max-width: 100%;">
-                        <blockquote>
-                            <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
-                        </blockquote>
-                    </div>
-                </div>
-
-            </section>
-
-
-
-            <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-            <section class="properties  padded" style="background-color: #e5e5e5">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <h2 style="text-align: center;">Featured Services</h2>
-
-
-
-                        <ul class="properties">
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Constractions</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
-
-                                    <p>Centre Square Place<br />
-                                        Regina, Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Developments</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/property-industrial.jpg" alt="Industrial" />
-
-                                    <p>Rochdale Place<br />
-                                        Regina, Saskatchewan</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Softwares</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/application-development.png" alt="application-development" />
-
-                                    <p> Toronto,Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>Farmland</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
-
-                                    <p>Central Alberta,
-                                        Canada</p>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a>
-
-                                    <h3>RMG</h3>
-
-                                    <img src="../wp-content/uploads/2020/07/garments.jpg" alt="RMG" />
-
-                                    <p>Dhaka,
-                                       Bangladesh</p>
-
-
-                                </a>
-
-                            </li>
-
-
+                        <h3>INTRODUCTION</h3>
+                        <p>This privacy policy sets out how Hydeman Development Inc, LLC ("Hydeman") uses and
+                            protects any information that you give Hydeman when you use this website.</p>
+                        <p>Hydeman is committed to ensuring that your privacy is protected. Should we ask you to
+                            provide certain information by which you can be identified when using this website, then you
+                            can be assured that it will only be used in accordance with this privacy statement.</p>
+                        <p>Hydeman may change this policy from time to time by updating this page. You should check
+                            this page from time to time to ensure that you are happy with any changes.</p>
+                        <p>This policy is effective as of 06/04/2020.</p>
+                        <h3>WHAT WE COLLECT</h3>
+                        <p>We may collect the following information:</p>
+                        <ul>
+                            <li> name and job title</li>
+                            <li>contact information including email address</li>
+                            <li>demographic information such as postcode, preferences, and interests</li>
+                            <li>other information relevant to customer surveys and/or offers</li>
                         </ul>
-
-
-                    </div>
-
-
-
-
-
-
-
-
-
-                </div>
-
-
-            </section>
-
-
-
-            <section class="services padded" style="">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 100%;">
-
-                        <h2 style="text-align: center;">Explore Our Services</h2>
-
-
-
-                        <ul class="services">
-
-
-                            <li>
-
-                                <a href="../commercial-brokerage/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
-                                        alt="Commercial Brokerage" />
-
-                                    <h3>Commercial Brokerage</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
-                                        alt="Property Management" />
-
-                                    <h3>Property<br>Management</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../asset-management-financial-services/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
-                                        alt="Asset Management" />
-
-                                    <h3>Asset Management<br>&#038; Financial<br>Services</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../construction-project-management/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
-                                        alt="Construction Project Management" />
-
-                                    <h3>Construction<br>Project<br>Management</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../software-services/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-software.png"
-                                        alt="Software Development" />
-
-                                    <h3>Software<br>Development</h3>
-
-                                </a>
-
-                            </li>
-
-
-                            <li>
-
-                                <a href="../development-acquisitions/index.html" target="">
-
-                                    <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
-                                        alt="Readymade Garments" />
-
-                                    <h3>Readymade<br>Garments</h3>
-
-                                </a>
-
-                            </li>
-
-
+                        <h3>WHAT WE DO WITH THE INFORMATION WE GATHER</h3>
+                        <p>We require this information to understand your needs and provide you with a better service,
+                            and for the following reasons:</p>
+                        <ul>
+                            <li> Internal record keeping</li>
+                            <li>We may use the information to improve our products and services.</li>
+                            <li>We may periodically send promotional email about new products, special offers or other
+                                information which we think you may find interesting using the email address which you
+                                have provided.</li>
+                            <li>From time to time, we may also use your information to contact you for market research
+                                purposes. We may contact you by email, phone, fax, or mail.</li>
+                            <li>We may use the information to customize the website according to your interests.</li>
+                            <li>We may provide your information to our third-party partners for marketing or promotional
+                                purposes.</li>
+                            <li>We will never sell your information.</li>
                         </ul>
-
-
-
-
-
-
+                        <h3>SECURITY</h3>
+                        <p>We are committed to ensuring that your information is secure. To prevent unauthorized access
+                            or disclosure, we have put in place suitable physical, electronic and managerial procedures
+                            to safeguard and secure the information we collect online.</p>
+                        <h3>HOW WE USE COOKIES</h3>
+                        <p>A cookie is a small file which asks permission to be placed on your computer&#8217;s hard
+                            drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets
+                            you know when you visit a site. Cookies allow web applications to respond to you as an
+                            individual. The web application can tailor its operations to your needs, likes and dislikes
+                            by gathering and remembering information about your preferences.</p>
+                        <p>We use traffic log cookies to identify which pages are being used. This helps us analyze data
+                            about web page traffic and improve our website to tailor it to customer needs. We only use
+                            this information for statistical analysis purposes and then the data is removed from the
+                            system.</p>
+                        <p>Overall, cookies help us provide you with a better website by enabling us to monitor which
+                            pages you find useful and which you do not. A cookie in no way gives us access to your
+                            computer or any information about you, other than the data you choose to share with us.</p>
+                        <p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies,
+                            but you can usually modify your browser setting to decline cookies if you prefer. This may
+                            prevent you from taking full advantage of the website.</p>
+                        <h3>LINKS TO OTHER WEBSITES</h3>
+                        <p>Our website may contain links to enable you to visit other websites of interest easily.
+                            However, once you have used these links to leave our site, you should note that we do not
+                            have any control over that other website. Therefore, we cannot be responsible for the
+                            protection and privacy of any information which you provide whilst visiting such sites and
+                            such sites are not governed by this privacy statement. You should exercise caution and look
+                            at the privacy statement applicable to the website in question.</p>
+                        <h3>CONTROLLING YOUR PERSONAL INFORMATION</h3>
+                        <p>You may choose to restrict the collection or use of your personal information in the
+                            following ways:</p>
+                        <p>Notify us of your desire to restrict collection or use of your personal information by
+                            emailing us at <a href="mailto:w.hydeman@sasktel.net">w.hydeman@sasktel.net.</a></p>
+                        <p>If you have previously agreed to us using your personal information for direct marketing
+                            purposes, you may change your mind at any time by writing to or emailing us at <a
+                                href="mailto:w.hydeman@sasktel.net">w.hydeman@sasktel.net</a>.</p>
+                        <p>We will not sell, distribute or lease your personal information to third parties unless we
+                            have your permission or are required by law. We may use your personal information to send
+                            you promotional information about third parties which we think you may find interesting if
+                            you tell us that you wish this to happen.</p>
                     </div>
-
-
-
-
-
-
-
-
-
                 </div>
 
-
             </section>
-
-
-
-            <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
         </main>
 
         <section class="call">
@@ -894,8 +569,8 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
                                         <a href="../terms-and-conditions/index.html">Terms</a></li>
                                     <li id="menu-item-452"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
-                                        <a href="../privacy-policy/index.html">Privacy</a></li>
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-209 current_page_item menu-item-452">
+                                        <a href="index.html" aria-current="page">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -908,28 +583,28 @@
 
                         <h3>Subscribe to our Newsletter</h3>
                         Get the latest news and updates delivered to your inbox quarterly.<br>
-                        <em>McWhirter will not share your information with any third party.</em><br>
+                        <em>Hydeman Development Incwill not share your information with any third party.</em><br>
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-2895570108"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-329172103"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2780911161">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2298505894">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2780911161" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2298505894" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_4127671653">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_1112146428">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_4127671653" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_1112146428" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -959,14 +634,14 @@
                                         name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" /></div><input
                                     type="hidden" name="ctct-id" value="544" /><input type="hidden" name="ctct-verify"
                                     value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden" name="ctct-instance"
-                                    value="0" /><input type="hidden" name="ctct_time" value="1669822151" />
+                                    value="0" /><input type="hidden" name="ctct_time" value="1669822167" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_2003762962" /></p>
+                                        id="ctct-submitted_0_90853130" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
-                                        from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
+                                        from: Hydeman Development IncRealty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
                                         GA, 30339, http://www.mcwrealty.com. You can revoke your consent to receive
                                         emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom
                                         of every email. <a href="https://www.constantcontact.com/legal/service-provider"
@@ -1015,11 +690,11 @@
                         <li><a href="../our-team/index.html">Team</a>
                     </ul>
                 </li>
-                <li class="subParent currentParent  subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent currentParent ">Services</a>
+                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
                     <ul class="subNav">
                         <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a class="current" href="index.html">Property Management</a>
+                        <li><a href="../property-management/index.html">Property Management</a>
                         <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
                                 Financial Services</a>
                         <li><a href="../construction-project-management/index.html">Construction Project Management</a>
@@ -1075,7 +750,7 @@
             <div class="pum-content popmake-content" tabindex="0">
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
-                    property management software. Please click continue to leave the McWhirter website and
+                    property management software. Please click continue to leave the Hydeman Development Incwebsite and
                     <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
@@ -1113,6 +788,6 @@
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/property-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:48 GMT -->
+<!-- Mirrored from mcwrealty.com/privacy-policy/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
 
 </html>

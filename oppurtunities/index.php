@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/our-team/barry-e-mcwhirter/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
+<!-- Mirrored from mcwrealty.com/our-story/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:33 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Shams Chowdhury</title>
+    <title>Hydeman &raquo; Investment</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <script type='text/javascript'
-        src='../../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
+        src='../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
         async='async'></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -29,13 +29,13 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='stylesheet' id='flexslider-css'
-        href='../../wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css'
+        href='../wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css'
         media='all' />
-    <link rel='stylesheet' id='site-css' href='../../wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
+    <link rel='stylesheet' id='site-css' href='../wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
         type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='../../wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='classic-theme-styles-css' href='../../wp-includes/css/classic-themes.min68b3.css?ver=1'
+        href='../wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='../wp-includes/css/classic-themes.min68b3.css?ver=1'
         type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
@@ -371,109 +371,27 @@
         }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
-        href='../../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
+        href='../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
         media='all' />
     <link rel='stylesheet' id='popup-maker-site-css'
-        href='../../wp-content/uploads/pum/pum-site-stylese605.css?generated=1668451767&amp;ver=1.16.14' type='text/css'
+        href='../wp-content/uploads/pum/pum-site-stylese605.css?generated=1668451767&amp;ver=1.16.14' type='text/css'
         media='all' />
-    <script type='text/javascript' src='../../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1'
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1'
         id='jquery-core-js'></script>
-    <script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
         id='jquery-migrate-js'></script>
     <script type='text/javascript'
-        src='../../wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
+        src='../wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
         id='flexslider-js'></script>
-    <script type='text/javascript' src='../../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
+    <script type='text/javascript' src='../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
         id='site-js'></script>
     <link rel="canonical" href="index.html" />
-    <link rel="shortcut icon" href="../../favicon.html" type="image/x-icon" />
+    <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="our_team-template-default single single-our_team postid-368 ctct-devsavvy our_team-barry-e-mcwhirter">
+<body class="page-template-default page page-id-170 ctct-devsavvy page-our-story">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../../index.html">
-                            <img src="../../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Development Logo"
-                                width="380" height="80" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../../our-story/index.html">Our Story</a>
-                                            </li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../index.html">Team</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="../../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../../property-management/index.html">Property Management</a>
-                                            </li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a>
-                                            </li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../../construction-project-management/index.html">Construction
-                                                    Project Management</a>
-                                            </li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../../reo-services/index.html">REO Services</a>
-                                            </li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../../development-acquisitions/index.html">Readymade
-                                                    Garments</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../../listings/index.html">Listings</a>
-                                    </li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-398">
-                                        <a href="../../blog/index.html">News</a>
-                                    </li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../../contact/index.html">Contact</a>
-                                    </li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -482,64 +400,32 @@
 
 
         <main>
-            <div class="team-single-back">
+
+            <section class="hero" style=" background-image: url('../wp-content/uploads/2020/07/bg-canvas.jpg');">
+
                 <div class="container">
-                    <a href="../index.html">
-                        <img src="../../wp-content/themes/devsavvy/images/back-arrow.png" alt="Back to Team"
-                            class="mr-2" />
-                        <p class="font-bold">Back to Team</p>
-                    </a>
-                </div>
-            </div>
-            <div class="grey-bar"></div>
-            <div class="container team-single-template">
-                <div class="team-single-container">
-                    <div class="team-single-contact">
-                        <div class="team-single-contact__inner">
-                            <div class="team-single-contact__image">
-                                <a href="index.html">
-                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/shams.jpg"
-                                        class="attachment-full size-full wp-post-image" alt="Shmas"
-                                        decoding="async" sizes="(max-width: 255px) 100vw, 255px" /> </a>
-                            </div>
-                            <p class="team-single-contact__email"><a
-                                    href="mailto:shamsengineering170@gmail.com">shamsengineering170@gmail.com</a></p>
-                            <!-- <p class="team-single-contact__phone"><a href="tel:+1 (306) 537-5656">P: +1 (306)
-                                    537-5656</a></p> -->
 
-                            <div class="team-single-contact__links">
-                                <!-- <div class="team-single-contact__vcard">
-                                    <a href="../../wp-content/uploads/2020/07/barry-mcwhirter-vcard.zip">
-                                        <img class="up" src="../../wp-content/themes/devsavvy/images/vcard.png"
-                                            alt="VCard" />
-                                        <img class="over" src="../../wp-content/themes/devsavvy/images/vcard-white.png"
-                                            alt="VCard" />
-                                    </a>
-                                </div> -->
-                                <div class="team-single-contact__linkedin">
-                                    <a href="https://www.linkedin.com/in/shams-chowdhury-ba8446100/">
-                                        <img class="up" src="../../wp-content/themes/devsavvy/images/linkedin.png"
-                                            alt="LinkedIn" />
-                                        <img class="over"
-                                            src="../../wp-content/themes/devsavvy/images/linkedin-white.png"
-                                            alt="LinkedIn" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-single-content">
-                        <h1>Shams Chowdhury</h1>
-                        <p class="team-single-content__title">Global Business Development Consultant and COO</p>
+                    <div class="big ">
 
-                        <div class="team-single-content__body">
-                            <p>Mr. Chowdhury is an MBA from the George Washington University and LEGP from Harvard University. He is the author of two books - "The Dream of my Life" and "Remaking the Wealth of the Nations", sold successfully across the globe. He is an expert on global security, economy, and foreign policy issues. He has proven leadership ability to monitor and manage political complexity of humanitarian emergencies under the United Nations and has performed the highest level of role of administration and security of the office of a Head of the Government. He has excellent qualifications in strategic planning, organizational development, utilization of intelligence, team building, IT, and project implementation. He is a philanthropist and looking forward to promote the global businesses of Hydeman Development Inc.
-                            </p>
+                        <div class="hero-holder">
+                            <h1>Opportunities</h1>
+                            <p>Hydeman Development Inc. has cultivated wonderful investment opportunities not only in Canada but abroad including Coal Mining Project in Ethiopia and hospitality industries in Mumbai. India. The investors from home and abroad can invest in Hydeman Projects with lucrative Return on Investment. Hydeman Development Inc also participate or invest in well to do projects both at home and abroad.  </p>
                         </div>
 
+
+                        <img decoding="async" class="side" src="../wp-content/uploads/2020/07/our-story-awards.png"
+                            alt="Awards" />
+
+
                     </div>
+
                 </div>
-            </div>
+
+
+            </section>
+
+
+            <p></p>
         </main>
 
         <section class="call">
@@ -560,9 +446,9 @@
 
                     <div class="logo-section">
 
-                        <a href="../../index.html">
+                        <a href="../index.html">
 
-                            <img src="../../wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
+                            <img src="../wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
                                 height="100" />
                         </a>
 
@@ -571,29 +457,29 @@
                         <div class="footer-social">
 
                             <a href="https://www.linkedin.com/company/mcwhirter-realty-partners/" target="_blank">
-                                <img class="up" src="../../wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
-                                <img class="over" src="../../wp-content/uploads/2020/07/s-icon-in-green.png"
+                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
+                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-in-green.png"
                                     alt="linkedin" />
                             </a>
 
 
                             <a href="https://www.facebook.com/mcwrealty" target="_blank">
-                                <img class="up" src="../../wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
-                                <img class="over" src="../../wp-content/uploads/2020/07/s-icon-fb-green.png"
+                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
+                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-fb-green.png"
                                     alt="facebook" />
                             </a>
 
 
                             <a href="https://twitter.com/mcwhirterrealty" target="_blank">
-                                <img class="up" src="../../wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
-                                <img class="over" src="../../wp-content/uploads/2020/07/s-icon-tw-green.png"
+                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
+                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-tw-green.png"
                                     alt="twitter" />
                             </a>
 
 
                             <a href="mailto:info@mcwrealty.com" target="_blank">
-                                <img class="up" src="../../wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
-                                <img class="over" src="../../wp-content/uploads/2020/07/s-icon-email-green.png"
+                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
+                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-email-green.png"
                                     alt="email" />
                             </a>
 
@@ -606,17 +492,17 @@
                                 <ul id="menu-footer-menu" class="menu">
                                     <li id="menu-item-453"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href="../../terms-and-conditions/index.html">Terms</a>
+                                        <a href="../terms-and-conditions/index.html">Terms</a>
                                     </li>
                                     <li id="menu-item-452"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
-                                        <a href="../../privacy-policy/index.html">Privacy</a>
+                                        <a href="../privacy-policy/index.html">Privacy</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
 
-                        &copy; 2023 Hydeman Developments Inc,  LLC. All rights reserved.
+                        &copy; 2023 Hydeman Developments Inc, LLC. All rights reserved.
 
                     </div>
 
@@ -628,24 +514,24 @@
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-915062467"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-65544627"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3072365670">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3996052776">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3072365670" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3996052776" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_3432812518">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_1032261146">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_3432812518" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_1032261146" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -676,11 +562,11 @@
                                 </div><input type="hidden" name="ctct-id" value="544" /><input type="hidden"
                                     name="ctct-verify" value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden"
                                     name="ctct-instance" value="0" /><input type="hidden" name="ctct_time"
-                                    value="1669822178" />
+                                    value="1669822149" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_212173797" /></p>
+                                        id="ctct-submitted_0_356576469" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
                                         from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
@@ -691,23 +577,23 @@
                                             Contact</a></small>
                                 </div>
                             </form>
-                            <script type="text/javascript">var ajaxurl = "../../wp-admin/admin-ajax.html";</script>
+                            <script type="text/javascript">var ajaxurl = "../wp-admin/admin-ajax.html";</script>
                         </div>
 
 
 
                         <div class="footer-logos">
 
-                            <img src="../../wp-content/uploads/2020/07/footer-cbr.png" alt="CBR" />
+                            <img src="../wp-content/uploads/2020/07/footer-cbr.png" alt="CBR" />
 
 
-                            <img src="../../wp-content/uploads/2020/08/logo-irem.png" alt="IREM" />
+                            <img src="../wp-content/uploads/2020/08/logo-irem.png" alt="IREM" />
 
 
-                            <img src="../../wp-content/uploads/2020/07/footer-sior.png" alt="SIOR" />
+                            <img src="../wp-content/uploads/2020/07/footer-sior.png" alt="SIOR" />
 
 
-                            <img src="../../wp-content/uploads/2020/07/footer-boma.png" alt="BOMA" />
+                            <img src="../wp-content/uploads/2020/07/footer-boma.png" alt="BOMA" />
 
                         </div>
 
@@ -721,33 +607,32 @@
         </footer>
 
         <nav id="pop-out-nav-wrapper">
-            <p class="m-0"><a href="../../index.html" id="nav-logo"></a> <a href="#" id="close"><img
-                        src="../../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
+            <p class="m-0"><a href="../index.html" id="nav-logo"></a> <a href="#" id="close"><img
+                        src="../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
                         title="Close Menu"></a></p>
             <ul class="pop-out-nav-parent-wrapper">
-                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../../our-story/index.html" class="subParent  ">About Us</a>
+                <li class="subParent currentParent current subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="index.html" class="subParent currentParent current">About Us</a>
                     <ul class="subNav">
-                        <li><a href="../../our-story/index.html">Our Story</a>
-                        <li><a href="../index.html">Team</a>
+                        <li><a class="current" href="index.html">Our Story</a>
+                        <li><a href="../our-team/index.html">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../../commercial-brokerage/index.html" class="subParent  ">Services</a>
+                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a href="../../property-management/index.html">Property Management</a>
-                        <li><a href="../../asset-management-financial-services/index.html">Asset Management &#038;
+                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
+                        <li><a href="../property-management/index.html">Property Management</a>
+                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../../construction-project-management/index.html">Construction Project
-                                Management</a>
-                        <li><a href="../../reo-services/index.html">REO Services</a>
-                        <li><a href="../../development-acquisitions/index.html">Readymade Garments</a>
+                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
+                        <li><a href="../reo-services/index.html">REO Services</a>
+                        <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
                     </ul>
                 </li>
-                <li><a href="../../listings/index.html">Listings</a>
-                <li><a href="../../blog/index.html">News</a>
-                <li><a href="../../contact/index.html">Contact</a>
+                <li><a href="../listings/index.html">Listings</a>
+                <li><a href="../blog/index.html">News</a>
+                <li><a href="../contact/index.html">Contact</a>
                 <li><a href="#">Tenant Login</a>
             </ul>
         </nav>
@@ -768,7 +653,7 @@
             var s = document.getElementsByTagName("script")[0];
             var b = document.createElement("script");
             b.type = "text/javascript"; b.async = true;
-            b.src = "../../../snap.licdn.com/li.lms-analytics/insight.min.js";
+            b.src = "../../snap.licdn.com/li.lms-analytics/insight.min.js";
             s.parentNode.insertBefore(b, s);
         })(window.lintrk);
     </script>
@@ -810,15 +695,15 @@
 
     </div>
     <script type='text/javascript'
-        src='../../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
+        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
         id='recaptcha-v2-js'></script>
     <script async="async" defer type='text/javascript'
-        src='../../../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
+        src='../../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
         id='recaptcha-lib-v2-js'></script>
     <script type='text/javascript'
-        src='../../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
+        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
         id='ctct_frontend_forms-js'></script>
-    <script type='text/javascript' src='../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
+    <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
         id='jquery-ui-core-js'></script>
     <script type='text/javascript' id='popup-maker-site-js-extra'>
         /* <![CDATA[ */
@@ -828,10 +713,10 @@
 /* ]]> */
     </script>
     <script type='text/javascript'
-        src='../../wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
+        src='../wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/our-team/barry-e-mcwhirter/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:04 GMT -->
+<!-- Mirrored from mcwrealty.com/our-story/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:37 GMT -->
 
 </html>

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/reo-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:50 GMT -->
+<!-- Mirrored from mcwrealty.com/construction-project-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:49 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Hydeman &raquo; Software Development</title>
+    <title>Hydeman &raquo; Construction Project Management</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -389,81 +389,9 @@
     <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="page-template-default page page-id-316 ctct-devsavvy page-reo-services">
+<body class="page-template-default page page-id-306 ctct-devsavvy page-construction-project-management">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../index.html">
-                            <img src="../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Devlopment Logo"
-                                width="322" height="61" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../our-story/index.html">Our Story</a></li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../our-team/index.html">Team</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-388">
-                                        <a href="../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../property-management/index.html">Property Management</a></li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a></li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../construction-project-management/index.html">Construction
-                                                    Project Management</a></li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-316 current_page_item menu-item-393">
-                                                <a href="index.html" aria-current="page">Software Development</a></li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../development-acquisitions/index.html">Development &#038;
-                                                    Acquisitions</a></li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../listings/index.html">Listings</a></li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="../blog/index.html">News</a></li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../contact/index.html">Contact</a></li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -490,12 +418,11 @@
                                     href="../asset-management-financial-services/index.html">Asset Management<br>&#038;
                                     Financial Services</a></li>
                             <li id="menu-item-511"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
-                                    href="../construction-project-management/index.html">Construction<br>Project
-                                    Management</a></li>
+                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-306 current_page_item menu-item-511">
+                                <a href="index.html" aria-current="page">Construction<br>Project Management</a></li>
                             <li id="menu-item-510"
-                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-316 current_page_item menu-item-510">
-                                <a href="index.html" aria-current="page">Software<br>Development</a></li>
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
+                                    href="../software-services/index.html">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
                                     href="../development-acquisitions/index.html">Readymade<br>Garments</a>
@@ -509,7 +436,8 @@
 
 
 
-            <section class="hero" style=" background-image: url('../wp-content/uploads/2020/07/accent-reo.jpg');">
+            <section class="hero"
+                style=" background-image: url('../wp-content/uploads/2020/07/accent-construction.jpg');">
 
                 <div class="container">
 
@@ -517,17 +445,11 @@
 
                         <div class="hero-holder">
                             <p><img decoding="async" class="svc-icon"
-                                    src="../wp-content/uploads/2020/07/icon-reo-services.png" alt="REO Services" /></p>
-                            <h1>Software Development</h1>
+                                    src="../wp-content/uploads/2020/07/icon-construction-project.png"
+                                    alt="Construction Project Management" /></p>
+                            <h1 class="double">Construction Project Management</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Development has undertaken a new initiative to serve West-Northwest Canada with
-                                the latest form of Software to maximize the utilization of both in the Public and
-                                Private Sector. We can develop, manage and maintain the software including mobile
-                                applications, games (2D,3D,AR,VR games),websites, AR VR based solutions, 3D modeling
-                                ,machine learning(ML) based applications, artificial intelligence based software and
-                                blockchain aplications.</p>
-                            <p>Apart from Canadian Software developers, our partners include the leading software
-                                developers of the USA, Bangladesh and India. </p>
+                            <p>Hydeman Development Inc is able to manage all facets of your commercial real estate project, from inception to conclusion. Our Construction Project Management team can help with new construction, renovations, expansions, and tenant improvements. By collaborating with a reliable collection of architects, engineers, general contractors, and suppliers, our team has a history of delivering projects on time and within the budget.</p>
                         </div>
 
 
@@ -550,17 +472,16 @@
                             <div class="content-text">
                                 <h3>Services Offered</h3>
                                 <ul>
-                                    <li>Web Development</li>
-                                    <li>Mobile Applications</li>
-                                    <li>AR & VR</li>
-                                    <li>Games(2D,3D,AR,VR)</li>
-                                    <li>Machine Learning</li>
-                                    <li>Artificial intelligence</li>
-                                    <li>Blockchain</li>
+                                    <li>Ground-Up Construction</li>
+                                    <li>Renovations</li>
+                                    <li>Tenant Improvements</li>
+                                    <li>Capital Improvements</li>
+                                    <li>Program Management</li>
                                 </ul>
                             </div>
                             <div class="services-image">
-                                <img src="../wp-content/uploads/2020/08/reo-building-new.jpg" alt="REO services" />
+                                <img src="../wp-content/uploads/2020/07/project-management.jpg"
+                                    alt="Project Management" />
                             </div>
 
                         </div>
@@ -763,7 +684,7 @@
 
                             <li>
 
-                                <a href="../construction-project-management/index.html" target="">
+                                <a href="index.html" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
                                         alt="Construction Project Management" />
@@ -777,7 +698,7 @@
 
                             <li>
 
-                                <a href="index.html" target="">
+                                <a href="../software-services/index.html" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-software.png"
                                         alt="Software Development" />
@@ -914,24 +835,24 @@
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-4213392816"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-1477025702"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2090738787">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_10676510">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_2090738787" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_10676510" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_3075595392">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_3061427006">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_3075595392" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_3061427006" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -965,7 +886,7 @@
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_2707556320" /></p>
+                                        id="ctct-submitted_0_1307784076" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
                                         from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
@@ -1024,8 +945,8 @@
                         <li><a href="../property-management/index.html">Property Management</a>
                         <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
-                        <li><a class="current" href="index.html">REO Services</a>
+                        <li><a class="current" href="index.html">Construction Project Management</a>
+                        <li><a href="../reo-services/index.html">REO Services</a>
                         <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
                     </ul>
                 </li>
@@ -1115,6 +1036,6 @@
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/reo-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:51 GMT -->
+<!-- Mirrored from mcwrealty.com/construction-project-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:49 GMT -->
 
 </html>

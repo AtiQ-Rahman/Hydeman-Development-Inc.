@@ -1,20 +1,34 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:01 GMT -->
+<!-- Mirrored from mcwrealty.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:01 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Hydeman &raquo; Contact</title>
+    <title>Hydeman Development Inc</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <script type='text/javascript'
-        src='../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
+        src='../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
         async='async'></script>
+    <script>
 
+        var myArray = ['wp-content/uploads/2020/08/british columbia.png', 'wp-content/uploads/2020/08/toronto.png', 'wp-content/uploads/2020/08/Ottowa.png']
+        var count = 0;
+        setInterval(function () {
+
+            if (count >= myArray.length) count = 0;
+            var rand = myArray[count];
+            x = document.getElementById('slider_atiq')
+            x.src = rand;
+            x.alt = rand;
+            x.style.animation = 'fading 7s infinite';
+            count++;
+        }, 7000);
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56933142-1"></script>
     <script>
@@ -29,13 +43,12 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='stylesheet' id='flexslider-css'
-        href='../wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='site-css' href='../wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
+        href='wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='site-css' href='wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
         type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='../wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='classic-theme-styles-css' href='../wp-includes/css/classic-themes.min68b3.css?ver=1'
+        href='wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min68b3.css?ver=1'
         type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
@@ -82,6 +95,16 @@
             --wp--preset--spacing--60: 2.25rem;
             --wp--preset--spacing--70: 3.38rem;
             --wp--preset--spacing--80: 5.06rem;
+        }
+
+        @keyframes fading {
+            0% {
+                opacity: 0.60;
+            }
+
+            100% {
+                opacity: 1;
+            }
         }
 
         :where(.is-layout-flex) {
@@ -371,109 +394,24 @@
         }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
-        href='../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='popup-maker-site-css'
-        href='../wp-content/uploads/pum/pum-site-stylese605.css?generated=1668451767&amp;ver=1.16.14' type='text/css'
-        media='all' />
-    <script type='text/javascript' src='../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1'
-        id='jquery-core-js'></script>
-    <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+        href='wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='popup-maker-site-css' href='wp-content/uploads/pum/pum-site-stylese605.css'
+        type='text/css' media='all' />
+    <script type='text/javascript' src='wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1' id='jquery-core-js'></script>
+    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
         id='jquery-migrate-js'></script>
     <script type='text/javascript'
-        src='../wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
+        src='wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
         id='flexslider-js'></script>
-    <script type='text/javascript' src='../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
+    <script type='text/javascript' src='wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
         id='site-js'></script>
     <link rel="canonical" href="index.html" />
-    <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
+    <link rel="shortcut icon" href="favicon.html" type="image/x-icon" />
 </head>
 
-<body class="page-template-default page page-id-528 ctct-devsavvy page-contact">
+<body class="home page-template-default page page-id-2 ctct-devsavvy page-sample-page">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../index.html">
-                            <img src="../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Devlopment Logo"
-                                width="322" height="61" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../our-story/index.html">Our Story</a>
-                                            </li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../our-team/index.html">Team</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../property-management/index.html">Property Management</a>
-                                            </li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a>
-                                            </li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../construction-project-management/index.html">Construction
-                                                    Project Management</a>
-                                            </li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../reo-services/index.html">REO Services</a>
-                                            </li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../development-acquisitions/index.html">Development &#038;
-                                                    Acquisitions</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../listings/index.html">Listings</a>
-                                    </li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="../blog/index.html">News</a>
-                                    </li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-528 current_page_item menu-item-537">
-                                        <a href="index.html" aria-current="page">Contact</a>
-                                    </li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -483,49 +421,437 @@
 
         <main>
 
-            <section class="contact-banner">
+            <section class="home-header">
                 <div class="container">
-                    <div class="banner-holder">
-                        <div class="b-copy">
-                            <h1>Contact</h1>
-                            <p><span class="lg">Hydeman Development Inc. is headquartered in Regina, Sk</span></p>
-                            <h3>Saskatchewan Office</h3>
-                            <p>205-2022 Cornwall Street<br />
-                                Regina, Sk<br />
-                                S4P 2K5<br />
-                                voice: +1 (306) 537-5656<br />
-                                email: <a href="mailto:w.hydeman@sasktel.net">w.hydeman@sasktel.net</a></p>
+                    <div class="home-holder">
+                        <div class="h-copy">
+                            <h1>Welcome to Hydeman</h1>
+                            <p>We’re a small company with big opportunities. Award-winning real estate expertise and
+                                relationships that you can trust.</p>
                         </div>
-                        <div class="b-image">
-                            <img decoding="async" src="../wp-content/uploads/2020/11/main-map-new.png" alt="" />
+                        <div class="h-image">
+                            <img src="wp-content/uploads/2020/08/toronto.png"
+                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq"
+                                class="slider_atiq_class" />
+                            <!-- <img src="wp-content/uploads/2020/08/Ottowa.png"
+                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq" class="slider_atiq_class" />
+                            <img src="wp-content/uploads/2020/08/british columbia.png"
+                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq" class="slider_atiq_class" /> -->
                         </div>
+
                     </div>
                 </div>
             </section>
 
-            <!-- <section class="locations">
-                <div class="container">
-                    <div class="location-holder">
 
-                        <div class="item">
-                            <h3>Birmingham Office</h3>
-                            <p>975 9th Avenue SW, Suite 240<br />
-                                Bessemer, AL 35022<br />
-                                voice: 205.434.3639<br />
-                                email: <a href="mailto:TLS@mcwrealty.com">TLS@mcwrealty.com</a></p>
+            <section class="services padded" style="">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <h2 style="text-align: center;">Your full-service global commercial partner</h2>
+                        <p style="text-align: center; font-weight: 400; max-width: 900px; margin: 0 auto;">Whether
+                            you’re looking for your commercial property, property management service , development
+                            opportunity,software developmet, export and import of argiriculture and readymade garments -
+                            you’ve come to the right place!</p>
+
+
+
+                        <ul class="services">
+
+
+                            <li>
+
+                                <a href="commercial-brokerage/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
+                                        alt="Commercial Brokerage" />
+
+                                    <h3>Commercial Brokerage</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="property-management/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-property-management.jpg"
+                                        alt="Property Management" />
+
+                                    <h3>Property<br>Management</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="asset-management-financial-services/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-asset-management.jpg"
+                                        alt="Asset Management" />
+
+                                    <h3>Asset Management<br>&#038; Financial<br>Services</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="construction-project-management/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-construction-management.jpg"
+                                        alt="Construction Project Management" />
+
+                                    <h3>Construction<br>Project<br>Management</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="software-services/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-software.png"
+                                        alt="Software Development" />
+
+                                    <h3>Software<br>Development</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="development-acquisitions/index.html" target="">
+
+                                    <img src="wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
+                                        alt="Readymade Garments" />
+
+                                    <h3>Readymade<br>Garments</h3>
+
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+
+
+
+
+
+                        <div align="center">
+                            <a class="btn" href="commercial-brokerage/index.html" target="">
+                                Explore Our Services </a>
                         </div>
-                        <div class="item">
-                            <h3>Park City Office</h3>
-                            <p>3100 West Pinebrook Road, Suite 2600-A<br />
-                                Park City, UT 84098<br />
-                                voice: 770.757.0030<br />
-                                email: <a href="mailto:MDM@mcwrealty.com">MDM@mcwrealty.com</a></p>
+
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+            </section>
+
+
+
+            <section class="stats">
+
+                <div class="container">
+
+                    <h2 style="text-align: center;">What makes Hydeman Development Inc an industry leader?</h2>
+                    <div class="stats-holder">
+
+                        <div class="stat-one">
+
+                            <img decoding="async" class="one"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-1.png" />
+                            <img decoding="async" class="two"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-4.png" />
+
+                        </div>
+
+                        <div class="stat-two">
+
+                            <img decoding="async" class="one"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-2.png" />
+                            <img decoding="async" class="two"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-5.png" />
+
+                        </div>
+
+                        <div class="stat-three">
+
+                            <img decoding="async" class="one"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-3.png" />
+                            <img decoding="async" class="two"
+                                src="wp-content/themes/devsavvy/images/stats/h-stat-6.png" />
+
                         </div>
 
                     </div>
 
+                    <p style="text-align: center;"><a class="btn" href="mcwhirter/our-story/index.html">Learn More</a>
+                    </p>
+
+
                 </div>
-            </section> -->
+
+
+            </section>
+
+
+
+            <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+            <section class="general-block " style="">
+
+                <div class="container">
+                    <div class="mx-auto" style="max-width: 100%;">
+                        <h2 style="text-align: center;">Why choose Hydeman Development Inc?</h2>
+                    </div>
+                </div>
+
+            </section>
+
+
+
+            <section class="testimonials-with-image padded" style="">
+
+                <div class="container">
+
+                    <section class="flexslider">
+                        <ul class="slides">
+                            <li>
+
+                                <div class="t-contain">
+                                    <div class="testimonial-image">
+
+
+                                        <img decoding="async" src="wp-content/uploads/2020/07/testimonial-pic.jpg"
+                                            alt="" />
+
+
+                                    </div>
+                                    <div class="testimonial-box">
+
+                                        <div>
+
+                                            <p>Our allegiance is to Hydeman Development Inc. We’ve built a trusting
+                                                relationship and <strong>they’ve given us honest insight</strong> about
+                                                whether certain opportunities are good financial deals or not.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="soft-blue">
+
+                                </div>
+                                <div class="testimonial-name">
+                                    Donna Fisher, Chief Administrative Officer, Pinnacle Orthopaedics </div>
+
+                            </li>
+                            <li>
+
+                                <div class="t-contain">
+                                    <div class="testimonial-image">
+
+
+                                        <img decoding="async" src="wp-content/uploads/2020/08/quote-north-fulton.jpg"
+                                            alt="North Fulton" />
+
+
+                                    </div>
+                                    <div class="testimonial-box">
+
+                                        <div>
+
+                                            <p>They <strong>give a lot of good advice</strong> about handling property
+                                                management and tenant issues when we need it. Hydeman Development Inc is
+                                                invaluable in that regard.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="soft-blue">
+
+                                </div>
+                                <div class="testimonial-name">
+                                    Lisa Sodemann, Asset Manager, Principle Real Estate Group </div>
+
+                            </li>
+                            <li>
+
+                                <div class="t-contain">
+                                    <div class="testimonial-image">
+
+
+                                        <img decoding="async" src="wp-content/uploads/2020/07/our-story-image.jpg"
+                                            alt="Our Story" />
+
+
+                                    </div>
+                                    <div class="testimonial-box">
+
+                                        <div>
+
+                                            <p>Their reputation is impeccable. <strong>They do the right thing</strong>,
+                                                even if it isn’t the easiest option.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="soft-blue">
+
+                                </div>
+                                <div class="testimonial-name">
+                                    Mavis Giska, Senior Vice President, Flagship Healthcare Properties </div>
+
+                            </li>
+                        </ul>
+                    </section>
+
+                </div>
+
+
+            </section>
+
+
+            <section class="properties reversed padded" style="background-color: #789c4a">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <h2 style="text-align: center;">Looking for real estate? Explore our Featured Services.</h2>
+
+
+
+                        <ul class="properties">
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Constractions</h3>
+                                    <img src="wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
+                                    <p>Centre Square Place<br />
+                                        Regina, Canada</p>
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Developments</h3>
+
+                                    <img src="wp-content/uploads/2020/07/property-industrial.jpg" alt="Industrial" />
+
+                                    <p>Rochdale Place<br />
+                                        Regina, Saskatchewan</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Softwares</h3>
+
+                                    <img src="wp-content/uploads/2020/07/application-development.png"
+                                        alt="application-development" />
+
+                                    <p> Toronto,Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Farmland</h3>
+
+                                    <img src="wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
+
+                                    <p>Central Alberta,
+                                        Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>RMG</h3>
+
+                                    <img src="wp-content/uploads/2020/07/garments.jpg" alt="RMG" />
+
+                                    <p>Dhaka,
+                                        Bangladesh</p>
+
+
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+            </section>
+
         </main>
 
         <section class="call">
@@ -546,9 +872,9 @@
 
                     <div class="logo-section">
 
-                        <a href="../index.html">
+                        <a href="index.html">
 
-                            <img src="../wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
+                            <img src="wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
                                 height="100" />
                         </a>
 
@@ -557,30 +883,26 @@
                         <div class="footer-social">
 
                             <a href="https://www.linkedin.com/company/mcwhirter-realty-partners/" target="_blank">
-                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
-                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-in-green.png"
-                                    alt="linkedin" />
+                                <img class="up" src="wp-content/uploads/2020/07/s-icon-in.png" alt="LinkedIn" />
+                                <img class="over" src="wp-content/uploads/2020/07/s-icon-in-green.png" alt="linkedin" />
                             </a>
 
 
                             <a href="https://www.facebook.com/mcwrealty" target="_blank">
-                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
-                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-fb-green.png"
-                                    alt="facebook" />
+                                <img class="up" src="wp-content/uploads/2020/07/s-icon-fb.png" alt="Facebook" />
+                                <img class="over" src="wp-content/uploads/2020/07/s-icon-fb-green.png" alt="facebook" />
                             </a>
 
 
                             <a href="https://twitter.com/mcwhirterrealty" target="_blank">
-                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
-                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-tw-green.png"
-                                    alt="twitter" />
+                                <img class="up" src="wp-content/uploads/2020/07/s-icon-tw.png" alt="Twitter" />
+                                <img class="over" src="wp-content/uploads/2020/07/s-icon-tw-green.png" alt="twitter" />
                             </a>
 
 
                             <a href="mailto:info@mcwrealty.com" target="_blank">
-                                <img class="up" src="../wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
-                                <img class="over" src="../wp-content/uploads/2020/07/s-icon-email-green.png"
-                                    alt="email" />
+                                <img class="up" src="wp-content/uploads/2020/07/s-icon-email.png" alt="Email" />
+                                <img class="over" src="wp-content/uploads/2020/07/s-icon-email-green.png" alt="email" />
                             </a>
 
                         </div>
@@ -592,17 +914,17 @@
                                 <ul id="menu-footer-menu" class="menu">
                                     <li id="menu-item-453"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href="../terms-and-conditions/index.html">Terms</a>
+                                        <a href="terms-and-conditions/index.html">Terms</a>
                                     </li>
                                     <li id="menu-item-452"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
-                                        <a href="../privacy-policy/index.html">Privacy</a>
+                                        <a href="privacy-policy/index.html">Privacy</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
 
-                        &copy; 2023 Hydeman Developments Inc,  LLC. All rights reserved.
+                        &copy; 2022 Hydeman Development Inc Realty Partners, LLC. All rights reserved.
 
                     </div>
 
@@ -610,28 +932,28 @@
 
                         <h3>Subscribe to our Newsletter</h3>
                         Get the latest news and updates delivered to your inbox quarterly.<br>
-                        <em>McWhirter will not share your information with any third party.</em><br>
+                        <em>Hydeman Development Inc will not share your information with any third party.</em><br>
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-348788837"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-3847601646"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_157692220">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3988975716">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_157692220" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3988975716" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_2265553092">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_402957576">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_2265553092" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_402957576" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -650,8 +972,8 @@
                                             class="ctct-input-container"><input type="checkbox" checked
                                                 name="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="1"
                                                 id="ctct-opt-in_0" /><label for="ctct-opt-in_0"> Example: Yes, I would
-                                                like to receive emails from Mcwhirter. (You can unsubscribe
-                                                anytime)</label></span></p>
+                                                like to receive emails from Hydeman Development Inc. (You can
+                                                unsubscribe anytime)</label></span></p>
                                 </div>
                                 <!--.ctct-optin-hide -->
                                 <div class="ctct_usage"
@@ -662,38 +984,39 @@
                                 </div><input type="hidden" name="ctct-id" value="544" /><input type="hidden"
                                     name="ctct-verify" value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden"
                                     name="ctct-instance" value="0" /><input type="hidden" name="ctct_time"
-                                    value="1669822155" />
+                                    value="1669822141" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_1278366971" /></p>
+                                        id="ctct-submitted_0_3469814294" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
-                                        from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
-                                        GA, 30339, http://www.mcwrealty.com. You can revoke your consent to receive
-                                        emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom
-                                        of every email. <a href="https://www.constantcontact.com/legal/service-provider"
+                                        from: Hydeman Development Inc Realty Partners, LLC, 294 Interstate North Circle,
+                                        SE, Atlanta, GA, 30339, http://www.mcwrealty.com. You can revoke your consent to
+                                        receive emails at any time by using the SafeUnsubscribe&reg; link, found at the
+                                        bottom of every email. <a
+                                            href="https://www.constantcontact.com/legal/service-provider"
                                             target="_blank" rel="noopener noreferrer">Emails are serviced by Constant
                                             Contact</a></small>
                                 </div>
                             </form>
-                            <script type="text/javascript">var ajaxurl = "../wp-admin/admin-ajax.html";</script>
+                            <script type="text/javascript">var ajaxurl = "wp-admin/admin-ajax.html";</script>
                         </div>
 
 
 
                         <div class="footer-logos">
 
-                            <img src="../wp-content/uploads/2020/07/footer-cbr.png" alt="CBR" />
+                            <img src="wp-content/uploads/2020/07/footer-cbr.png" alt="CBR" />
 
 
-                            <img src="../wp-content/uploads/2020/08/logo-irem.png" alt="IREM" />
+                            <img src="wp-content/uploads/2020/08/logo-irem.png" alt="IREM" />
 
 
-                            <img src="../wp-content/uploads/2020/07/footer-sior.png" alt="SIOR" />
+                            <img src="wp-content/uploads/2020/07/footer-sior.png" alt="SIOR" />
 
 
-                            <img src="../wp-content/uploads/2020/07/footer-boma.png" alt="BOMA" />
+                            <img src="wp-content/uploads/2020/07/footer-boma.png" alt="BOMA" />
 
                         </div>
 
@@ -707,32 +1030,32 @@
         </footer>
 
         <nav id="pop-out-nav-wrapper">
-            <p class="m-0"><a href="../index.html" id="nav-logo"></a> <a href="#" id="close"><img
-                        src="../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
-                        title="Close Menu"></a></p>
+            <p class="m-0"><a href="index.html" id="nav-logo"></a> <a href="#" id="close"><img
+                        src="wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu" title="Close Menu"></a>
+            </p>
             <ul class="pop-out-nav-parent-wrapper">
-                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../our-story/index.html" class="subParent  ">About Us</a>
+                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a href="our-story/index.html"
+                        class="subParent  ">About Us</a>
                     <ul class="subNav">
-                        <li><a href="../our-story/index.html">Our Story</a>
-                        <li><a href="../our-team/index.html">Team</a>
+                        <li><a href="our-story/index.html">Our Story</a>
+                        <li><a href="our-team/index.html">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
+                        href="commercial-brokerage/index.html" class="subParent  ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a href="../property-management/index.html">Property Management</a>
-                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
-                                Financial Services</a>
-                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
-                        <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
+                        <li><a href="commercial-brokerage/index.html">Commercial Brokerage</a>
+                        <li><a href="property-management/index.html">Property Management</a>
+                        <li><a href="asset-management-financial-services/index.html">Asset Management &#038; Financial
+                                Services</a>
+                        <li><a href="construction-project-management/index.html">Construction Project Management</a>
+                        <li><a href="reo-services/index.html">REO Services</a>
+                        <li><a href="development-acquisitions/index.html">Readymade Garments</a>
                     </ul>
                 </li>
-                <li><a href="../listings/index.html">Listings</a>
-                <li><a href="../blog/index.html">News</a>
-                <li><a class="current" href="index.html">Contact</a>
+                <li><a href="listings/index.html">Listings</a>
+                <li><a href="blog/index.html">News</a>
+                <li><a href="contact/index.html">Contact</a>
                 <li><a href="#">Tenant Login</a>
             </ul>
         </nav>
@@ -753,7 +1076,7 @@
             var s = document.getElementsByTagName("script")[0];
             var b = document.createElement("script");
             b.type = "text/javascript"; b.async = true;
-            b.src = "../../snap.licdn.com/li.lms-analytics/insight.min.js";
+            b.src = "../snap.licdn.com/li.lms-analytics/insight.min.js";
             s.parentNode.insertBefore(b, s);
         })(window.lintrk);
     </script>
@@ -775,48 +1098,44 @@
 
 
 
-            <div class="pum-content popmake-content" tabindex="0">
-                <h2 style="text-align: center;">Tenant Login</h2>
-                <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
-                    property management software. Please click continue to leave the McWhirter website and
-                    <strong>proceed to the BuildingEngines tenant login page.</strong>
-                </p>
-                <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
-                        target="_blank" rel="noopener noreferrer">Continue</a></p>
-            </div>
+            <!-- <div class="pum-content popmake-content" tabindex="0">
+			<h2 style="text-align: center;">Tenant Login</h2>
+<p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for property management software. Please click continue to leave the McWhirter website and <strong>proceed to the BuildingEngines tenant login page.</strong></p>
+<p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login" target="_blank" rel="noopener noreferrer">Continue</a></p>
+		</div>
 
 
+				
 
-
-            <button type="button" class="pum-close popmake-close" aria-label="Close">
-                × </button>
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div> -->
 
         </div>
-
-    </div>
-    <script type='text/javascript'
-        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
-        id='recaptcha-v2-js'></script>
-    <script async="async" defer type='text/javascript'
-        src='../../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
-        id='recaptcha-lib-v2-js'></script>
-    <script type='text/javascript'
-        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
-        id='ctct_frontend_forms-js'></script>
-    <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
-        id='jquery-ui-core-js'></script>
-    <script type='text/javascript' id='popup-maker-site-js-extra'>
-        /* <![CDATA[ */
-        var pum_vars = { "version": "1.16.14", "pm_dir_url": "https:\/\/mcwrealty.com\/wp-content\/plugins\/popup-maker\/", "ajaxurl": "https:\/\/mcwrealty.com\/wp-admin\/admin-ajax.php", "restapi": "https:\/\/mcwrealty.com\/wp-json\/pum\/v1", "rest_nonce": null, "default_theme": "408", "debug_mode": "", "disable_tracking": "", "home_url": "\/", "message_position": "top", "core_sub_forms_enabled": "1", "popups": [], "analytics_route": "analytics", "analytics_api": "https:\/\/mcwrealty.com\/wp-json\/pum\/v1" };
-        var pum_sub_vars = { "ajaxurl": "https:\/\/mcwrealty.com\/wp-admin\/admin-ajax.php", "message_position": "top" };
-        var pum_popups = { "pum-414": { "triggers": [{ "type": "click_open", "settings": { "cookie_name": "", "extra_selectors": ".tenant-popup" } }], "cookies": [], "disable_on_mobile": false, "disable_on_tablet": false, "atc_promotion": null, "explain": null, "type_section": null, "theme_id": "408", "size": "normal", "responsive_min_width": "0%", "responsive_max_width": "540px", "custom_width": "540px", "custom_height_auto": true, "custom_height": "380px", "scrollable_content": false, "animation_type": "fade", "animation_speed": "350", "animation_origin": "center top", "open_sound": "none", "custom_sound": "", "location": "center", "position_top": "100", "position_bottom": "0", "position_left": "0", "position_right": "0", "position_from_trigger": false, "position_fixed": false, "overlay_disabled": false, "stackable": false, "disable_reposition": false, "zindex": "1999999999", "close_button_delay": "0", "fi_promotion": null, "close_on_form_submission": false, "close_on_form_submission_delay": "0", "close_on_overlay_click": false, "close_on_esc_press": false, "close_on_f4_press": false, "disable_form_reopen": false, "disable_accessibility": false, "theme_slug": "lightbox", "id": 414, "slug": "tenant-login" } };
+        <script type='text/javascript'
+            src='wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
+            id='recaptcha-v2-js'></script>
+        <script async="async" defer type='text/javascript'
+            src='../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
+            id='recaptcha-lib-v2-js'></script>
+        <script type='text/javascript'
+            src='wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
+            id='ctct_frontend_forms-js'></script>
+        <script type='text/javascript' src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
+            id='jquery-ui-core-js'></script>
+        <script type='text/javascript' id='popup-maker-site-js-extra'>
+            /* <![CDATA[ */
+            var pum_vars = { "version": "1.16.14", "pm_dir_url": "https:\/\/mcwrealty.com\/wp-content\/plugins\/popup-maker\/", "ajaxurl": "https:\/\/mcwrealty.com\/wp-admin\/admin-ajax.php", "restapi": "https:\/\/mcwrealty.com\/wp-json\/pum\/v1", "rest_nonce": null, "default_theme": "408", "debug_mode": "", "disable_tracking": "", "home_url": "\/", "message_position": "top", "core_sub_forms_enabled": "1", "popups": [], "analytics_route": "analytics", "analytics_api": "https:\/\/mcwrealty.com\/wp-json\/pum\/v1" };
+            var pum_sub_vars = { "ajaxurl": "https:\/\/mcwrealty.com\/wp-admin\/admin-ajax.php", "message_position": "top" };
+            var pum_popups = { "pum-414": { "triggers": [{ "type": "click_open", "settings": { "cookie_name": "", "extra_selectors": ".tenant-popup" } }], "cookies": [], "disable_on_mobile": false, "disable_on_tablet": false, "atc_promotion": null, "explain": null, "type_section": null, "theme_id": "408", "size": "normal", "responsive_min_width": "0%", "responsive_max_width": "540px", "custom_width": "540px", "custom_height_auto": true, "custom_height": "380px", "scrollable_content": false, "animation_type": "fade", "animation_speed": "350", "animation_origin": "center top", "open_sound": "none", "custom_sound": "", "location": "center", "position_top": "100", "position_bottom": "0", "position_left": "0", "position_right": "0", "position_from_trigger": false, "position_fixed": false, "overlay_disabled": false, "stackable": false, "disable_reposition": false, "zindex": "1999999999", "close_button_delay": "0", "fi_promotion": null, "close_on_form_submission": false, "close_on_form_submission_delay": "0", "close_on_overlay_click": false, "close_on_esc_press": false, "close_on_f4_press": false, "disable_form_reopen": false, "disable_accessibility": false, "theme_slug": "lightbox", "id": 414, "slug": "tenant-login" } };
 /* ]]> */
-    </script>
-    <script type='text/javascript'
-        src='../wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
-        id='popup-maker-site-js'></script>
+        </script>
+        <script type='text/javascript'
+            src='wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
+            id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
+<!-- Mirrored from mcwrealty.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:31 GMT -->
 
 </html>

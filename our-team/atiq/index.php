@@ -6,7 +6,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Chowdhury Shihab Bin Shams</title>
+    <title>Md Atiquer Rahman</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -391,89 +391,7 @@
 
 <body class="our_team-template-default single single-our_team postid-368 ctct-devsavvy our_team-barry-e-mcwhirter">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../../index.html">
-                            <img src="../../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Development Logo"
-                                width="380" height="80" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="../../our-story/index.html">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
-                                                <a href="../../our-story/index.html">Our Story</a>
-                                            </li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../index.html">Team</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="../../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../../property-management/index.html">Property Management</a>
-                                            </li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a>
-                                            </li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../../construction-project-management/index.html">Construction
-                                                    Project Management</a>
-                                            </li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../../reo-services/index.html">REO Services</a>
-                                            </li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../../development-acquisitions/index.html">Readymade
-                                                    Garments</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../../listings/index.html">Listings</a>
-                                    </li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-398">
-                                        <a href="../../blog/index.html">News</a>
-                                    </li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../../contact/index.html">Contact</a>
-                                    </li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -498,13 +416,13 @@
                         <div class="team-single-contact__inner">
                             <div class="team-single-contact__image">
                                 <a href="index.html">
-                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/Shihab.jpg"
+                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/Atiq.jpg"
                                         class="attachment-full size-full wp-post-image" alt="Shihab"
                                         decoding="async" sizes="(max-width: 255px) 100vw, 255px" /> </a>
                             </div>
                             <p class="team-single-contact__email"><a
-                                    href="mailto:chshams.it@gmail.com">chshams.it@gmail.comm</a></p>
-                            <p class="team-single-contact__phone"><a href="tel:+1(240)784-6762">P: +1(240)784-6762</a></p>
+                                    href="mailto:mdatiquerrahmanbd@gmail.com">mdatiquerrahmanbd@gmail.com</a></p>
+                            <p class="team-single-contact__phone"><a href="tel:+88 01521433784">P: +88 01521433784</a></p>
 
                             <div class="team-single-contact__links">
                                 <!-- <div class="team-single-contact__vcard">
@@ -516,7 +434,7 @@
                                     </a>
                                 </div> -->
                                 <div class="team-single-contact__linkedin">
-                                    <a href="https://www.linkedin.com/in/chowdhuryshihabbinshams">
+                                    <a href="https://www.linkedin.com/in/md-atiquer-rahman-337204145/">
                                         <img class="up" src="../../wp-content/themes/devsavvy/images/linkedin.png"
                                             alt="LinkedIn" />
                                         <img class="over"
@@ -528,11 +446,14 @@
                         </div>
                     </div>
                     <div class="team-single-content">
-                        <h1>Chowdhury Shihab Bin Shams</h1>
-                        <p class="team-single-content__title">CISSP, Team Leader, USA</p>
+                        <h1>Md Atiquer Rahman</h1>
+                        <p class="team-single-content__title">Head of IT, Team Bangladesh</p>
 
                         <div class="team-single-content__body">
-                            <p>Cybersecurity analyst with 10+ years of experience with government and private security software contractors. Identified the 2018 Klux net virus, saving over 50,000 computers from destruction. 4 years of experience automating and/or scripting with Python, Jupyter malware Notebooks, PowerShell, C#, and JavaScript. Seeking to deliver airtight information security at Cyberdyne Systems. Cut security risk by 23% at S&V Inc. through automation, training, backups, firewalls, and physical controls. 3+ years of experience in Tech Support.</p>
+                            <p> 
+                                This is Md Atiquer Rahman who lives in Dhaka, Bangladesh. He hails from Faridpur, Bangladesh. He graduated from the University of Dhaka with a major in Software Engineering. Currently, he is a DevSecOps Engineer at Openrefactory Inc. Besides, and he maintains two other organizations named Happy DU(co-founder) and H-Tech Soft(co-founder). Actually, Mr. Atiq works in the diverse fields of organization management, software development, and start-ups. Previously he worked in a silicon valley based start-up as a junior blockchain developer. Prior to this, he was a junior developer at ASA International. He also had an experienced internship in a core banking solution provider named Leads Soft. In the meantime, he was an executive of Shohopathi (an ed-tech startup) maintaining different teams, and also founded Happy DU which is a mental health organization.
+When looking at his accomplishments, his rack is full of medals. He is the consecutive best prototype winner in 2020 and 2021 in International Blockchain Olympiad. He also got Duke Of Edinburg Gold, Silver, and Bronze Medals. He was also a core team member when Sohopathi got Tiger Challenge Award. 
+                            </p>    
                         </div>
 
                     </div>

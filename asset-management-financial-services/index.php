@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/our-story/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:33 GMT -->
+<!-- Mirrored from mcwrealty.com/asset-management-financial-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:48 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Hydeman &raquo; Our Story</title>
+    <title>Hydeman &raquo; Asset Management &#038; Financial Services</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -389,91 +389,9 @@
     <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="page-template-default page page-id-170 ctct-devsavvy page-our-story">
+<body class="page-template-default page page-id-297 ctct-devsavvy page-asset-management-financial-services">
     <div id="wrapper">
-        <header class="site-header">
-            <div class="container">
-                <div class="site-header__flex">
-                    <div class="site-header__logo">
-                        <a href="../index.html">
-                            <img src="../wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Devlopment Logo"
-                                width="322" height="61" />
-                        </a>
-                    </div>
-                    <div class="site-header__header-right">
-                        <div class="site-header__phone">
-                            <a href="tel:+1 (306) 537-5656">+1 (306) 537-5656</a>
-                        </div>
-                        <nav class="site-header__nav">
-                            <div class="menu-top-nav-container">
-                                <ul id="menu-top-nav" class="menu">
-                                    <li id="menu-item-395"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-170 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-395">
-                                        <a href="index.html" aria-current="page">About Us</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-399"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-170 current_page_item menu-item-399">
-                                                <a href="index.html" aria-current="page">Our Story</a>
-                                            </li>
-                                            <li id="menu-item-396"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396">
-                                                <a href="../our-team/index.html">Team</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-388"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="../commercial-brokerage/index.html">Services</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-389"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
-                                                <a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                                            </li>
-                                            <li id="menu-item-390"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
-                                                <a href="../property-management/index.html">Property Management</a>
-                                            </li>
-                                            <li id="menu-item-391"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
-                                                <a href="../asset-management-financial-services/index.html">Asset
-                                                    Management &#038; Financial Services</a>
-                                            </li>
-                                            <li id="menu-item-392"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392">
-                                                <a href="../construction-project-management/index.html">Construction
-                                                    Project Management</a>
-                                            </li>
-                                            <li id="menu-item-393"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393">
-                                                <a href="../reo-services/index.html">REO Services</a>
-                                            </li>
-                                            <li id="menu-item-394"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="../development-acquisitions/index.html">Development &#038;
-                                                    Acquisitions</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li id="menu-item-397"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="../listings/index.html">Listings</a>
-                                    </li>
-                                    <li id="menu-item-398"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="../blog/index.html">News</a>
-                                    </li>
-                                    <li id="menu-item-537"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537">
-                                        <a href="../contact/index.html">Contact</a>
-                                    </li>
-                                    <!-- <li id="menu-item-402" class="tenant-popup menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="#">Tenant Login</a></li> -->
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -483,29 +401,57 @@
 
         <main>
 
-            <section class="hero" style=" background-image: url('../wp-content/uploads/2020/07/bg-canvas.jpg');">
+            <section class="services-nav">
 
                 <div class="container">
 
-                    <div class="big ">
+                    <div class="menu-services-nav-menu-container">
+                        <ul id="menu-services-nav-menu" class="menu">
+                            <li id="menu-item-514"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a
+                                    href="../commercial-brokerage/index.html">Commercial<br>Brokerage</a></li>
+                            <li id="menu-item-513"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a
+                                    href="../property-management/index.html">Property<br>Management</a></li>
+                            <li id="menu-item-512"
+                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-297 current_page_item menu-item-512">
+                                <a href="index.html" aria-current="page">Asset Management<br>&#038; Financial
+                                    Services</a></li>
+                            <li id="menu-item-511"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
+                                    href="../construction-project-management/index.html">Construction<br>Project
+                                    Management</a></li>
+                            <li id="menu-item-510"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
+                                    href="../software-services/index.html">Software<br>Development</a></li>
+                            <li id="menu-item-509"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
+                                    href="../development-acquisitions/index.html">Readymade<br>Garments</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+            </section>
+
+
+
+            <section class="hero"
+                style=" background-image: url('../wp-content/uploads/2020/07/accent-asset-mgmt.jpg');">
+
+                <div class="container">
+
+                    <div class="big svc">
 
                         <div class="hero-holder">
-                            <h1>Our Story</h1>
-                            <p>Hydeman Development Inc. still holds true to the entrepreneurial spirit it was founded
-                                upon in 1979. Since then, we have become a leading commercial real estate services firm
-                                in the Southwest Canada and in particular, in Saskatchewan Province of Canada. We were
-                                the first to design and build the first and finest landmark building in the heart of the
-                                Capital Regina of Saskatchewan. Apart from the real estate development, we are also
-                                developing different types of software, importing finest quality readymade garments from
-                                around the world and working to export various types of Saskatchewan Wheat, Lentils and
-                                Beans. We are planning to undertake a mega-real estate development project in
-                                Saskatchewan, which will benefit the investors from around the world to invest and
-                                immigrate to Canada. </p>
+                            <p><img decoding="async" class="svc-icon"
+                                    src="../wp-content/uploads/2020/07/icon-asset-management.png"
+                                    alt="Asset Management" /></p>
+                            <h1 class="double">Asset Management &#038; Financial Services</h1>
+                            <div style="clear: both;"></div>
+                            <p>Hydeman Development Inc. advises customers to establish strategic strategies and investment recommendations to help them realize their financial objectives. Our Asset Management and Financial Services team possesses specific knowledge necessary to manage assets and remove investor supervision. As asset owners, we recognize the particular issues faced by investors, and we address each asset accordingly. We collaborate with clients to personalize financial reporting and may give comprehensive financial reporting on assets.</p>
                         </div>
-
-
-                        <img decoding="async" class="side" src="../wp-content/uploads/2020/07/our-story-awards.png"
-                            alt="Awards" />
 
 
                     </div>
@@ -517,63 +463,54 @@
 
 
 
-            <section class="testimonials-with-image padded" style="">
+            <section class="services-content">
 
                 <div class="container">
 
-                    <section class="flexslider">
-                        <ul class="slides">
-                            <li>
+                    <div class="mx-auto" style="max-width: 100%;">
 
-                                <div class="t-contain">
-                                    <div class="testimonial-image">
+                        <div class="content-holder">
+                            <div class="content-text">
+                                <h3>Services Offered</h3>
+                                <ul>
+                                    <li>Acquisition/Disposition Due Diligence</li>
+                                    <li>Contract Negotiation</li>
+                                    <li>Property Value Enhancement</li>
+                                    <li>Leasing Strategies</li>
+                                    <li>Financial Projections</li>
+                                    <li>Cash Flow Management</li>
+                                    <li>Specialized Accounting and Reporting</li>
+                                    <li>Market Research</li>
+                                    <li>Financial Strategies</li>
+                                </ul>
+                            </div>
+                            <div class="services-image">
+                                <img src="../wp-content/uploads/2020/07/asset-management.jpg" alt="Asset Management" />
+                            </div>
 
+                        </div>
 
-                                        <img decoding="async"
-                                            src="../wp-content/uploads/2020/08/quote-panera-building.jpg"
-                                            alt="Panera" />
-
-
-                                    </div>
-                                    <div class="testimonial-box">
-
-                                        <div>
-
-                                            <p>Hydeman's leasing and management team made <strong>numerous
-                                                    recommendations which proved effective</strong> in resolving the
-                                                challenges that ultimately positioned the asset to sell at a price I was
-                                                very pleased with. I would highly recommend their team for other
-                                                projects and listings in this market.</p>
-
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="soft-blue">
-
-                                </div>
-                                <div class="testimonial-name">
-                                    Cal Franklin • Garrison Hill Partners, Inc. </div>
-
-                            </li>
-                        </ul>
-                    </section>
+                    </div>
 
                 </div>
 
 
             </section>
+
+
+
+            <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
 
 
             <section class="general-block " style="">
 
                 <div class="container">
-                    <div class="mx-auto" style="max-width: 54rem;">
-                        <h2 style="text-align: center;">Our Promise</h2>
-                        <p style="text-align: center;">Customers are our only “THE” priority of Hydeman Development. We
-                            like to exceed the expectation of our customers</p>
-                        <p style="text-align: center;"><a class="btn" style="text-align: center;"
-                                href="../our-team/index.html">Meet Our Team</a></p>
+                    <div class="mx-auto" style="max-width: 100%;">
+                        <blockquote>
+                            <strong>Your limitation is your imagination.</strong>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                        </blockquote>
                     </div>
                 </div>
 
@@ -581,11 +518,124 @@
 
 
 
-            <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+            <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-            <section class="services padded" style="background-color: #e5e5e5">
+            <section class="properties  padded" style="background-color: #e5e5e5">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <h2 style="text-align: center;">Featured Services</h2>
+
+
+
+                        <ul class="properties">
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Constractions</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
+
+                                    <p>Centre Square Place<br />
+                                        Regina, Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Developments</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/property-industrial.jpg" alt="Industrial" />
+
+                                    <p>Rochdale Place<br />
+                                        Regina, Saskatchewan</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Softwares</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/application-development.png" alt="application-development" />
+
+                                    <p> Toronto,Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Farmland</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
+
+                                    <p>Central Alberta,
+                                        Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>RMG</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/garments.jpg" alt="RMG" />
+
+                                    <p>Dhaka,
+                                       Bangladesh</p>
+
+
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+            </section>
+
+
+
+            <section class="services padded" style="">
 
                 <div class="container">
 
@@ -628,7 +678,7 @@
 
                             <li>
 
-                                <a href="../asset-management-financial-services/index.html" target="">
+                                <a href="index.html" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
                                         alt="Asset Management" />
@@ -688,13 +738,6 @@
 
 
 
-                        <div align="center">
-                            <a class="btn" href="../commercial-brokerage/index.html" target="">
-                                Explore Our Services </a>
-                        </div>
-
-
-
 
                     </div>
 
@@ -713,70 +756,7 @@
 
 
 
-            <!-- <section class="logos">
-
-                <div class="container">
-
-                    <div class="mx-auto" style="max-width: 50rem;">
-
-                        <section class="flexslider">
-
-
-
-                            <ul class="slides">
-                                <li>
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-atlanta-cbr-1.png" alt="CBR" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-vsior-1.png" alt="VSIOR" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-american-college-health-exec-1.png"
-                                        alt="American College Healthcare Executives" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-irem-1.png" alt="IREM" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-boma-ga-1.png" alt="BOMA" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-icsc-1.png" alt="ICSC" />
-
-
-                                    <img decoding="async" class="logo"
-                                        src="../wp-content/uploads/2020/07/logo-national-association-realtors-1.png"
-                                        alt="National Association of Realtors" />
-
-                                </li>
-                            </ul>
-                        </section>
-
-
-                        <style type="text/css">
-                            .flex-direction-nav .flex-next,
-                            .flex-direction-nav .flex-prev {
-                                display: none;
-                            }
-                        </style>
-
-
-                    </div>
-
-                </div>
-
-            </section> -->
-
-
-
-            <p></p>
+            <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
         </main>
 
         <section class="call">
@@ -843,12 +823,10 @@
                                 <ul id="menu-footer-menu" class="menu">
                                     <li id="menu-item-453"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href="../terms-and-conditions/index.html">Terms</a>
-                                    </li>
+                                        <a href="../terms-and-conditions/index.html">Terms</a></li>
                                     <li id="menu-item-452"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452">
-                                        <a href="../privacy-policy/index.html">Privacy</a>
-                                    </li>
+                                        <a href="../privacy-policy/index.html">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -865,24 +843,24 @@
 
 
                         <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
-                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-65544627"
+                            <form class="ctct-form ctct-form-544 no-recaptcha myccform" id="ctct-form-4128767992"
                                 data-doajax="on" style="" action="#" method="post"><span
                                     class="ctct-form-description"></span>
                                 <p class="ctct-form-field ctct-form-field-text ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3996052776">First name
+                                            for="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3169409539">First name
                                             <abbr title="required">*</abbr></label></span><input required type="text"
                                         name="first_name___e5f2eda0170f589845f0a61e6054d6b7" value="" maxlength="50"
                                         placeholder="First name"
                                         class="ctct-text ctct-label-hidden myccform first_name___e5f2eda0170f589845f0a61e6054d6b7"
-                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3996052776" /></p>
+                                        id="first_name___e5f2eda0170f589845f0a61e6054d6b7_0_3169409539" /></p>
                                 <p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span
                                         class="ctct-label-hidden"><label
-                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_1032261146">Email (required)
+                                            for="email___3ca1751aa3562a0d9466d0c6f671b420_0_3431863692">Email (required)
                                             <abbr title="required">*</abbr></label></span><input required type="email"
                                         name="email___3ca1751aa3562a0d9466d0c6f671b420" value="" placeholder="Email"
                                         class="ctct-email ctct-label-hidden myccform email___3ca1751aa3562a0d9466d0c6f671b420"
-                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_1032261146" /></p>
+                                        id="email___3ca1751aa3562a0d9466d0c6f671b420_0_3431863692" /></p>
                                 <div class='ctct-list-selector' style='display:none;'>
                                     <div class="ctct-form-field ctct-form-field-checkbox ctct-form-field-required">
                                         <fieldset>
@@ -909,15 +887,14 @@
                                     style="border: 0 none; clip: rect( 0, 0, 0, 0 ); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px;">
                                     <label for="ctct_usage_field">Constant Contact Use. Please leave this field
                                         blank.</label><input type="text" value="" id="ctct_usage_field"
-                                        name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" />
-                                </div><input type="hidden" name="ctct-id" value="544" /><input type="hidden"
-                                    name="ctct-verify" value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden"
-                                    name="ctct-instance" value="0" /><input type="hidden" name="ctct_time"
-                                    value="1669822149" />
+                                        name="ctct_usage_field" class="ctct_usage_field" tabindex="-1" /></div><input
+                                    type="hidden" name="ctct-id" value="544" /><input type="hidden" name="ctct-verify"
+                                    value="f99I2x2dXjeSPjBY95wKvAaDM" /><input type="hidden" name="ctct-instance"
+                                    value="0" /><input type="hidden" name="ctct_time" value="1669822152" />
                                 <p class="ctct-form-field ctct-form-field-submit"><input type="submit"
                                         name="ctct-submitted" value="Subscribe"
                                         class="ctct-submit ctct-label-top myccform ctct-submitted"
-                                        id="ctct-submitted_0_356576469" /></p>
+                                        id="ctct-submitted_0_1199021192" /></p>
                                 <div class="ctct-disclosure">
                                     <hr><small>By submitting this form, you are consenting to receive marketing emails
                                         from: McWhirter Realty Partners, LLC, 294 Interstate North Circle, SE, Atlanta,
@@ -962,20 +939,19 @@
                         src="../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
                         title="Close Menu"></a></p>
             <ul class="pop-out-nav-parent-wrapper">
-                <li class="subParent currentParent current subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="index.html" class="subParent currentParent current">About Us</a>
+                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="../our-story/index.html" class="subParent  ">About Us</a>
                     <ul class="subNav">
-                        <li><a class="current" href="index.html">Our Story</a>
+                        <li><a href="../our-story/index.html">Our Story</a>
                         <li><a href="../our-team/index.html">Team</a>
                     </ul>
                 </li>
-                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
+                <li class="subParent currentParent  subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="../commercial-brokerage/index.html" class="subParent currentParent ">Services</a>
                     <ul class="subNav">
                         <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
                         <li><a href="../property-management/index.html">Property Management</a>
-                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
-                                Financial Services</a>
+                        <li><a class="current" href="index.html">Asset Management &#038; Financial Services</a>
                         <li><a href="../construction-project-management/index.html">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
                         <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
@@ -1012,7 +988,7 @@
         <img height="1" width="1" style="display:none;" alt=""
             src="https://px.ads.linkedin.com/collect/?pid=3997052&amp;fmt=gif" />
     </noscript>
-
+<!-- 
     <div id="pum-414" class="pum pum-overlay pum-theme-408 pum-theme-lightbox popmake-overlay click_open"
         data-popmake="{&quot;id&quot;:414,&quot;slug&quot;:&quot;tenant-login&quot;,&quot;theme_id&quot;:408,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.tenant-popup&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;540px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;540px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}"
         role="dialog" aria-hidden="true">
@@ -1030,8 +1006,7 @@
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
                     property management software. Please click continue to leave the McWhirter website and
-                    <strong>proceed to the BuildingEngines tenant login page.</strong>
-                </p>
+                    <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
             </div>
@@ -1044,7 +1019,7 @@
 
         </div>
 
-    </div>
+    </div> -->
     <script type='text/javascript'
         src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
         id='recaptcha-v2-js'></script>
@@ -1068,6 +1043,6 @@
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/our-story/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:37 GMT -->
+<!-- Mirrored from mcwrealty.com/asset-management-financial-services/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:49 GMT -->
 
 </html>
