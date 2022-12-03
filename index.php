@@ -50,6 +50,7 @@
         href='wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min68b3.css?ver=1'
         type='text/css' media='all' />
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
     <style id='global-styles-inline-css' type='text/css'>
         body {
             --wp--preset--color--black: #000000;
@@ -430,6 +431,34 @@
                                 relationships that you can trust.</p>
                         </div>
                         <div class="h-image">
+
+                            <!-- <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                                <div class="carousel-indicators">
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                    <img src="wp-content/uploads/2020/08/toronto.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                    <img src="wp-content/uploads/2020/08/british columbia.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                    <img src="wp-content/uploads/2020/08/Ottowa.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div> -->
                             <img src="<?root?>wp-content/uploads/2020/08/toronto.png"
                                 alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq"
                                 class="slider_atiq_class" />
@@ -950,11 +979,12 @@
 	</div> -->
 
         </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script type='text/javascript'
             src='wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
             id='recaptcha-v2-js'></script>
         <script async="async" defer type='text/javascript'
-            src='../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
+            src='www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
             id='recaptcha-lib-v2-js'></script>
         <script type='text/javascript'
             src='wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
@@ -971,6 +1001,7 @@
         <script type='text/javascript'
             src='wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
             id='popup-maker-site-js'></script>
+       
 </body>
 
 <!-- Mirrored from mcwrealty.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:31 GMT -->

@@ -57,7 +57,7 @@
                     </div>
                 </div>
 
-                &copy; 2022 Hydeman Development Inc Realty Partners, LLC. All rights reserved.
+                &copy; <?=date('Y')?> Hydeman Development Inc Realty Partners, LLC. All rights reserved.
 
             </div>
 
