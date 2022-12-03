@@ -615,19 +615,19 @@
                         href="index.html" class="subParent currentParent current">About Us</a>
                     <ul class="subNav">
                         <li><a class="current" href="index.html">Our Story</a>
-                        <li><a href="../our-team/index.html">Team</a>
+                        <li><a href="../our-team/">Team</a>
                     </ul>
                 </li>
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../commercial-brokerage/index.html" class="subParent  ">Services</a>
+                        href="../commercial-brokerage/" class="subParent  ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../commercial-brokerage/index.html">Commercial Brokerage</a>
-                        <li><a href="../property-management/index.html">Property Management</a>
-                        <li><a href="../asset-management-financial-services/index.html">Asset Management &#038;
+                        <li><a href="../commercial-brokerage/">Commercial Brokerage</a>
+                        <li><a href="../property-management/">Property Management</a>
+                        <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../construction-project-management/index.html">Construction Project Management</a>
+                        <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/index.html">Readymade Garments</a>
+                        <li><a href="../development-acquisitions/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>
