@@ -17,7 +17,7 @@
                                 <ul id="menu-top-nav" class="menu">
                                     <li id="menu-item-395"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-395">
-                                        <a href="<?=root?>/our-story/">About Us</a>
+                                        <a href="<?=root?>/our-story/" class="<?=$active_menu==0?'active-menu':''?>">About Us</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-399"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
@@ -32,7 +32,7 @@
                                     </li>
                                     <li id="menu-item-388"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-388">
-                                        <a href="<?=root?>/commercial-brokerage/">Services</a>
+                                        <a href="<?=root?>/commercial-brokerage/" class="<?=$active_menu==1?'active-menu':''?>">Services</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-389"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-389">
@@ -81,7 +81,7 @@
                                     </li>
                                     <li id="menu-item-397"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397">
-                                        <a href="<?=root?>/listings/">Investment</a>
+                                        <a href="<?=root?>/listings/" class="<?=$active_menu==2?'active-menu':''?>">Investment</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-399"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">
@@ -94,7 +94,7 @@
                                     
                                     <li id="menu-item-398"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398">
-                                        <a href="<?=root?>/blog/">Farmland</a>
+                                        <a href="<?=root?>/blog/" class="<?=$active_menu==3?'active-menu':''?>">Farmland</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-399"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399">

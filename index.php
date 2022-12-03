@@ -1,3 +1,4 @@
+<?php $active_menu=-1;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -14,21 +15,7 @@
     <script type='text/javascript'
         src='../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
         async='async'></script>
-    <script>
-
-        var myArray = ['wp-content/uploads/2020/08/british columbia.png', 'wp-content/uploads/2020/08/toronto.png', 'wp-content/uploads/2020/08/Ottowa.png']
-        var count = 0;
-        setInterval(function () {
-
-            if (count >= myArray.length) count = 0;
-            var rand = myArray[count];
-            x = document.getElementById('slider_atiq')
-            x.src = rand;
-            x.alt = rand;
-            x.style.animation = 'fading 7s infinite';
-            count++;
-        }, 7000);
-    </script>
+    
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56933142-1"></script>
     <script>
@@ -393,6 +380,23 @@
             font-size: 1.5em;
             line-height: 1.6;
         }
+        @keyframes fadeIn { 
+            50% {
+                opacity: 1;
+            }
+            from{
+                opacity: 1;
+            }
+            to{
+                opacity: 0;
+            }
+        }
+
+        .animate-fadeout {
+            animation: fadeIn 3s;
+            animation-fill-mode: backwards;
+            animation-direction: alternate;
+        }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
         href='wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css' type='text/css' media='all' />
@@ -459,13 +463,31 @@
                                     <span class="visually-hidden">Next</span>
                                 </button>
                             </div> -->
-                            <img src="<?root?>wp-content/uploads/2020/08/toronto.png"
-                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq"
-                                class="slider_atiq_class" />
-                            <!-- <img src="wp-content/uploads/2020/08/Ottowa.png"
-                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq" class="slider_atiq_class" />
-                            <img src="wp-content/uploads/2020/08/british columbia.png"
-                                alt="Hydeman Development Inc Commercial Real Estate" id="slider_atiq" class="slider_atiq_class" /> -->
+                            <div style="position:relative" id="slide-container">
+                                <img style="position:absolute;" src="<?root?>wp-content/uploads/2020/08/Ottowa.png">
+                                <img class="animate-fadeout" src="<?root?>wp-content/uploads/2020/08/toronto.png">
+                            </div>
+                            <script>
+
+                                var myArray = ['wp-content/uploads/2020/08/british columbia.png', 'wp-content/uploads/2020/08/toronto.png', 'wp-content/uploads/2020/08/Ottowa.png']
+                                var count = 1;
+                                let slides = document.getElementById('slide-container').children;
+                                console.log(slides[0].src);
+                                slides[0].src=myArray[1];
+                                slides[1].src=myArray[0];
+                                var anim=setInterval(function () {
+                                    count =count%myArray.length;
+                                    slides[1].src= slides[0].src;
+                                    slides[1].classList.remove("animate-fadeout");
+                                    count++;
+                                    setTimeout(function () {
+                                        slides[1].className="animate-fadeout";
+                                        count =count%myArray.length;
+                                        slides[0].src=myArray[count];
+                                    },1000);
+                                   
+                                }, 4000);
+                            </script>
                         </div>
 
                     </div>
@@ -979,6 +1001,8 @@
 	</div> -->
 
         </div>
+       
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script type='text/javascript'
             src='wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
