@@ -430,7 +430,7 @@
                 <div class="container">
                     <div class="home-holder">
                         <div class="h-copy">
-                            <h1>Welcome to Hydeman Developments!</h1>
+                            <h1>Welcome to Hydeman Development!</h1>
                             <p>We’re a small company with big opportunities. Award-winning real estate expertise and
                                 relationships that you can trust.</p>
                         </div>

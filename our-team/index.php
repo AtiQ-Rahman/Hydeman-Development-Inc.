@@ -500,9 +500,10 @@
                     </div>
                     <div class="hero-content">
                         <h1>Our Team</h1>
-                        <p>When you contact us, you won’t need to wait for the next available broker or a property
-                            manager. You’ll talk to Kathy. Peyton. Or Greer.</p>
-                        <p>McWhirter’s partners and associates are available 24/7 to help you navigate the unique
+                        <p>
+                        At Better Work, we are driven by shared standards of excellence, guided by the same integrity, and motivated by a common ambition to improve lives
+                        </p>
+                        <p>Hydeman’s partners and associates are available 24/7 to help you navigate the unique
                             opportunities and challenges of the commercial real estate market. You can rely on us for
                             wise counsel throughout the entire lifecycle of your property!</p>
                     </div>

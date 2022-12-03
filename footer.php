@@ -1,4 +1,4 @@
-<footer class="mcw">
+<footer class="mcw" >
     <div class="container">
 
         <div class="footer-holder">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
 
-                &copy; <?=date('Y')?> Hydeman Development Inc Realty Partners, LLC. All rights reserved.
+                &copy; <?=date('Y')?> Hydeman Development Inc. All rights reserved.
 
             </div>
 
