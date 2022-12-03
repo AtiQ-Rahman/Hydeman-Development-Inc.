@@ -57,7 +57,7 @@
                                                 <a href="<?=root?>/software-services/">Software Development</a></li>
                                             <li id="menu-item-394"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394">
-                                                <a href="<?=root?>/development-acquisitions/">Readymade Garments</a></li>
+                                                <a href="<?=root?>/readymade-garments/">Readymade Garments</a></li>
                                         </ul>
                                     </li>
                                     <li id="menu-item-397"

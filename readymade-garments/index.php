@@ -1,19 +1,19 @@
-<?php $active_menu=0;?>
+<?php $active_menu=1;?>
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/our-team/barry-e-mcwhirter/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:02 GMT -->
+<!-- Mirrored from mcwrealty.com/development-acquisitions/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:51 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>Pankaj Jaiswal</title>
+    <title>Hydeman &raquo; Readymade Garments</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <script type='text/javascript'
-        src='../../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
+        src='../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
         async='async'></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -30,13 +30,13 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='stylesheet' id='flexslider-css'
-        href='../../wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css'
+        href='../wp-content/themes/devsavvy/plugins/flexslider/flexslider8d5a.css?ver=2.4.0' type='text/css'
         media='all' />
-    <link rel='stylesheet' id='site-css' href='../../wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
+    <link rel='stylesheet' id='site-css' href='../wp-content/themes/devsavvy/style.mina9d1.css?ver=1614733405082'
         type='text/css' media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='../../wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='classic-theme-styles-css' href='../../wp-includes/css/classic-themes.min68b3.css?ver=1'
+        href='../wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='../wp-includes/css/classic-themes.min68b3.css?ver=1'
         type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
@@ -372,27 +372,27 @@
         }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
-        href='../../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
+        href='../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
         media='all' />
     <link rel='stylesheet' id='popup-maker-site-css'
-        href='../../wp-content/uploads/pum/pum-site-stylese605.css?generated=1668451767&amp;ver=1.16.14' type='text/css'
+        href='../wp-content/uploads/pum/pum-site-stylese605.css?generated=1668451767&amp;ver=1.16.14' type='text/css'
         media='all' />
-    <script type='text/javascript' src='../../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1'
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1'
         id='jquery-core-js'></script>
-    <script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
         id='jquery-migrate-js'></script>
     <script type='text/javascript'
-        src='../../wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
+        src='../wp-content/themes/devsavvy/plugins/flexslider/jquery.flexslider8d5a.js?ver=2.4.0'
         id='flexslider-js'></script>
-    <script type='text/javascript' src='../../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
+    <script type='text/javascript' src='../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
         id='site-js'></script>
     <link rel="canonical" href="index.html" />
-    <link rel="shortcut icon" href="../../favicon.html" type="image/x-icon" />
+    <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
 </head>
 
-<body class="our_team-template-default single single-our_team postid-368 ctct-devsavvy our_team-barry-e-mcwhirter">
+<body class="page-template-default page page-id-325 ctct-devsavvy page-development-acquisitions">
     <div id="wrapper">
-        <?php include('../../header.php')?>
+        <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
                 Proudly Serving The Commercial Real Estate Industry For Over 40 Years
@@ -401,63 +401,356 @@
 
 
         <main>
-            <div class="team-single-back">
+
+            <section class="services-nav">
+
                 <div class="container">
-                    <a href="<?=root?>/our-team/">
-                        <img src="../../wp-content/themes/devsavvy/images/back-arrow.png" alt="Back to Team"
-                            class="mr-2" />
-                        <p class="font-bold">Back to Team</p>
-                    </a>
+
+                    <div class="menu-services-nav-menu-container">
+                        <ul id="menu-services-nav-menu" class="menu">
+                            <li id="menu-item-514"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a
+                                    href="../commercial-brokerage/">Commercial<br>Brokerage</a></li>
+                            <li id="menu-item-513"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a
+                                    href="../property-management/">Property<br>Management</a></li>
+                            <li id="menu-item-512"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a
+                                    href="../asset-management-financial-services/">Asset Management<br>&#038;
+                                    Financial Services</a></li>
+                            <li id="menu-item-511"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
+                                    href="../construction-project-management/">Construction<br>Project
+                                    Management</a></li>
+                            <li id="menu-item-510"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
+                                    href="../software-services/">Software<br>Development</a></li>
+                            <li id="menu-item-509"
+                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-325 current_page_item menu-item-509">
+                                <a href="#" aria-current="page">Readymade <br>Garments</a></li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-            <div class="grey-bar"></div>
-            <div class="container team-single-template">
-                <div class="team-single-container">
-                    <div class="team-single-contact">
-                        <div class="team-single-contact__inner">
-                            <div class="team-single-contact__image">
-                                <a href="index.html">
-                                    <img width="255" height="359" src="../../wp-content/uploads/2020/07/pankaj.png"
-                                        class="attachment-full size-full wp-post-image" alt="Pankaj"
-                                        decoding="async" sizes="(max-width: 255px) 100vw, 255px" /> </a>
+
+
+            </section>
+
+
+
+            <section class="hero"
+                style=" background-image: url('../wp-content/uploads/2020/07/accent-dev-acquisition.jpg');">
+
+                <div class="container">
+
+                    <div class="big svc">
+
+                        <div class="hero-holder">
+                            <p><img decoding="async" class="svc-icon"
+                                    src="../wp-content/uploads/2020/07/icon-dev-acquisitions.png"
+                                    alt="Development &amp; Acquisitions" /></p>
+                            <h1 class="double">Readymade<br>Garments</h1>
+                            <div style="clear: both;"></div>
+                            <p>Hydeman Development is working with the Leading Garments Manufacturers including Apparel Bangla Sourcing Limited of Bangladesh to produce various types of clothing of Men, Women and Children. We are primarily focusing to produce and import high-quality woolen sweaters and winter clothing from Bangladesh and India to meet the demand of the Canadians living under coldest weather condition of the West-Northwest Canadian Provinces primarily of Saskatchewan. Our initiative also includes to supply the best quality Clothing to the door of every home by online shopping platform. </p>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+            </section>
+
+
+
+            <section class="services-content">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <div class="content-holder">
+                            <div class="content-text">
+                                <h3>Products Offered</h3>
+                                <ul>
+                                    <li>Gents Clothings</li>
+                                    <li>Girls Clothings</li>
+                                    <li>Kids Clothings</li>
+                                    <li>Pet Wear</li>
+                                    <li>Sweaters</li>
+                                    <li>Beanie</li>
+                                </ul>
                             </div>
-                            <!-- <p class="team-single-contact__email"><a
-                                    href="mailto:pankaj@developments.com">pankaj@hydemandevelopments.com</a></p>
-                            <p class="team-single-contact__phone"><a href="tel:+1 (306) 537-5656">P: +1 (306)
-                                    537-5656</a></p> -->
+                            <div class="services-image">
+                                <img src="../wp-content/uploads/2020/07/development.jpg"
+                                    alt="Readymade Garments" />
+                            </div>
 
-                            <!-- <div class="team-single-contact__links">
-                                <div class="team-single-contact__vcard">
-                                    <a href="../../wp-content/uploads/2020/07/barry-mcwhirter-vcard.zip">
-                                        <img class="up" src="../../wp-content/themes/devsavvy/images/vcard.png"
-                                            alt="VCard" />
-                                        <img class="over" src="../../wp-content/themes/devsavvy/images/vcard-white.png"
-                                            alt="VCard" />
-                                    </a>
-                                </div>
-                                <div class="team-single-contact__linkedin">
-                                    <a>
-                                        <img class="up" src="../../wp-content/themes/devsavvy/images/linkedin.png"
-                                            alt="LinkedIn" />
-                                        <img class="over"
-                                            src="../../wp-content/themes/devsavvy/images/linkedin-white.png"
-                                            alt="LinkedIn" />
-                                    </a>
-                                </div>
-                            </div> -->
                         </div>
+
                     </div>
-                    <div class="team-single-content">
-                        <h1>Pankaj Jaiswal</h1>
-                        <p class="team-single-content__title">IT and Marketing, India</p>
 
-                        <div class="team-single-content__body">
-                            <p>Pankaj Jaiswal is a passionate Indian Business Executive. He is currently the CMD of Quosphere Infosolutions (P) Ltd. an Information Technology company based out of Mumbai, India. Showing true entrepreneurial instinct, Mr. Jaiswal saw the wave of the future, with zeal of staying abreast with the current market trends and technologies he ventured into Information Technology sector in the year 2006 which is believed to be a paradigm shift from Steel Industry to Technology sector. The major focus is on Data Analytics, Artificial Intelligence &amp; Cognitive, Machine Learning, IoT while keeping abreast with major happenings on latest upgradation in technologies across the world. He enjoys working on projects, influencing and guiding people associated with him at every stage, from the concept of engineering, technology, commercials and beyond. </p>
-                        </div>
+                </div>
 
+
+            </section>
+
+
+
+            <section class="general-block " style="">
+
+                <div class="container">
+                    <div class="mx-auto" style="max-width: 100%;">
+                        <blockquote>
+                            <strong>Your limitation is your imagination.</strong>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                        </blockquote>
                     </div>
                 </div>
-            </div>
+
+            </section>
+
+
+
+            <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+            <section class="properties  padded" style="background-color: #e5e5e5">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <h2 style="text-align: center;">Featured Services</h2>
+
+
+
+                        <ul class="properties">
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Constractions</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
+
+                                    <p>Centre Square Place<br />
+                                        Regina, Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Developments</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/property-industrial.jpg" alt="Industrial" />
+
+                                    <p>Rochdale Place<br />
+                                        Regina, Saskatchewan</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Softwares</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/application-development.png" alt="application-development" />
+
+                                    <p> Toronto,Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>Farmland</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
+
+                                    <p>Central Alberta,
+                                        Canada</p>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a>
+
+                                    <h3>RMG</h3>
+
+                                    <img src="../wp-content/uploads/2020/07/garments.jpg" alt="RMG" />
+
+                                    <p>Dhaka,
+                                       Bangladesh</p>
+
+
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+            </section>
+
+
+
+            <section class="services padded" style="">
+
+                <div class="container">
+
+                    <div class="mx-auto" style="max-width: 100%;">
+
+                        <h2 style="text-align: center;">Explore Our Services</h2>
+
+
+
+                        <ul class="services">
+
+
+                            <li>
+
+                                <a href="../commercial-brokerage/" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
+                                        alt="Commercial Brokerage" />
+
+                                    <h3>Commercial Brokerage</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="../property-management/" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
+                                        alt="Property Management" />
+
+                                    <h3>Property<br>Management</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="../asset-management-financial-services/" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
+                                        alt="Asset Management" />
+
+                                    <h3>Asset Management<br>&#038; Financial<br>Services</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="../construction-project-management/" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
+                                        alt="Construction Project Management" />
+
+                                    <h3>Construction<br>Project<br>Management</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="../software-services/" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-software.png"
+                                        alt="Software Development" />
+
+                                    <h3>Software<br>Development</h3>
+
+                                </a>
+
+                            </li>
+
+
+                            <li>
+
+                                <a href="#" target="">
+
+                                    <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
+                                        alt="Readymade Garments" />
+
+                                    <h3>Readymade<br>Garments</h3>
+
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+
+
+
+
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+                </div>
+
+
+            </section>
+
+
+
+            <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
         </main>
 
         <section class="call">
@@ -470,36 +763,35 @@
 
         </section>
 
-        <?php include('../../footer.php')?>
+        <?php include('../footer.php')?>
 
         <nav id="pop-out-nav-wrapper">
-            <p class="m-0"><a href="../../index.html" id="nav-logo"></a> <a href="#" id="close"><img
-                        src="../../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
+            <p class="m-0"><a href="../index.html" id="nav-logo"></a> <a href="#" id="close"><img
+                        src="../wp-content/themes/devsavvy/images/nav-close.svg" alt="close menu"
                         title="Close Menu"></a></p>
             <ul class="pop-out-nav-parent-wrapper">
                 <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../../our-story/" class="subParent  ">About Us</a>
+                        href="../our-story/" class="subParent  ">About Us</a>
                     <ul class="subNav">
-                        <li><a href="../../our-story/">Our Story</a>
-                        <li><a href="<?=root?>/our-team/">Team</a>
+                        <li><a href="../our-story/">Our Story</a>
+                        <li><a href="../our-team/">Team</a>
                     </ul>
                 </li>
-                <li class="subParent   subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="../../commercial-brokerage/" class="subParent  ">Services</a>
+                <li class="subParent currentParent  subitems"><a href="#" class="subnav-dropdown"></a> <a
+                        href="../commercial-brokerage/" class="subParent currentParent ">Services</a>
                     <ul class="subNav">
-                        <li><a href="../../commercial-brokerage/">Commercial Brokerage</a>
-                        <li><a href="../../property-management/">Property Management</a>
-                        <li><a href="../../asset-management-financial-services/">Asset Management &#038;
+                        <li><a href="../commercial-brokerage/">Commercial Brokerage</a>
+                        <li><a href="../property-management/">Property Management</a>
+                        <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a href="../../construction-project-management/">Construction Project
-                                Management</a>
-                        <li><a href="../../reo-services/index.html">REO Services</a>
-                        <li><a href="../../readymade-garments/">Readymade Garments</a>
+                        <li><a href="../construction-project-management/">Construction Project Management</a>
+                        <li><a href="../reo-services/index.html">REO Services</a>
+                        <li><a class="current" href="index.html">Readymade Garments</a>
                     </ul>
                 </li>
-                <li><a href="../../listings/index.html">Listings</a>
-                <li><a href="../../blog/index.html">News</a>
-                <li><a href="../../contact/index.html">Contact</a>
+                <li><a href="../listings/index.html">Listings</a>
+                <li><a href="../blog/index.html">News</a>
+                <li><a href="../contact/index.html">Contact</a>
                 <li><a href="#">Tenant Login</a>
             </ul>
         </nav>
@@ -520,7 +812,7 @@
             var s = document.getElementsByTagName("script")[0];
             var b = document.createElement("script");
             b.type = "text/javascript"; b.async = true;
-            b.src = "../../../snap.licdn.com/li.lms-analytics/insight.min.js";
+            b.src = "../../snap.licdn.com/li.lms-analytics/insight.min.js";
             s.parentNode.insertBefore(b, s);
         })(window.lintrk);
     </script>
@@ -546,8 +838,7 @@
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
                     property management software. Please click continue to leave the McWhirter website and
-                    <strong>proceed to the BuildingEngines tenant login page.</strong>
-                </p>
+                    <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
             </div>
@@ -562,15 +853,15 @@
 
     </div>
     <script type='text/javascript'
-        src='../../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
+        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
         id='recaptcha-v2-js'></script>
     <script async="async" defer type='text/javascript'
-        src='../../../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
+        src='../../www.google.com/recaptcha/api0c32.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=1.13.0'
         id='recaptcha-lib-v2-js'></script>
     <script type='text/javascript'
-        src='../../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
+        src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min1dd9.js?ver=1.13.0'
         id='ctct_frontend_forms-js'></script>
-    <script type='text/javascript' src='../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
+    <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2'
         id='jquery-ui-core-js'></script>
     <script type='text/javascript' id='popup-maker-site-js-extra'>
         /* <![CDATA[ */
@@ -580,10 +871,10 @@
 /* ]]> */
     </script>
     <script type='text/javascript'
-        src='../../wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
+        src='../wp-content/uploads/pum/pum-site-scripts7907.js?defer&amp;generated=1668451767&amp;ver=1.16.14'
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/our-team/barry-e-mcwhirter/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:30:04 GMT -->
+<!-- Mirrored from mcwrealty.com/development-acquisitions/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:52 GMT -->
 
 </html>

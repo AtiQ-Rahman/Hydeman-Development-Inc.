@@ -416,7 +416,7 @@
                                     href="../property-management/">Property<br>Management</a></li>
                             <li id="menu-item-512"
                                 class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-297 current_page_item menu-item-512">
-                                <a href="index.html" aria-current="page">Asset Management<br>&#038; Financial
+                                <a href="#" aria-current="page">Asset Management<br>&#038; Financial
                                     Services</a></li>
                             <li id="menu-item-511"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a
@@ -427,7 +427,7 @@
                                     href="../software-services/">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/">Readymade<br>Garments</a>
+                                    href="../readymade-garments/">Readymade<br>Garments</a>
                             </li>
                         </ul>
                     </div>
@@ -679,7 +679,7 @@
 
                             <li>
 
-                                <a href="index.html" target="">
+                                <a href="#" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-asset-management.jpg"
                                         alt="Asset Management" />
@@ -721,7 +721,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/" target="">
+                                <a href="../readymade-garments/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -792,7 +792,7 @@
                         <li><a class="current" href="index">Asset Management &#038; Financial Services</a>
                         <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>
@@ -826,38 +826,7 @@
         <img height="1" width="1" style="display:none;" alt=""
             src="https://px.ads.linkedin.com/collect/?pid=3997052&amp;fmt=gif" />
     </noscript>
-<!-- 
-    <div id="pum-414" class="pum pum-overlay pum-theme-408 pum-theme-lightbox popmake-overlay click_open"
-        data-popmake="{&quot;id&quot;:414,&quot;slug&quot;:&quot;tenant-login&quot;,&quot;theme_id&quot;:408,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.tenant-popup&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;540px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;540px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}"
-        role="dialog" aria-hidden="true">
 
-        <div id="popmake-414"
-            class="pum-container popmake theme-408 pum-responsive pum-responsive-normal responsive size-normal">
-
-
-
-
-
-
-
-            <div class="pum-content popmake-content" tabindex="0">
-                <h2 style="text-align: center;">Tenant Login</h2>
-                <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
-                    property management software. Please click continue to leave the McWhirter website and
-                    <strong>proceed to the BuildingEngines tenant login page.</strong></p>
-                <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
-                        target="_blank" rel="noopener noreferrer">Continue</a></p>
-            </div>
-
-
-
-
-            <button type="button" class="pum-close popmake-close" aria-label="Close">
-                × </button>
-
-        </div>
-
-    </div> -->
     <script type='text/javascript'
         src='../wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min1dd9.js?ver=1.13.0'
         id='recaptcha-v2-js'></script>

@@ -462,7 +462,7 @@
                                 Financial Services</a>
                         <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>

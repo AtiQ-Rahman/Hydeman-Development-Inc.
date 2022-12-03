@@ -589,7 +589,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/" target="">
+                                <a href="../readymade-garments/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -731,7 +731,7 @@
                                 Financial Services</a>
                         <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>

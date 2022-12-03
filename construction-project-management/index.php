@@ -420,13 +420,13 @@
                                     Financial Services</a></li>
                             <li id="menu-item-511"
                                 class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-306 current_page_item menu-item-511">
-                                <a href="index.html" aria-current="page">Construction<br>Project Management</a></li>
+                                <a href="#" aria-current="page">Construction<br>Project Management</a></li>
                             <li id="menu-item-510"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a
                                     href="../software-services/">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/">Readymade<br>Garments</a>
+                                    href="../readymade-garments/">Readymade<br>Garments</a>
                             </li>
                         </ul>
                     </div>
@@ -685,7 +685,7 @@
 
                             <li>
 
-                                <a href="index.html" target="">
+                                <a href="#" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-construction-management.jpg"
                                         alt="Construction Project Management" />
@@ -713,7 +713,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/" target="">
+                                <a href="../readymade-garments/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -783,15 +783,15 @@
                         <li><a href="../property-management/">Property Management</a>
                         <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
-                        <li><a class="current" href="index.html">Construction Project Management</a>
-                        <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a class="current" href="#">Construction Project Management</a>
+                        <li><a href="../software-services/">Software Services</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
-                <li><a href="../listings/index.html">Listings</a>
+                <!-- <li><a href="../listings/index.html">Listings</a>
                 <li><a href="../blog/index.html">News</a>
                 <li><a href="../contact/index.html">Contact</a>
-                <li><a href="#">Tenant Login</a>
+                <li><a href="#">Tenant Login</a> -->
             </ul>
         </nav>
         <div id="overlay"></div>

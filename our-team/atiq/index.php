@@ -496,7 +496,7 @@ When looking at his accomplishments, his rack is full of medals. He is the conse
                         <li><a href="../../construction-project-management/">Construction Project
                                 Management</a>
                         <li><a href="../../reo-services/index.html">REO Services</a>
-                        <li><a href="../../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../../listings/index.html">Listings</a>

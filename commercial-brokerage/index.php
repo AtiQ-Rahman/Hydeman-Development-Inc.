@@ -407,7 +407,7 @@
                         <ul id="menu-services-nav-menu" class="menu">
                             <li id="menu-item-514"
                                 class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-217 current_page_item menu-item-514">
-                                <a href="index.html" aria-current="page">Commercial<br>Brokerage</a></li>
+                                <a href="#" aria-current="page">Commercial<br>Brokerage</a></li>
                             <li id="menu-item-513"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a
                                     href="../property-management/">Property<br>Management</a></li>
@@ -424,7 +424,7 @@
                                     href="../software-services/">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/">Readymade<br>Garments</a>
+                                    href="../readymade-garments/">Readymade<br>Garments</a>
                             </li>
                         </ul>
                     </div>
@@ -639,7 +639,7 @@
 
                             <li>
 
-                                <a href="index.html" target="">
+                                <a href="#" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-commercial-brokerage.jpg"
                                         alt="Commercial Brokerage" />
@@ -709,7 +709,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/" target="">
+                                <a href="../readymade-garments/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -773,21 +773,21 @@
                     </ul>
                 </li>
                 <li class="subParent currentParent current subitems"><a href="#" class="subnav-dropdown"></a> <a
-                        href="index.html" class="subParent currentParent current">Services</a>
+                        href="# class="subParent currentParent current">Services</a>
                     <ul class="subNav">
-                        <li><a class="current" href="index.html">Commercial Brokerage</a>
+                        <li><a class="current" href="#">Commercial Brokerage</a>
                         <li><a href="../property-management/">Property Management</a>
                         <li><a href="../asset-management-financial-services/">Asset Management &#038;
                                 Financial Services</a>
                         <li><a href="../construction-project-management/">Construction Project Management</a>
-                        <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../software-services/">Software Services</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
-                <li><a href="../listings/index.html">Listings</a>
+                <!-- <li><a href="../listings/index.html">Listings</a>
                 <li><a href="../blog/index.html">News</a>
                 <li><a href="../contact/index.html">Contact</a>
-                <li><a href="#">Tenant Login</a>
+                <li><a href="#">Tenant Login</a> -->
             </ul>
         </nav>
         <div id="overlay"></div>

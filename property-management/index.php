@@ -413,7 +413,7 @@
                                     href="../commercial-brokerage/">Commercial<br>Brokerage</a></li>
                             <li id="menu-item-513"
                                 class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-284 current_page_item menu-item-513">
-                                <a href="index.html" aria-current="page">Property<br>Management</a></li>
+                                <a href="#" aria-current="page">Property<br>Management</a></li>
                             <li id="menu-item-512"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a
                                     href="../asset-management-financial-services/">Asset Management<br>&#038;
@@ -427,7 +427,7 @@
                                     href="../software-services/">Software<br>Development</a></li>
                             <li id="menu-item-509"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a
-                                    href="../development-acquisitions/">Readymade<br>Garments</a>
+                                    href="../readymade-garments/">Readymade<br>Garments</a>
                             </li>
                         </ul>
                     </div>
@@ -662,7 +662,7 @@
 
                             <li>
 
-                                <a href="index.html" target="">
+                                <a href="#" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-property-management.jpg"
                                         alt="Property Management" />
@@ -718,7 +718,7 @@
 
                             <li>
 
-                                <a href="../development-acquisitions/" target="">
+                                <a href="../readymade-garments/" target="">
 
                                     <img src="../wp-content/uploads/2020/07/service-dev-acquisitions.jpg"
                                         alt="Readymade Garments" />
@@ -790,7 +790,7 @@
                                 Financial Services</a>
                         <li><a href="../construction-project-management/">Construction Project Management</a>
                         <li><a href="../reo-services/index.html">REO Services</a>
-                        <li><a href="../development-acquisitions/">Readymade Garments</a>
+                        <li><a href="../readymade-garments/">Readymade Garments</a>
                     </ul>
                 </li>
                 <li><a href="../listings/index.html">Listings</a>
