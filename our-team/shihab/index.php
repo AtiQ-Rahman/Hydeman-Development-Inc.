@@ -448,7 +448,7 @@
                     </div>
                     <div class="team-single-content">
                         <h1>Chowdhury Shihab Bin Shams</h1>
-                        <p class="team-single-content__title">CISSP, Team Leader, USA</p>
+                        <p class="team-single-content__title">Engineer, Team Leader, USA</p>
 
                         <div class="team-single-content__body">
                             <p>
