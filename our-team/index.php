@@ -461,7 +461,7 @@
 
                                 </div>
                                 <p class="team-member__name">Chowdhury Shihab Bin Shams</p>
-                                <p class="team-member__title">CISSP, Team Leader, USA</p>
+                                <p class="team-member__title">Engineer, Team Leader, USA</p>
                             </a>
                         </div>
                         <div class="team-member">
