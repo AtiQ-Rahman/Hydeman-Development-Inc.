@@ -425,7 +425,7 @@
 
                                 </div>
                                 <p class="team-member__name">Shams Chowdhury</p>
-                                <p class="team-member__title">Global Business Development Consultant &#038; COO</p>
+                                <p class="team-member__title">International Business Management Consultant</p>
                             </a>
                         </div>
                         <div class="team-member">
