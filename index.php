@@ -800,7 +800,7 @@
 
                     <div class="mx-auto" style="max-width: 100%;">
 
-                        <h2 style="text-align: center;">Looking for real estate? Explore our Featured Services.</h2>
+                        <h2 style="text-align: center;">Looking for world class services? Explore our Featured Services.</h2>
 
 
 
