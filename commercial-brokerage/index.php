@@ -528,7 +528,7 @@
 
                                 <a>
 
-                                    <h3>Constractions</h3>
+                                    <h3>Constructions</h3>
 
                                     <img src="../wp-content/uploads/2020/07/property-healthcare.jpg" alt="Constraction" />
 
