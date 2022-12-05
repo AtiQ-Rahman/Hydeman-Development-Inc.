@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from mcwrealty.com/construction-project-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:49 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- /construction-project-management30 Nov 2022 15:29:49 GMT -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <title>Hydeman &raquo; Construction Project Management</title>
@@ -16,15 +16,9 @@
         src='../../platform-api.sharethis.com/js/sharethis.js#property=5f1a18d239b2000012b4ac9c&product=sop'
         async='async'></script>
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56933142-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
 
-        gtag('config', 'UA-56933142-1');
-    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56933142-1"></script>
+
 
 
     <meta name='robots' content='max-image-preview:large' />
@@ -874,6 +868,6 @@
         id='popup-maker-site-js'></script>
 </body>
 
-<!-- Mirrored from mcwrealty.com/construction-project-management/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Nov 2022 15:29:49 GMT -->
+<!-- /construction-project-management30 Nov 2022 15:29:49 GMT -->
 
 </html>
