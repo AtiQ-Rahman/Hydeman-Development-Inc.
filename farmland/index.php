@@ -387,7 +387,7 @@
     <script type='text/javascript' src='../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
         id='site-js'></script>
     <link rel="canonical" href="index.html" />
-    <link rel="shortcut icon" href="../favicon.html" type="image/x-icon" />
+    <link rel="shortcut icon" href="../wp-content/themes/devsavvy/images/favicon.png" type="image/x-icon" />
 </head>
 
 <body class="page-template-default page page-id-170 ctct-devsavvy page-our-story">
