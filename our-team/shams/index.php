@@ -386,7 +386,7 @@
         id='flexslider-js'></script>
     <script type='text/javascript' src='../../wp-content/themes/devsavvy/js/onloada9d1.js?ver=1614733405082'
         id='site-js'></script>
-    <link rel="canonical" href="index.html" />
+    <link rel="canonical" href="https://hydemandevelopment.com/" />
     <link rel="shortcut icon" href="../../wp-content/themes/devsavvy/images/favicon.png" type="image/x-icon" />
 </head>
 
