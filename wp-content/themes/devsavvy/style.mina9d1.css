@@ -8472,21 +8472,18 @@ ul+h3 {
 }
 
 blockquote {
-    background-color: #D80621 ;
+    background-color: #1d50d3 ;
     color: #fff;
-    font-size: 24px;
+    font-size: 45px !important;
     line-height: 32px;
-    padding: 87px 30px 30px 30px;
-    background-image: url(images/quotes.png);
-    background-repeat: no-repeat;
-    background-position: top 10px left 11px;
+    padding: 30px 30px 30px 30px;
     border-bottom: 22px solid #003764
 }
 
 @media (min-width:640px) {
     blockquote {
         font-size: 30px;
-        line-height: 39px;
+        line-height: 30px ;
         padding: 55px 55px 55px 160px;
         background-position: top 49px left 36px
     }
@@ -8494,12 +8491,12 @@ blockquote {
 
 blockquote b,
 blockquote strong {
-    color: #f8d33e
+    color: #ffffff
 }
 
 blockquote .name {
     padding: 23px 0 0 0;
-    color: #003764;
+    color: #dbe2e7;
     font-size: 20px;
     line-height: 25px;
     font-weight: 700

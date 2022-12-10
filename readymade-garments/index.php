@@ -496,7 +496,7 @@
                 <div class="container">
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
-                            <strong>Your limitation is your imagination.</strong>
+                            <strong>YOUR LIMITATION IS YOUR IMAGINATION</strong>
                             <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
