@@ -10927,6 +10927,7 @@ section.team-members .team-members-list {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    gap:0px 50px !important;
     margin-left: -31px;
     margin-right: -31px
 }
@@ -10934,7 +10935,7 @@ section.team-members .team-members-list {
 section.team-members .team-member {
     font-family: Mada, sans-serif;
     margin: 31px;
-    width: 182px;
+    width: 202px;
     font-size: 18px;
     line-height: 1.25
 }

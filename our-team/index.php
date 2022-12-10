@@ -434,6 +434,8 @@
                                 <p class="team-member__title">Head of IT, Blockchain and CTO</p>
                             </a>
                         </div>
+                    </div>
+                    <div class="team-members-list"> 
                         <div class="team-member">
                             <a href="pankaj">
                                 <div class="team-member__image">
@@ -470,6 +472,8 @@
                                 <p class="team-member__title">Head of IT, Team Bangladesh</p>
                             </a>
                         </div>
+                    </div>
+                    <div class="team-members-list"> 
                         <div class="team-member">
                             <a href="Ezaz">
                                 <div class="team-member__image">
@@ -482,6 +486,8 @@
                                 <p class="team-member__title">Software Product Lead</p>
                             </a>
                         </div>
+                    </div>
+                      
                     </div>
                 </div>
             </section>
