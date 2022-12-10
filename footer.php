@@ -7,7 +7,7 @@
 
                 <a href="<?=root?>">
 
-                    <img src="<?=root?>/wp-content/uploads/2020/07/mcw-logo-footer.png" alt="Hydeman" width="350"
+                    <img src="<?=root?>/wp-content/uploads/2020/07/logo-footer.png" alt="Hydeman" width="350"
                         height="100" />
                 </a>
 
@@ -57,7 +57,7 @@
                     </div>
                 </div>
 
-                &copy; <?=date('Y')?> Hydeman Development Inc. All rights reserved.
+                &copy; <?=date('Y')?> Hydeman Developments Inc. All rights reserved.
 
             </div>
 
@@ -65,7 +65,7 @@
 
                 <h3>Subscribe to our Newsletter</h3>
                 Get the latest news and updates delivered to your inbox quarterly.<br>
-                <em>Hydeman Development Inc will not share your information with any third party.</em><br>
+                <em>Hydeman Developments Inc will not share your information with any third party.</em><br>
 
 
                 <div data-form-id="544" id="ctct-form-wrapper-0" class="ctct-form-wrapper">
@@ -105,7 +105,7 @@
                                     class="ctct-input-container"><input type="checkbox" checked
                                         name="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="1"
                                         id="ctct-opt-in_0" /><label for="ctct-opt-in_0"> Example: Yes, I would
-                                        like to receive emails from Hydeman Development Inc. (You can
+                                        like to receive emails from Hydeman Developments Inc. (You can
                                         unsubscribe anytime)</label></span></p>
                         </div>
                         <!--.ctct-optin-hide -->
@@ -124,7 +124,7 @@
                                 id="ctct-submitted_0_3469814294" /></p>
                         <div class="ctct-disclosure">
                             <hr><small>By submitting this form, you are consenting to receive marketing emails
-                                from: Hydeman Development Inc Realty Partners, LLC, 294 Interstate North Circle,
+                                from: Hydeman Developments Inc Realty Partners, LLC, 294 Interstate North Circle,
                                 SE, Atlanta, GA, 30339, http://www.mcwrealty.com. You can revoke your consent to
                                 receive emails at any time by using the SafeUnsubscribe&reg; link, found at the
                                 bottom of every email. <a

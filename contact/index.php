@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -401,7 +401,7 @@
                     <div class="banner-holder">
                         <div class="b-copy">
                             <h1>Contact</h1>
-                            <p><span class="lg">Hydeman Development Inc. is headquartered in Regina, Sk</span></p>
+                            <p><span class="lg">Hydeman Developments Inc. is headquartered in Regina, Sk</span></p>
                             <h3>Saskatchewan Office</h3>
                             <p>205-2022 Cornwall Street<br />
                                 Regina, Sk<br />

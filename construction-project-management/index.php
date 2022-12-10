@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -444,7 +444,7 @@
                                     alt="Construction Project Management" /></p>
                             <h1 class="double">Construction Project Management</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Development Inc is able to manage all facets of your commercial real estate project, from inception to conclusion. Our Construction Project Management team can help with new construction, renovations, expansions, and tenant improvements. By collaborating with a reliable collection of architects, engineers, general contractors, and suppliers, our team has a history of delivering projects on time and within the budget.</p>
+                            <p>Hydeman Developments Inc is able to manage all facets of your commercial real estate project, from inception to conclusion. Our Construction Project Management team can help with new construction, renovations, expansions, and tenant improvements. By collaborating with a reliable collection of architects, engineers, general contractors, and suppliers, our team has a history of delivering projects on time and within the budget.</p>
                         </div>
 
 
@@ -496,7 +496,7 @@
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
                 </div>
@@ -577,7 +577,7 @@
 
                                     <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
+                                    <p>Saskatchewan, Alberta and Manitoba,
                                         Canada</p>
 
                                 </a>

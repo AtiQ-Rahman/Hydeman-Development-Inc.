@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -404,8 +404,8 @@
 
                         <div class="hero-holder">
                             <h1>Our Story</h1>
-                            <p>Hydeman Development Inc. still holds true to the entrepreneurial spirit it was founded
-                                upon in 1979. Since then, we have become a leading commercial real estate services firm
+                            <p>Hydeman Developments Inc. still holds true to the entrepreneurial spirit it was founded
+                                upon in 1983. Since then, we have become a leading commercial real estate services firm
                                 in the Southwest Canada and in particular, in Saskatchewan Province of Canada. We were
                                 the first to design and build the first and finest landmark building in the heart of the
                                 Capital Regina of Saskatchewan. Apart from the real estate development, we are also
@@ -483,7 +483,7 @@
                 <div class="container">
                     <div class="mx-auto" style="max-width: 54rem;">
                         <h2 style="text-align: center;">Our Promise</h2>
-                        <p style="text-align: center;">Customers are our only “THE” priority of Hydeman Development. We
+                        <p style="text-align: center;">Customers are our only “THE” priority of Hydeman Developments. We
                             like to exceed the expectation of our customers</p>
                         <p style="text-align: center;"><a class="btn" style="text-align: center;"
                                 href="../our-team/">Meet Our Team</a></p>

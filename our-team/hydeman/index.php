@@ -389,7 +389,7 @@
         <?php include('../../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 

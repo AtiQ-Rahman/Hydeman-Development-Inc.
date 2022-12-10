@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -444,7 +444,7 @@
                                     alt="Development &amp; Acquisitions" /></p>
                             <h1 class="double">Readymade<br>Garments</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Development is working with the Leading Garments Manufacturers including Apparel Bangla Sourcing Limited of Bangladesh to produce various types of clothing of Men, Women and Children. We are primarily focusing to produce and import high-quality woolen sweaters and winter clothing from Bangladesh and India to meet the demand of the Canadians living under coldest weather condition of the West-Northwest Canadian Provinces primarily of Saskatchewan. Our initiative also includes to supply the best quality Clothing to the door of every home by online shopping platform. </p>
+                            <p>Hydeman Developments is working with the Leading Garments Manufacturers including Apparel Bangla Sourcing Limited of Bangladesh to produce various types of clothing of Men, Women and Children. We are primarily focusing to produce and import high-quality woolen sweaters and winter clothing from Bangladesh and India to meet the demand of the Canadians living under coldest weather condition of the West-Northwest Canadian Provinces primarily of Saskatchewan. Our initiative also includes to supply the best quality Clothing to the door of every home by online shopping platform. </p>
                         </div>
 
 
@@ -497,7 +497,7 @@
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
                 </div>
@@ -578,7 +578,7 @@
 
                                     <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
+                                    <p>Saskatchewan, Alberta and Manitoba,
                                         Canada</p>
 
                                 </a>

@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -443,7 +443,7 @@
                                     src="../wp-content/uploads/2020/07/icon-reo-services.png" alt="REO Services" /></p>
                             <h1>Software Development</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Development has undertaken a new initiative to serve West-Northwest Canada with
+                            <p>Hydeman Developments has undertaken a new initiative to serve West-Northwest Canada with
                                 the latest form of Software to maximize the utilization of both in the Public and
                                 Private Sector. We can develop, manage and maintain the software including mobile
                                 applications, games (2D,3D,AR,VR games),websites, AR VR based solutions, 3D modeling
@@ -503,7 +503,7 @@
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
                 </div>
@@ -584,7 +584,7 @@
 
                                     <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
+                                    <p>Saskatchewan, Alberta and Manitoba,
                                         Canada</p>
 
                                 </a>

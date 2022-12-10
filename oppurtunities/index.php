@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -404,7 +404,7 @@
 
                         <div class="hero-holder">
                             <h1>Opportunities</h1>
-                            <p>Hydeman Development Inc. has cultivated wonderful investment opportunities not only in Canada but abroad including Coal Mining Project in Ethiopia and hospitality industries in Mumbai. India. The investors from home and abroad can invest in Hydeman Projects with lucrative Return on Investment. Hydeman Development Inc also participate or invest in well to do projects both at home and abroad.  </p>
+                            <p>Hydeman Developments Inc. has cultivated wonderful investment opportunities not only in Canada but abroad including Coal Mining Project in Ethiopia and hospitality industries in Mumbai. India. The investors from home and abroad can invest in Hydeman Projects with lucrative Return on Investment. Hydeman Developments Inc also participate or invest in well to do projects both at home and abroad.  </p>
                         </div>
 
 

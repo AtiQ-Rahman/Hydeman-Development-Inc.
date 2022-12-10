@@ -389,7 +389,7 @@
         <?php include('../../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -446,7 +446,7 @@
 
                         <div class="team-single-content__body">
                             <p>
-                                Chowdhury Shihab Bin Shams is a Computer Engineer from The University of Maryland. He holds an MS in "Software Design and Engineering" from Washington University and holds an MA in "Media Arts and Communication" from Montgomery College. He carried highly recognized industry certifications like CompTIA Security+, Certified Ethical Hacker (CEH), Computer Hacking Forensic Investigator (CHFI), and Software Tester Accredited Certification. He has worked with giant tech companies such as CPS, Hughes Networking System, Netflix, and The Department of Motor Vehicle (DMV). Currently, he is working for a Multinational Company as a General Manager. He has significant contributions to the company as he has successfully led some projects under the US Department of Transportation. He is responsible for managing the project team, system design, and construction administration specifically telecommunications infrastructure master planning and coordination. He’s also currently working as the U.S. Team Leader of Software Development Team of Hydeman Development Inc.
+                                Chowdhury Shihab Bin Shams is a Computer Engineer from The University of Maryland. He holds an MS in "Software Design and Engineering" from Washington University and holds an MA in "Media Arts and Communication" from Montgomery College. He carried highly recognized industry certifications like CompTIA Security+, Certified Ethical Hacker (CEH), Computer Hacking Forensic Investigator (CHFI), and Software Tester Accredited Certification. He has worked with giant tech companies such as CPS, Hughes Networking System, Netflix, and The Department of Motor Vehicle (DMV). Currently, he is working for a Multinational Company as a General Manager. He has significant contributions to the company as he has successfully led some projects under the US Department of Transportation. He is responsible for managing the project team, system design, and construction administration specifically telecommunications infrastructure master planning and coordination. He’s also currently working as the U.S. Team Leader of Software Development Team of Hydeman Developments Inc.
                             </p>
                         </div>
 

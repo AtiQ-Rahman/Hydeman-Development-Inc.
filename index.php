@@ -7,7 +7,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-    <title>Hydeman Development Inc</title>
+    <title>Hydeman Developments Inc</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -411,7 +411,7 @@
         <?php include('header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -422,7 +422,7 @@
                 <div class="container">
                     <div class="home-holder">
                         <div class="h-copy">
-                            <h1>Welcome to Hydeman Development!</h1>
+                            <h1>Welcome to Hydeman Developments!</h1>
                             <p>We’re a small company with big opportunities. Award-winning real estate expertise and
                                 relationships that you can trust.</p>
                         </div>
@@ -623,7 +623,7 @@
 
                 <div class="container">
 
-                    <h2 style="text-align: center;">What makes Hydeman Development Inc an industry leader?</h2>
+                    <h2 style="text-align: center;">What makes Hydeman Developments Inc an industry leader?</h2>
                     <div class="stats-holder">
 
                         <div class="stat-one">
@@ -674,7 +674,7 @@
 
                 <div class="container">
                     <div class="mx-auto" style="max-width: 100%;">
-                        <h2 style="text-align: center;">Why choose Hydeman Development Inc?</h2>
+                        <h2 style="text-align: center;">Why choose Hydeman Developments Inc?</h2>
                     </div>
                 </div>
 
@@ -703,7 +703,7 @@
 
                                         <div>
 
-                                            <p>Our allegiance is to Hydeman Development Inc. We’ve built a trusting
+                                            <p>Our allegiance is to Hydeman Developments Inc. We’ve built a trusting
                                                 relationship and <strong>they’ve given us honest insight</strong> about
                                                 whether certain opportunities are good financial deals or not.</p>
 
@@ -734,7 +734,7 @@
                                         <div>
 
                                             <p>They <strong>give a lot of good advice</strong> about handling property
-                                                management and tenant issues when we need it. Hydeman Development Inc is
+                                                management and tenant issues when we need it. Hydeman Developments Inc is
                                                 invaluable in that regard.</p>
 
                                         </div>
@@ -852,8 +852,7 @@
 
                                     <img src="wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
-                                        Canada</p>
+                                    <p> Saskatchewan, Alberta and Manitoba,Canada </p>
 
                                 </a>
 

@@ -4,7 +4,7 @@
                 <div class="site-header__flex">
                     <div class="site-header__logo">
                         <a href="<?=root?>">
-                            <img src="<?=root?>/wp-content/themes/devsavvy/images/logo.png" alt="Hydeman Development Logo"
+                            <img src="<?=root?>/wp-content/themes/devsavvy/images/logo_black.png" alt="Hydeman Developments Logo"
                                 width="380" height="80" />
                         </a>
                     </div>

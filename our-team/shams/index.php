@@ -389,7 +389,7 @@
         <?php include('../../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -443,10 +443,10 @@
                     </div>
                     <div class="team-single-content">
                         <h1>Shams Chowdhury</h1>
-                        <p class="team-single-content__title">International Business Management Consultant</p>
+                        <p class="team-single-content__title">Business Management Consultant & COO</p>
 
                         <div class="team-single-content__body">
-                            <p>Mr. Chowdhury is an MBA from the George Washington University and LEGP from Harvard University. He is the author of two books - "The Dream of my Life" and "Remaking the Wealth of the Nations", sold successfully across the globe. He is an expert on global security, economy, and foreign policy issues. He has proven leadership ability to monitor and manage political complexity of humanitarian emergencies under the United Nations and has performed the highest level of role of administration and security of the office of a Head of the Government. He has excellent qualifications in strategic planning, organizational development, utilization of intelligence, team building, IT, and project implementation. He is a philanthropist and looking forward to promote the global businesses of Hydeman Development Inc.
+                            <p>Mr. Chowdhury is an MBA from the George Washington University and LEGP from Harvard University. He is the author of two books - "The Dream of my Life" and "Remaking the Wealth of the Nations", sold successfully across the globe. He is an expert on global security, economy, and foreign policy issues. He has proven leadership ability to monitor and manage political complexity of humanitarian emergencies under the United Nations and has performed the highest level of role of administration and security of the office of a Head of the Government. He has excellent qualifications in strategic planning, organizational development, utilization of intelligence, team building, IT, and project implementation. He is a philanthropist and looking forward to promote the global businesses of Hydeman Developments Inc.
                             </p>
                         </div>
 

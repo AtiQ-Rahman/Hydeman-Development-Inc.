@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -501,7 +501,7 @@
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
                 </div>
@@ -582,7 +582,7 @@
 
                                     <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
+                                    <p>Saskatchewan, Alberta and Manitoba,
                                         Canada</p>
 
                                 </a>

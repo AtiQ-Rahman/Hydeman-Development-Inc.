@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -445,7 +445,7 @@
                                     alt="Asset Management" /></p>
                             <h1 class="double">Asset Management &#038; Financial Services</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Development Inc. advises customers to establish strategic strategies and investment recommendations to help them realize their financial objectives. Our Asset Management and Financial Services team possesses specific knowledge necessary to manage assets and remove investor supervision. As asset owners, we recognize the particular issues faced by investors, and we address each asset accordingly. We collaborate with clients to personalize financial reporting and may give comprehensive financial reporting on assets.</p>
+                            <p>Hydeman Developments Inc. advises customers to establish strategic strategies and investment recommendations to help them realize their financial objectives. Our Asset Management and Financial Services team possesses specific knowledge necessary to manage assets and remove investor supervision. As asset owners, we recognize the particular issues faced by investors, and we address each asset accordingly. We collaborate with clients to personalize financial reporting and may give comprehensive financial reporting on assets.</p>
                         </div>
 
 
@@ -504,7 +504,7 @@
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>Your limitation is your imagination.</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Development Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
                         </blockquote>
                     </div>
                 </div>
@@ -585,7 +585,7 @@
 
                                     <img src="../wp-content/uploads/2020/07/field.jpg" alt="Farmland" />
 
-                                    <p>Central Alberta,
+                                    <p>Saskatchewan, Alberta and Manitoba,
                                         Canada</p>
 
                                 </a>

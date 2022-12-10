@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -419,7 +419,7 @@
 
                                 </div>
                                 <p class="team-member__name">Shams Chowdhury</p>
-                                <p class="team-member__title">International Business Management Consultant</p>
+                                <p class="team-member__title">Business Management Consultant & COO</p>
                             </a>
                         </div>
                         <div class="team-member">

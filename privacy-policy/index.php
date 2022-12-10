@@ -389,7 +389,7 @@
         <?php include('../header.php')?>
         <section class="alert">
             <div class="a-content">
-                Proudly Serving The Commercial Real Estate Industry For Over 40 Years
+                Proudly Serving the Residential & Commercial Real Estate Industry For Over 40 Years
             </div>
         </section>
 
@@ -421,7 +421,7 @@
                 <div class="container">
                     <div class="mx-auto" style="max-width: 100%;">
                         <h3>INTRODUCTION</h3>
-                        <p>This privacy policy sets out how Hydeman Development Inc, LLC ("Hydeman") uses and
+                        <p>This privacy policy sets out how Hydeman Developments Inc, LLC ("Hydeman") uses and
                             protects any information that you give Hydeman when you use this website.</p>
                         <p>Hydeman is committed to ensuring that your privacy is protected. Should we ask you to
                             provide certain information by which you can be identified when using this website, then you
@@ -582,7 +582,7 @@
             <div class="pum-content popmake-content" tabindex="0">
                 <h2 style="text-align: center;">Tenant Login</h2>
                 <p style="text-align: center;">You will be redirected to BuildingEngines, our trusted partner for
-                    property management software. Please click continue to leave the Hydeman Development Incwebsite and
+                    property management software. Please click continue to leave the Hydeman Developments Incwebsite and
                     <strong>proceed to the BuildingEngines tenant login page.</strong></p>
                 <p style="text-align: center;"><a class="btn" href="https://www.requestcom.com/geofire/login"
                         target="_blank" rel="noopener noreferrer">Continue</a></p>
