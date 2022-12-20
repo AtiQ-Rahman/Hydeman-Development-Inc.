@@ -443,7 +443,7 @@
                                     src="../wp-content/uploads/2020/07/icon-reo-services.png" alt="REO Services" /></p>
                             <h1>Software Development</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Developments has undertaken a new initiative to serve West-Northwest Canada with
+                            <p>Hydeman Developments Inc has undertaken a new initiative to serve West-Northwest Canada with
                                 the latest form of Software to maximize the utilization of both in the Public and
                                 Private Sector. We can develop, manage and maintain the software including mobile
                                 applications, games (2D,3D,AR,VR games),websites, AR VR based solutions, 3D modeling

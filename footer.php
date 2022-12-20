@@ -7,8 +7,8 @@
 
                 <a href="<?=root?>">
 
-                    <img src="<?=root?>/wp-content/uploads/2020/07/logo-footer.png" alt="Hydeman" width="350"
-                        height="100" />
+                    <img src="<?=root?>/wp-content/themes/devsavvy/images/HYDEMAN _DEVELOPMENTS_logo.jpg" alt="Hydeman" width="90"
+                        height="50" />
                 </a>
 
 
