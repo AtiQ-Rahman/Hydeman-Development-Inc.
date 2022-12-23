@@ -715,7 +715,7 @@
 
                                 </div>
                                 <div class="testimonial-name">
-                                    Donna Fisher, Chief Administrative Officer, Pinnacle Orthopaedics </div>
+                                 </div>
 
                             </li>
                             <li>
@@ -745,7 +745,7 @@
 
                                 </div>
                                 <div class="testimonial-name">
-                                    Lisa Sodemann, Asset Manager, Principle Real Estate Group </div>
+                                     </div>
 
                             </li>
                             <li>
@@ -774,7 +774,7 @@
 
                                 </div>
                                 <div class="testimonial-name">
-                                    Mavis Giska, Senior Vice President, Flagship Healthcare Properties </div>
+                                     </div>
 
                             </li>
                         </ul>
