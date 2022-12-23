@@ -892,7 +892,7 @@ video {
 
 .divide-green>:not(template)~:not(template) {
     --divide-opacity: 1;
-    border-color: #D80621 ;
+    border-color: #003764 ;
     border-color: rgba(120, 156, 74, var(--divide-opacity))
 }
 
@@ -1022,7 +1022,7 @@ video {
 
 .bg-green {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity))
 }
 
@@ -1068,7 +1068,7 @@ video {
 
 .hover\:bg-green:hover {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity))
 }
 
@@ -1114,7 +1114,7 @@ video {
 
 .focus\:bg-green:focus {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity))
 }
 
@@ -1300,7 +1300,7 @@ video {
 
 .border-green {
     --border-opacity: 1;
-    border-color: #D80621 ;
+    border-color: #003764 ;
     border-color: rgba(120, 156, 74, var(--border-opacity))
 }
 
@@ -1346,7 +1346,7 @@ video {
 
 .hover\:border-green:hover {
     --border-opacity: 1;
-    border-color: #D80621 ;
+    border-color: #003764 ;
     border-color: rgba(120, 156, 74, var(--border-opacity))
 }
 
@@ -1392,7 +1392,7 @@ video {
 
 .focus\:border-green:focus {
     --border-opacity: 1;
-    border-color: #D80621 ;
+    border-color: #003764 ;
     border-color: rgba(120, 156, 74, var(--border-opacity))
 }
 
@@ -4542,19 +4542,19 @@ video {
 
 .placeholder-green::-webkit-input-placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
 .placeholder-green::-ms-input-placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
 .placeholder-green::placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
@@ -4680,19 +4680,19 @@ video {
 
 .focus\:placeholder-green:focus::-webkit-input-placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
 .focus\:placeholder-green:focus::-ms-input-placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
 .focus\:placeholder-green:focus::placeholder {
     --placeholder-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--placeholder-opacity))
 }
 
@@ -5313,7 +5313,7 @@ video {
 
 .text-green {
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity))
 }
 
@@ -5359,7 +5359,7 @@ video {
 
 .hover\:text-green:hover {
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity))
 }
 
@@ -5405,7 +5405,7 @@ video {
 
 .focus\:text-green:focus {
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity))
 }
 
@@ -8422,7 +8422,7 @@ h3 {
     font-size: 22px;
     line-height: 30px;
     font-weight: 600;
-    color: #D80621 ;
+    color: #003764 ;
     margin: 0 0 3px 0
 }
 
@@ -8607,7 +8607,7 @@ textarea:focus {
 }
 
 a.btn {
-    background-color: #D80621 ;
+    background-color: #003764 ;
     color: #fff;
     display: inline-block;
     min-width: 300px;
@@ -8620,14 +8620,15 @@ a.btn {
 }
 
 a.btn:hover {
-    background-color: #003764;
+    background-color: #f8d33e;
     transition: all .3s ease;
+    color:#000;
     text-decoration: none
 }
 
 section.alert {
     padding: 30px 25px;
-    background-color: #D80621;
+    background-color: #003764;
     color: #fff;
     text-align: center;
     font-size: 24px;
@@ -8782,17 +8783,17 @@ body.mob-menu-slideout-top {
     margin-right: 1.2rem
 }
 .active-menu{
-    color: #D80621 !important;
-    border-bottom: 3px solid #D80621 !important;
+    color: #003764 !important;
+    border-bottom: 3px solid #003764 !important;
 }
 .site-header__nav .menu-top-nav-container>ul.menu>li.current-menu-item>a {
-    color: #D80621 ;
-    border-bottom: 3px solid #D80621 
+    color: #003764 ;
+    border-bottom: 3px solid #003764 
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li:hover>a {
-    color: #D80621 ;
-    border-bottom: 3px solid #D80621 
+    color: #003764 ;
+    border-bottom: 3px solid #003764 
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li:hover>ul {
@@ -8800,7 +8801,7 @@ body.mob-menu-slideout-top {
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li:last-child {
-    border: 3px solid #D80621 ;
+    border: 3px solid #003764 ;
     padding: 5px 18px 4px;
     position: relative;
     bottom: 7px
@@ -8811,7 +8812,7 @@ body.mob-menu-slideout-top {
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li:last-child:hover {
-    background-color: #D80621 
+    background-color: #003764 
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li:last-child:hover>a {
@@ -8851,8 +8852,8 @@ body.mob-menu-slideout-top {
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu>li>ul>li:hover>a {
-    color: #D80621 ;
-    border-bottom: 3px solid #D80621 
+    color: #003764 ;
+    border-bottom: 3px solid #003764 
 }
 
 .site-header__nav .menu-top-nav-container>ul.menu::after {
@@ -8891,8 +8892,8 @@ body.mob-menu-slideout-top {
 }
 .sub-sub-menu>li>a:hover
 {
-    color: #D80621 ;
-    border-bottom: 3px solid #D80621;
+    color: #003764 ;
+    border-bottom: 3px solid #003764;
 }
 .sub-sub-menu>li:first-child>a {
     padding-top: .5rem
@@ -8951,8 +8952,8 @@ body.mob-menu-slideout-top {
 }
 .sub-sub-sub-menu>li>a:hover
 {
-    color: #D80621 ;
-    border-bottom: 3px solid #D80621;
+    color: #003764 ;
+    border-bottom: 3px solid #003764;
 }
 .sub-sub-sub-menu>li:first-child>a {
     padding-top: .5rem
@@ -9067,7 +9068,7 @@ body.search .blog-categories__category.selected,
 body.single.single-post .blog-categories__category.selected {
     font-weight: 700;
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity));
     --text-opacity: 1;
     color: #fff;
@@ -9081,7 +9082,7 @@ body.search .blog-categories__category:hover,
 body.single.single-post .blog-categories__category:hover {
     text-decoration: none;
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity));
     --text-opacity: 1;
     color: #fff;
@@ -9347,12 +9348,12 @@ body.search .blog-post__category-text,
 body.single.single-post .blog-post__category-text {
     display: inline-block;
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity));
     font-weight: 700;
     font-size: .9rem;
     padding-bottom: 4px;
-    border-bottom: 3px solid #D80621 
+    border-bottom: 3px solid #003764 
 }
 
 body.archive.category .blog-post h1,
@@ -9388,7 +9389,7 @@ body.blog .blog-post__bottom-sep,
 body.search .blog-post__bottom-sep,
 body.single.single-post .blog-post__bottom-sep {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity));
     height: 2px;
     margin-bottom: 1.5rem
@@ -9570,7 +9571,7 @@ body.search .page-numbers .page-number:hover,
 body.single.single-post .page-numbers .page-number.current,
 body.single.single-post .page-numbers .page-number:hover {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity));
     --text-opacity: 1;
     color: #fff;
@@ -9811,7 +9812,7 @@ body.single-our_team .team-single-template {
 
 body.single-our_team .team-single-back {
     --bg-opacity: 1;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     background-color: rgba(120, 156, 74, var(--bg-opacity));
     padding: 17px 0
 }
@@ -9959,7 +9960,7 @@ body.single-our_team .team-single-container .team-single-content h1 {
 
 body.single-our_team .team-single-container .team-single-content__title {
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity));
     font-weight: 500;
     text-transform: uppercase;
@@ -10102,7 +10103,7 @@ footer.mcw .footer-holder .logo-section a {
 }
 
 footer.mcw .footer-holder .logo-section a:hover {
-    color: #D80621
+    color: #003764
 }
 
 footer.mcw .footer-holder .logo-section IMG {
@@ -10209,10 +10210,11 @@ footer.mcw .footer-holder .subscribe-section form.ctct-form input {
 
 footer.mcw .footer-holder .subscribe-section form.ctct-form input.ctct-submit {
     display: block;
+    font-weight: 700;
     height: 40px;
     line-height: 40px;
-    background-color: #D80621 ;
-    color: #fff;
+    background-color: #f8d33e ;
+    color: rgb(0, 0, 0);
     padding: 0 28px
 }
 
@@ -10244,7 +10246,7 @@ footer.mcw .footer-holder .subscribe-section .footer-logos IMG {
 
 .field-wrap input[type=button] {
     display: inline-block;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     color: #fff;
     padding: 10px 28px;
     font-size: 20px;
@@ -10254,7 +10256,7 @@ footer.mcw .footer-holder .subscribe-section .footer-logos IMG {
 
 .field-wrap input,
 .field-wrap textarea {
-    border: 1px solid #D80621 
+    border: 1px solid #003764 
 }
 
 section.call {
@@ -10379,10 +10381,10 @@ section.hero {
 section.hero .hero-holder {
     position: relative;
     top: 30px;
-    background-color: #D80621 ;
+    background-color: #003764 ;
     color: #6f7271;
     padding: 30px 35px 12px 25px;
-    box-shadow: -700px 0 0 0 #D80621 
+    box-shadow: -700px 0 0 0 #003764 
 }
 
 @media (min-width:749px) {
@@ -10493,7 +10495,7 @@ section.hero img.svc-icon {
 
 section.hero-picture {
     padding: 34px 0;
-    background: #D80621  no-repeat center center;
+    background: #003764  no-repeat center center;
     background-size: cover
 }
 
@@ -10827,14 +10829,14 @@ section.services ul.services li a IMG {
 }
 
 section.services ul.services li a:hover {
-    color: #D80621 ;
+    color: #f8d33e ;
     font-weight: 700;
     transition: all .2s ease
 }
 
 section.services ul.services li a:hover h3 {
-    color: #fff;
-    background-color: #D80621 ;
+    color: #000;
+    background-color: #f8d33e ;
     transition: all .2s ease
 }
 
@@ -10960,7 +10962,7 @@ section.team-members .team-member a .team-member__name {
 section.team-members .team-member a .team-member__title {
     font-weight: 400;
     --text-opacity: 1;
-    color: #D80621 ;
+    color: #003764 ;
     color: rgba(120, 156, 74, var(--text-opacity));
     margin-bottom: 0
 }
@@ -11131,7 +11133,7 @@ section.stats .btn {
 }
 
 section.stats .btn:hover {
-    background-color: #D80621 
+    background-color: #f8d33e 
 }
 
 section.stats .stats-holder {
@@ -11358,7 +11360,7 @@ section.stats .stats-holder .stat-three IMG.two {
 }
 
 section.services-nav {
-    background-color: #D80621 
+    background-color: #003764 
 }
 
 @media (max-width:1070px) {
@@ -11400,7 +11402,7 @@ section.services-nav .menu-services-nav-menu-container ul#menu-services-nav-menu
     font-weight: 700;
     width: 100%;
     padding: 12px 10px 8px;
-    border-bottom: 6px solid #D80621 
+    border-bottom: 6px solid #003764 
 }
 
 section.services-nav .menu-services-nav-menu-container ul#menu-services-nav-menu li a:hover {
@@ -12152,7 +12154,7 @@ img.alignnone {
 
     .sm\:divide-green>:not(template)~:not(template) {
         --divide-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--divide-opacity))
     }
 
@@ -12282,7 +12284,7 @@ img.alignnone {
 
     .sm\:bg-green {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -12328,7 +12330,7 @@ img.alignnone {
 
     .sm\:hover\:bg-green:hover {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -12374,7 +12376,7 @@ img.alignnone {
 
     .sm\:focus\:bg-green:focus {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -12560,7 +12562,7 @@ img.alignnone {
 
     .sm\:border-green {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -12606,7 +12608,7 @@ img.alignnone {
 
     .sm\:hover\:border-green:hover {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -12652,7 +12654,7 @@ img.alignnone {
 
     .sm\:focus\:border-green:focus {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -15802,19 +15804,19 @@ img.alignnone {
 
     .sm\:placeholder-green::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .sm\:placeholder-green::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .sm\:placeholder-green::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -15940,19 +15942,19 @@ img.alignnone {
 
     .sm\:focus\:placeholder-green:focus::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .sm\:focus\:placeholder-green:focus::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .sm\:focus\:placeholder-green:focus::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -16573,7 +16575,7 @@ img.alignnone {
 
     .sm\:text-green {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -16619,7 +16621,7 @@ img.alignnone {
 
     .sm\:hover\:text-green:hover {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -16665,7 +16667,7 @@ img.alignnone {
 
     .sm\:focus\:text-green:focus {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -20143,7 +20145,7 @@ img.alignnone {
 
     .md\:divide-green>:not(template)~:not(template) {
         --divide-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--divide-opacity))
     }
 
@@ -20273,7 +20275,7 @@ img.alignnone {
 
     .md\:bg-green {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -20319,7 +20321,7 @@ img.alignnone {
 
     .md\:hover\:bg-green:hover {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -20365,7 +20367,7 @@ img.alignnone {
 
     .md\:focus\:bg-green:focus {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -20551,7 +20553,7 @@ img.alignnone {
 
     .md\:border-green {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -20597,7 +20599,7 @@ img.alignnone {
 
     .md\:hover\:border-green:hover {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -20643,7 +20645,7 @@ img.alignnone {
 
     .md\:focus\:border-green:focus {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -23793,19 +23795,19 @@ img.alignnone {
 
     .md\:placeholder-green::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .md\:placeholder-green::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .md\:placeholder-green::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -23931,19 +23933,19 @@ img.alignnone {
 
     .md\:focus\:placeholder-green:focus::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .md\:focus\:placeholder-green:focus::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .md\:focus\:placeholder-green:focus::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -24564,7 +24566,7 @@ img.alignnone {
 
     .md\:text-green {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -24610,7 +24612,7 @@ img.alignnone {
 
     .md\:hover\:text-green:hover {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -24656,7 +24658,7 @@ img.alignnone {
 
     .md\:focus\:text-green:focus {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -28134,7 +28136,7 @@ img.alignnone {
 
     .lg\:divide-green>:not(template)~:not(template) {
         --divide-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--divide-opacity))
     }
 
@@ -28264,7 +28266,7 @@ img.alignnone {
 
     .lg\:bg-green {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -28310,7 +28312,7 @@ img.alignnone {
 
     .lg\:hover\:bg-green:hover {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -28356,7 +28358,7 @@ img.alignnone {
 
     .lg\:focus\:bg-green:focus {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -28542,7 +28544,7 @@ img.alignnone {
 
     .lg\:border-green {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -28588,7 +28590,7 @@ img.alignnone {
 
     .lg\:hover\:border-green:hover {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -28634,7 +28636,7 @@ img.alignnone {
 
     .lg\:focus\:border-green:focus {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -31784,19 +31786,19 @@ img.alignnone {
 
     .lg\:placeholder-green::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .lg\:placeholder-green::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .lg\:placeholder-green::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -31922,19 +31924,19 @@ img.alignnone {
 
     .lg\:focus\:placeholder-green:focus::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .lg\:focus\:placeholder-green:focus::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .lg\:focus\:placeholder-green:focus::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -32555,7 +32557,7 @@ img.alignnone {
 
     .lg\:text-green {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -32601,7 +32603,7 @@ img.alignnone {
 
     .lg\:hover\:text-green:hover {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -32647,7 +32649,7 @@ img.alignnone {
 
     .lg\:focus\:text-green:focus {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -36125,7 +36127,7 @@ img.alignnone {
 
     .xl\:divide-green>:not(template)~:not(template) {
         --divide-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--divide-opacity))
     }
 
@@ -36255,7 +36257,7 @@ img.alignnone {
 
     .xl\:bg-green {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -36301,7 +36303,7 @@ img.alignnone {
 
     .xl\:hover\:bg-green:hover {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -36347,7 +36349,7 @@ img.alignnone {
 
     .xl\:focus\:bg-green:focus {
         --bg-opacity: 1;
-        background-color: #D80621 ;
+        background-color: #003764 ;
         background-color: rgba(120, 156, 74, var(--bg-opacity))
     }
 
@@ -36533,7 +36535,7 @@ img.alignnone {
 
     .xl\:border-green {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -36579,7 +36581,7 @@ img.alignnone {
 
     .xl\:hover\:border-green:hover {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -36625,7 +36627,7 @@ img.alignnone {
 
     .xl\:focus\:border-green:focus {
         --border-opacity: 1;
-        border-color: #D80621 ;
+        border-color: #003764 ;
         border-color: rgba(120, 156, 74, var(--border-opacity))
     }
 
@@ -39775,19 +39777,19 @@ img.alignnone {
 
     .xl\:placeholder-green::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .xl\:placeholder-green::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .xl\:placeholder-green::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -39913,19 +39915,19 @@ img.alignnone {
 
     .xl\:focus\:placeholder-green:focus::-webkit-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .xl\:focus\:placeholder-green:focus::-ms-input-placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
     .xl\:focus\:placeholder-green:focus::placeholder {
         --placeholder-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--placeholder-opacity))
     }
 
@@ -40546,7 +40548,7 @@ img.alignnone {
 
     .xl\:text-green {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -40592,7 +40594,7 @@ img.alignnone {
 
     .xl\:hover\:text-green:hover {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 
@@ -40638,7 +40640,7 @@ img.alignnone {
 
     .xl\:focus\:text-green:focus {
         --text-opacity: 1;
-        color: #D80621 ;
+        color: #003764 ;
         color: rgba(120, 156, 74, var(--text-opacity))
     }
 

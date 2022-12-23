@@ -466,7 +466,7 @@
 
                                 </div>
                                 <div class="testimonial-name">
-                                    Cal Franklin • Garrison Hill Partners, Inc. </div>
+                                 </div>
 
                             </li>
                         </ul>
