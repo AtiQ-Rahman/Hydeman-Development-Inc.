@@ -404,15 +404,18 @@
 
                         <div class="hero-holder">
                             <h1>Our Story</h1>
-                            <p>Hydeman Developments Inc. still holds true to the entrepreneurial spirit it was founded
-                                upon in 1983. Since then, we have become a leading commercial real estate services firm
-                                in the Southwest Canada and in particular, in Saskatchewan Province of Canada. We were
-                                the first to design and build the first and finest landmark building in the heart of the
-                                Capital Regina of Saskatchewan. Apart from the real estate development, we are also
-                                developing different types of software, importing finest quality readymade garments from
-                                around the world and working to export various types of Saskatchewan Wheat, Lentils and
-                                Beans. We are planning to undertake a mega-real estate development project in
-                                Saskatchewan, which will benefit the investors from around the world to invest and
+                            <p>Hydeman Developments Inc. still holds true to the entrepreneurial
+                                spirit it was founded upon in 1983. Since then, we have become a
+                                leading commercial real estate services firm in Southwest Canada,
+                                particularly in the Saskatchewan Province of Canada. We were the
+                                first to design and build the first and finest landmark building in the
+                                heart of the Capital Regina of Saskatchewan. Apart from the real
+                                estate development, we are also developing different types of
+                                software, importing the finest quality readymade garments from
+                                around the world and working to export various types of
+                                Saskatchewan Wheat, Lentils and Beans. We are planning to
+                                undertake a mega-real estate development project in Saskatchewan,
+                                which will benefit investors from around the world to invest and
                                 immigrate to Canada. </p>
                         </div>
 

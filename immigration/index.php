@@ -405,7 +405,20 @@
                         <div class="hero-holder">
                             <h1>Immigration</h1>
                         <p>
-                            Canada is the most suitable and naturally gifted country of the world. The Canadian Province of Saskatchewan is the dream for the peace loving people of the world. Beside Federal Government, the provincial government also provide extraordinary facilities to the immigrants specially for the immigrant of the investor category. Hydeman Developments Inc is taking 2 major projects (Accommodation and Healthcare) in Saskatchewan. These are going to be the great opportunities for the foreign investors to invest, immigrate and be the partner of these profitable projects. Hydeman Developments Inc is also planning to undertake similar projects in British Colombia in the near future. Hydeman team will provide all types of assistances to the aspirant immigrants for successful immigration to Canada.
+                        Canada is the most suitable and naturally gifted country in the world.
+The Province of Saskatchewan is the dream of the peace-loving
+people of the world. Besides Federal Government, the provincial
+government also provide extraordinary facilities to immigrants,
+especially for the immigrant of the investor category. Hydeman
+Developments Inc is planning several major projects (Accommodation
+and Healthcare) in Saskatchewan. These are going to be great
+opportunities for foreign investors to invest, immigrate and be partners
+in these profitable projects. Hydeman Developments Inc is also
+planning to undertake similar projects in British Colombia soon. The
+Hydeman team will provide all types of assistance to aspirant
+immigrants for successful immigration to Canada. We work with
+immigration consultants and legal teams to provide migration hopefuls
+with quality assistance)
                         </p>    
                         </div>
 

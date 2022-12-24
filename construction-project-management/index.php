@@ -444,7 +444,15 @@
                                     alt="Construction Project Management" /></p>
                             <h1 class="double">Construction Project Management</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Developments Inc is able to manage all facets of your commercial real estate project, from inception to conclusion. Our Construction Project Management team can help with new construction, renovations, expansions, and tenant improvements. By collaborating with a reliable collection of architects, engineers, general contractors, and suppliers, our team has a history of delivering projects on time and within the budget.</p>
+                            <p>
+                            Hydeman Developments Inc can manage all facets of your
+commercial real estate project, from inception to conclusion. Our
+Construction Project Management team can help with new
+construction, renovations, expansions, and tenant improvements. By
+collaborating with a team of architects, engineers, general contractors,
+and suppliers, our team has a history of delivering projects on time
+and within budget.
+                            </p>
                         </div>
 
 

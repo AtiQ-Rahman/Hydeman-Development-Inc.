@@ -443,14 +443,15 @@
                                     src="../wp-content/uploads/2020/07/icon-reo-services.png" alt="REO Services" /></p>
                             <h1>Software Development</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Developments Inc has undertaken a new initiative to serve West-Northwest Canada with
-                                the latest form of Software to maximize the utilization of both in the Public and
-                                Private Sector. We can develop, manage and maintain the software including mobile
-                                applications, games (2D,3D,AR,VR games),websites, AR VR based solutions, 3D modeling
-                                ,machine learning(ML) based applications, artificial intelligence based software and
-                                blockchain aplications.</p>
-                            <p>Apart from Canadian Software developers, our partners include the leading software
-                                developers of the USA, Bangladesh and India. </p>
+                            <p>Hydeman Developments Inc has undertaken a new initiative to serve
+West-Northwest Canada with the latest form of Software to maximize
+the utilization of both the Public and Private Sectors. We can develop,
+manage, and maintain the software including mobile applications,
+games (2D,3D, AR, VR games), websites, AR VR-based solutions, 3D
+modelling, machine learning (ML) based applications, artificial
+intelligence-based software and blockchain applications.</p>
+                            <p>Apart from Canadian Software developers, our partners include the
+leading software developers in the USA, Bangladesh and India. </p>
                         </div>
 
 

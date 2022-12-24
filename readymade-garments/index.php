@@ -444,7 +444,17 @@
                                     alt="Development &amp; Acquisitions" /></p>
                             <h1 class="double">Readymade<br>Garments</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Developments Inc is working with the Leading Garments Manufacturers including Apparel Bangla Sourcing Limited of Bangladesh to produce various types of clothing of Men, Women and Children. We are primarily focusing to produce and import high-quality woolen sweaters and winter clothing from Bangladesh and India to meet the demand of the Canadians living under coldest weather condition of the West-Northwest Canadian Provinces primarily of Saskatchewan. Our initiative also includes to supply the best quality Clothing to the door of every home by online shopping platform. </p>
+                            <p> Hydeman Developments Inc is working with Leading Garments
+Manufacturers including Apparel Bangla Sourcing Limited of
+Bangladesh to produce various types of clothing for Men, Women and
+Children. We are primarily focusing to produce and import high-quality
+woollen sweaters and winter clothing from Bangladesh and India to
+meet the demand of Canadians living under the coldest weather
+condition of the West-Northwest Canadian Provinces primarily
+Saskatchewan. Our initiative also includes supplying the best quality
+clothing to the door of every home through an online shopping
+platform.
+                                 </p>
                         </div>
 
 

@@ -403,7 +403,7 @@
                                 <div class="team-member__image">
 
                                     <img decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpg"
-                                        alt="Wayne Hydeman" />
+                                        alt="Wayne Hydeman"/>
 
                                 </div>
                                 <p class="team-member__name">Wayne Hydeman</p>
@@ -500,12 +500,14 @@
                     </div>
                     <div class="hero-content">
                         <h1>Our Team</h1>
-                        <p>
-                        At Better Work, we are driven by shared standards of excellence, guided by the same integrity, and motivated by a common ambition to improve lives
+                        <p>At Hydeman Developments Inc, we are driven by shared standards of
+excellence, guided by the same integrity, and motivated by a common
+ambition to improve quality of life.
                         </p>
-                        <p>Hydeman’s partners and associates are available 24/7 to help you navigate the unique
-                            opportunities and challenges of the commercial real estate market. You can rely on us for
-                            wise counsel throughout the entire lifecycle of your property!</p>
+                        <p>Hydeman’s partners and associates are available 24/7 to help you
+navigate the unique opportunities and challenges of the commercial
+real estate market. You can rely on us for wise counsel throughout the
+entire lifecycle of your property!</p>
                     </div>
                     <img decoding="async" class="picture" src="../wp-content/uploads/2020/07/our-team.jpg" alt="" />
                 </div>
