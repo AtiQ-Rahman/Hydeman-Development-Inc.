@@ -495,7 +495,7 @@ facility&#39;s decision-making process and negotiate the best terms.
 
                 <div class="container">
                     <div class="mx-auto" style="max-width: 100%;">
-                        <blockquote >
+                    <blockquote style="text-align: center;">
                             <strong>YOUR LIMITATION IS YOUR IMAGINATION</strong>
                             <div class="name">Wayne Hydeman, President and CEO, Hydeman Developments Inc</div>
                         </blockquote>
