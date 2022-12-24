@@ -501,10 +501,11 @@
             <section class="general-block " style="">
 
                 <div class="container">
-                    <div class="mx-auto" style="max-width: 100%;">
-                        <blockquote>
+                    <div class="mx-auto" style="max-width: 100%;" >
+                        <blockquote style="text-align: center;">
                             <strong>YOUR LIMITATION IS YOUR IMAGINATION</strong>
-                            <div class="name">Wayne Hydeman, President and CEO, Hydeman Developments Inc</div>
+                            <div class="name"  >
+                            Wayne Hydeman, President and CEO, Hydeman Developments Inc</div>
                         </blockquote>
                     </div>
                 </div>
