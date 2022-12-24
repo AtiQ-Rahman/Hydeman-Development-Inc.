@@ -493,10 +493,10 @@
 
                     <div class="mx-auto" style="max-width: 100%;">
 
-                        <h2 style="text-align: center;">Your full-service global commercial partner</h2>
+                        <h2 style="text-align: center;">Your Full-Service Global Commercial Partner</h2>
                         <p style="text-align: center; font-weight: 400; max-width: 900px; margin: 0 auto;">Whether
-                            you’re looking for your commercial property, property management service , development
-                            opportunity,software developmet, export and import of argiriculture and readymade garments -
+                            you’re looking for your commercial property, property management service, development
+                            opportunity, software development, export and import of agriculture and readymade garments -
                             you’ve come to the right place!</p>
 
 
