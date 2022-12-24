@@ -617,53 +617,20 @@
 
             </section>
 
+            <section class="services padded " style="background-color: #e5e5e5">
 
-
-            <section class="stats">
-
-                <div class="container">
-
+            <div class="container">
+                <div class="mx-auto" style="max-width: 54rem;">
                     <h2 style="text-align: center;">What makes Hydeman Developments Inc an industry leader?</h2>
-                    <div class="stats-holder">
-
-                        <div class="stat-one">
-
-                            <img decoding="async" class="one"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-1.png" />
-                            <img decoding="async" class="two"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-4.png" />
-
-                        </div>
-
-                        <div class="stat-two">
-
-                            <img decoding="async" class="one"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-2.png" />
-                            <img decoding="async" class="two"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-5.png" />
-
-                        </div>
-
-                        <div class="stat-three">
-
-                            <img decoding="async" class="one"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-3.png" />
-                            <img decoding="async" class="two"
-                                src="wp-content/themes/devsavvy/images/stats/h-stat-6.png" />
-
-                        </div>
-
-                    </div>
-
-                    <p style="text-align: center;"><a class="btn" href="mcwhirter/our-story/">Learn More</a>
-                    </p>
-
-
+                    <p style="text-align: center; margin-bottom: -1.50rem;">HDi is working across 
+three continents with, governments, investment entrepreneurs, and private companies <br> to design and develop projects from 50,000 sf to 2,000,000 sf. The cost of those projects would be between<br>
+3 million dollars to 3 billion dollars.</p>
+                    <p style="text-align: center;"><a class="btn" style="text-align: center;"
+                            href="../our-team/">Meet Our Team</a></p>
                 </div>
+            </div>
 
-
-            </section>
-
+</section>
 
 
             <div style="height:70px" aria-hidden="true" class="wp-block-spacer"></div>

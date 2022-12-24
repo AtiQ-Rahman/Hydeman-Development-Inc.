@@ -445,7 +445,7 @@
                             <h1 class="double">Construction Project Management</h1>
                             <div style="clear: both;"></div>
                             <p>
-                            Hydeman Developments Inc can manage all facets of your
+                                Hydeman Developments Inc can manage all facets of your
 commercial real estate project, from inception to conclusion. Our
 Construction Project Management team can help with new
 construction, renovations, expansions, and tenant improvements. By
@@ -504,7 +504,7 @@ and within budget.
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>YOUR LIMITATION IS YOUR IMAGINATION</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO, Hydeman Developments Inc</div>
                         </blockquote>
                     </div>
                 </div>

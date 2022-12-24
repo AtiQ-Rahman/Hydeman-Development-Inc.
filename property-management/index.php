@@ -457,7 +457,7 @@ electrical, mechanical, landscape, health and safety, and security. We
 ensure that all properties adhere to compliance standards and
 maintain routine performance and inspection certificates. In addition,
 we facilitate smooth contact between owners and property managers
-to ensure efficient administration and monitoring.
+to ensure efficient administration and monitoring.HDi Property Management team works hard to bring properties to a high green standard and reducing the carbon foot print.
                             </p>
                         </div>
 
@@ -513,7 +513,7 @@ to ensure efficient administration and monitoring.
                     <div class="mx-auto" style="max-width: 100%;">
                         <blockquote>
                             <strong>YOUR LIMITATION IS YOUR IMAGINATION</strong>
-                            <div class="name">Wayne Hydeman, President and CEO,Hydeman Developments Inc.</div>
+                            <div class="name">Wayne Hydeman, President and CEO, Hydeman Developments Inc</div>
                         </blockquote>
                     </div>
                 </div>
