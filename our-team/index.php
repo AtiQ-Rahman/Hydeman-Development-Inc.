@@ -364,6 +364,13 @@
             font-size: 1.5em;
             line-height: 1.6;
         }
+        .custom-image{
+            width:245px !important;
+            height:300px !important;
+        }
+        .team-member{
+            width:unset !important;
+        }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
         href='../wp-content/plugins/constant-contact-forms/assets/css/style1dd9.css?ver=1.13.0' type='text/css'
@@ -393,7 +400,7 @@
             </div>
         </section>
 
-
+       
         <main>
             <section class="team-members">
                 <div class="container">
@@ -402,7 +409,7 @@
                             <a href="hydeman">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpg"
                                         alt="Wayne Hydeman"/>
 
                                 </div>
@@ -414,7 +421,7 @@
                             <a href="shams">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/shams.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/shams.jpg"
                                         alt="Shams Chowdhury" />
 
                                 </div>
@@ -426,7 +433,7 @@
                             <a href="Wassermann">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/Wasserman.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Wasserman.jpg"
                                         alt="Professor Neil Wassermann" />
 
                                 </div>
@@ -440,7 +447,7 @@
                             <a href="pankaj">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/pankaj.png"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/pankaj.png"
                                         alt="Pankaj Jaiswal" />
 
                                 </div>
@@ -452,7 +459,7 @@
                             <a href="shihab">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/Shihab.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Shihab.jpg"
                                         alt="Chowdhury Shihab Bin Shams" />
 
                                 </div>
@@ -464,7 +471,7 @@
                             <a href="atiq">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/Atiq.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Atiq.jpg"
                                         alt="Md Atiquer Rahman" />
 
                                 </div>
@@ -478,7 +485,7 @@
                             <a href="Ezaz">
                                 <div class="team-member__image">
 
-                                    <img decoding="async" src="../wp-content/uploads/2020/07/Azaz.jpg"
+                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Azaz.jpg"
                                         alt="Md Ezazul Haque" />
 
                                 </div>
