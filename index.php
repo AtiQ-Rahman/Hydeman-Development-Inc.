@@ -423,7 +423,7 @@
                     <div class="home-holder">
                         <div class="h-copy">
                             <h1>Welcome to Hydeman Developments Inc!</h1>
-                            <p>We’re a small company with big opportunities. Award-winning real estate expertise and
+                            <p>We're a small company with big opportunities. Award-winning real estate expertise and
                                 relationships that you can trust.</p>
                         </div>
                         <div class="h-image">
@@ -495,9 +495,9 @@
 
                         <h2 style="text-align: center;">Your Full-Service Global Commercial Partner</h2>
                         <p style="text-align: center; font-weight: 400; max-width: 900px; margin: 0 auto;">Whether
-                            you’re looking for your commercial property, property management service, development
+                            you're looking for your commercial property, property management service, development
                             opportunity, software development, export and import of agriculture and readymade garments -
-                            you’ve come to the right place!</p>
+                            you've come to the right place!</p>
 
 
 
@@ -668,8 +668,8 @@
 
                                         <div>
 
-                                            <p>Our allegiance is to Hydeman Developments Inc. We’ve built a trusting
-                                                relationship and <strong>they’ve given us honest insight</strong> about
+                                            <p>Our allegiance is to Hydeman Developments Inc. We've built a trusting
+                                                relationship and <strong>they've given us honest insight</strong> about
                                                 whether certain opportunities are good financial deals or not.</p>
 
                                         </div>
@@ -729,7 +729,7 @@
                                         <div>
 
                                             <p>Their reputation is impeccable. <strong>They do the right thing</strong>,
-                                                even if it isn’t the easiest option.</p>
+                                                even if it isn't the easiest option.</p>
 
                                         </div>
 

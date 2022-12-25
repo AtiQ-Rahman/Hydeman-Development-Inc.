@@ -405,10 +405,10 @@
                         <div class="hero-holder">
                             <h1>Farmland</h1>
                             <p style="text-align: justify;">
-                            The land of Saskatchewan is nature’s best gift. The high-quality
+                            The land of Saskatchewan is nature's best gift. The high-quality
 cultivation of wheat, lentils and different types of beans has placed
 Saskatchewan as the best province for cultivation. Saskatchewan
-produces 80% of Canada’s durum wheat and 40% of Canada’s non-
+produces 80% of Canada's durum wheat and 40% of Canada's non-
 durum wheat. Saskatchewan grows different types of Red Lentils
 including Robin, Blaze, Crimson, Imax, Redcap, Redberry, Rouleau,
 and Rose town. Green lentil varieties have a greenish cotyledon with
