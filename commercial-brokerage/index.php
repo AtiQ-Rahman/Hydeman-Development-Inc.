@@ -440,11 +440,7 @@
                                     alt="Commercial Brokerage" class="svc-icon" /></p>
                             <h1>Commercial Brokerage</h1>
                             <div style="clear: both;"></div>
-                            <p>The Commercial Brokerage division focuses on office, industrial, retail,
-healthcare, and investment sales. Our brokers help owners market
-their properties by coming up with profitable and effective ways to sell,
-rent, or sublease them. For our clients, we handle every step of the
-facility&#39;s decision-making process and negotiate the best terms.
+                            <p style="text-align: justify;">The Commercial Brokerage division focuses on office, industrial, retail, healthcare, and investment sales. Our brokers help owners market their properties by coming up with profitable and effective ways to sell, rent, or sublease them. For our clients, we handle every step of the facility&#39;s decision-making process and negotiate the best terms.
                             </p>
                         </div>
 

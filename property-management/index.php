@@ -445,19 +445,19 @@
                                     alt="Property Management" /></p>
                             <h1>Property Management</h1>
                             <div style="clear: both;"></div>
-                            <p>Our Property Management team has more than 50 years of expertise
+                            <p style="text-align: justify;">Our Property Management team has more than 50 years of expertise
 and manages industrial, commercial, and retail space. We cultivate
 long-term relationships with our clients and suppliers, which enables
 us to proactively find opportunities to cut costs and boost efficiencies
 for our clients.</p>
-                            <p>
+<p style="text-align: justify;">
                             We partner with architects and engineers with expertise in the design,
 installation, and maintenance of major service areas, such as heating,
 electrical, mechanical, landscape, health and safety, and security. We
 ensure that all properties adhere to compliance standards and
 maintain routine performance and inspection certificates. In addition,
 we facilitate smooth contact between owners and property managers
-to ensure efficient administration and monitoring.HDi Property Management team works hard to bring properties to a high green standard and reducing the carbon foot print.
+to ensure efficient administration and monitoring. HDI Property Management team works hard to bring properties to a high green standard and reducing the carbon foot print.
                             </p>
                         </div>
 

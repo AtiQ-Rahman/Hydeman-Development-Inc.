@@ -444,7 +444,7 @@
                                     alt="Development &amp; Acquisitions" /></p>
                             <h1 class="double">Readymade<br>Garments</h1>
                             <div style="clear: both;"></div>
-                            <p> Hydeman Developments Inc is working with Leading Garments
+                            <p style="text-align: justify;"> Hydeman Developments Inc is working with Leading Garments
 Manufacturers including Apparel Bangla Sourcing Limited of
 Bangladesh to produce various types of clothing for Men, Women and
 Children. We are primarily focusing to produce and import high-quality

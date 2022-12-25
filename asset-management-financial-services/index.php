@@ -445,7 +445,7 @@
                                     alt="Asset Management" /></p>
                             <h1 class="double">Asset Management &#038; Financial Services</h1>
                             <div style="clear: both;"></div>
-                            <p>Hydeman Developments Inc. advises customers to establish strategic strategies and investment recommendations to help them realize their financial objectives. Our Asset Management and Financial Services team possesses specific knowledge necessary to manage assets and remove investor supervision. As asset owners, we recognize the particular issues faced by investors, and we address each asset accordingly. We collaborate with clients to personalize financial reporting and may give comprehensive financial reporting on assets.</p>
+                            <p style="text-align: justify;">Hydeman Developments Inc. advises customers to establish strategic strategies and investment recommendations to help them realize their financial objectives. Our Asset Management and Financial Services team possesses specific knowledge necessary to manage assets and remove investor supervision. As asset owners, we recognize the particular issues faced by investors, and we address each asset accordingly. We collaborate with clients to personalize financial reporting and may give comprehensive financial reporting on assets.</p>
                         </div>
 
 

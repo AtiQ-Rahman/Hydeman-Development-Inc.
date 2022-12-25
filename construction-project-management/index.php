@@ -444,7 +444,7 @@
                                     alt="Construction Project Management" /></p>
                             <h1 class="double">Construction Project Management</h1>
                             <div style="clear: both;"></div>
-                            <p>
+                            <p style="text-align: justify;">
                                 Hydeman Developments Inc can manage all facets of your
 commercial real estate project, from inception to conclusion. Our
 Construction Project Management team can help with new

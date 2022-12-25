@@ -404,7 +404,7 @@
 
                         <div class="hero-holder">
                             <h1>Farmland</h1>
-                            <p>
+                            <p style="text-align: justify;">
                             The land of Saskatchewan is nature’s best gift. The high-quality
 cultivation of wheat, lentils and different types of beans has placed
 Saskatchewan as the best province for cultivation. Saskatchewan

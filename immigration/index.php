@@ -404,7 +404,7 @@
 
                         <div class="hero-holder">
                             <h1>Immigration</h1>
-                        <p>
+                            <p style="text-align: justify;">
                         Canada is the most suitable and naturally gifted country in the world.
 The Province of Saskatchewan is the dream of the peace-loving
 people of the world. Besides Federal Government, the provincial
@@ -418,7 +418,7 @@ planning to undertake similar projects in British Colombia soon. The
 Hydeman team will provide all types of assistance to aspirant
 immigrants for successful immigration to Canada. We work with
 immigration consultants and legal teams to provide migration hopefuls
-with quality assistance)
+with quality assistance.
                         </p>    
                         </div>
 
