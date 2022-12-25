@@ -507,11 +507,11 @@
                     </div>
                     <div class="hero-content">
                         <h1>Our Team</h1>
-                        <p>At Hydeman Developments Inc, we are driven by shared standards of
+                        <p style="text-align: justify;">At Hydeman Developments Inc, we are driven by shared standards of
 excellence, guided by the same integrity and motivated by a common
 ambition to improve quality of life.
                         </p>
-                        <p>Hydeman's partners and associates are available 24/7 to help you
+                        <p style="text-align: justify;">Hydeman's partners and associates are available 24/7 to help you
 navigate the unique opportunities and challenges of the commercial
 real estate market. You can rely on us for wise counsel throughout the
 entire lifecycle of your property! HDI team with 20 years of experience is proud to participate in bringing deals together.</p>
