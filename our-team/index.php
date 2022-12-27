@@ -365,11 +365,14 @@
             line-height: 1.6;
         }
         .custom-image{
-            width:245px !important;
-            height:300px !important;
+            width:200px;
+            height:210px;
+            background-repeat:no-repeat;
+            background-position:center top;
+            margin:auto
         }
         .team-member{
-            width:unset !important;
+            width:320px !important;
         }
     </style>
     <link rel='stylesheet' id='ctct_form_styles-css'
@@ -404,13 +407,13 @@
         <main>
             <section class="team-members">
                 <div class="container">
-                    <div class="team-members-list">
+                    <div class="team-members-list" style="gap:0px 0px !important;margin-top:40px">
                         <div class="team-member">
-                            <a href="hydeman">
+                            <a href="hydeman" style="text-align:center">
                                 <div class="team-member__image">
-
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpg"
-                                        alt="Wayne Hydeman"/>
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Hydeman.jpeg');"></div>
+                                    <!-- <img decoding="async" src="../wp-content/uploads/2020/07/Hydeman.jpeg"
+                                        alt="Wayne Hydeman"/> -->
 
                                 </div>
                                 <p class="team-member__name">Wayne Hydeman</p>
@@ -418,11 +421,11 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="shams">
+                            <a href="shams" style="text-align:center;">
                                 <div class="team-member__image">
-
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/shams.jpg"
-                                        alt="Shams Chowdhury" />
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Chowdhury.jpeg');"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/shams.jpg"
+                                        alt="Shams Chowdhury" /> -->
 
                                 </div>
                                 <p class="team-member__name">Shams Chowdhury</p>
@@ -430,11 +433,12 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="Wassermann">
+                            <a href="Wassermann" style="text-align:center;">
                                 <div class="team-member__image">
 
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Wasserman.jpg"
-                                        alt="Professor Neil Wassermann" />
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Neil.jpeg');"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Wasserman.jpg"
+                                        alt="Professor Neil Wassermann" /> -->
 
                                 </div>
                                 <p class="team-member__name">Professor Neil Wasserman</p>
@@ -442,13 +446,13 @@
                             </a>
                         </div>
                     </div>
-                    <div class="team-members-list"> 
+                    <div class="team-members-list" style="gap:0px 0px !important;margin-top:40px"> 
                         <div class="team-member">
-                            <a href="pankaj">
-                                <div class="team-member__image">
-
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/pankaj.png"
-                                        alt="Pankaj Jaiswal" />
+                            <a href="pankaj" style="text-align:center;">
+                                <div class="team-member__image" >
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Jaiswal.png');background-size:cover"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/pankaj.png"
+                                        alt="Pankaj Jaiswal" /> -->
 
                                 </div>
                                 <p class="team-member__name">Pankaj Jaiswal</p>
@@ -456,37 +460,40 @@
                             </a>
                         </div>
                         <div class="team-member">
-                            <a href="shihab">
+                            <a href="shihab" style="text-align:center;">
                                 <div class="team-member__image">
 
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Shihab.jpg"
-                                        alt="Chowdhury Shihab Bin Shams" />
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Shihab.jpg');background-size:cover"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Shihab.jpg"
+                                        alt="Chowdhury Shihab Bin Shams" /> -->
 
                                 </div>
                                 <p class="team-member__name">Chowdhury Shihab Bin Shams</p>
                                 <p class="team-member__title">Engineer, Team Leader, USA</p>
                             </a>
                         </div>
+                        
+                    </div>
+                    <div class="team-members-list" style="gap:0px 0px !important;margin-top:35px">
                         <div class="team-member">
-                            <a href="atiq">
+                            <a href="atiq" style="text-align:center;">
                                 <div class="team-member__image">
 
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Atiq.jpg"
-                                        alt="Md Atiquer Rahman" />
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Atiq.jpeg');background-size:cover"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Atiq.jpg"
+                                        alt="Md Atiquer Rahman" /> -->
 
                                 </div>
                                 <p class="team-member__name">Md Atiquer Rahman</p>
                                 <p class="team-member__title">Head of IT, Team Bangladesh</p>
                             </a>
-                        </div>
-                    </div>
-                    <div class="team-members-list"> 
+                        </div> 
                         <div class="team-member">
-                            <a href="Ezaz">
+                            <a href="Ezaz" style="text-align:center;">
                                 <div class="team-member__image">
-
-                                    <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Azaz.jpg"
-                                        alt="Md Ezazul Haque" />
+                                    <div class="custom-image" style="background-image:url('../wp-content/uploads/2020/07/Azaz.jpeg');background-size:cover"></div>
+                                    <!-- <img class="custom-image" decoding="async" src="../wp-content/uploads/2020/07/Azaz.jpg"
+                                        alt="Md Ezazul Haque" /> -->
 
                                 </div>
                                 <p class="team-member__name">Azazul Haque Azaz</p>
